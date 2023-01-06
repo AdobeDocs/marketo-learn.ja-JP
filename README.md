@@ -1,8 +1,8 @@
 ---
-source-git-commit: 61eb7a8264c77c5ee147c76952983f4f67938d7b
+source-git-commit: 33fc78768c3664f9ed9b608c260414b16f37613a
 workflow-type: tm+mt
-source-wordcount: '430'
-ht-degree: 91%
+source-wordcount: '424'
+ht-degree: 86%
 
 ---
 # 記事の投稿
@@ -15,13 +15,13 @@ ht-degree: 91%
 
 ## アドビのコンテンツへの投稿について
 
-[アドビドキュメントのコントリビューターガイド](https://docs.adobe.com/content/help/ja-JP/contributor/contributor-guide/introduction.html)を参照してください。
+[アドビドキュメントのコントリビューターガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)を参照してください。
 
 投稿方法は、誰がどのような変更を投稿するかに応じて異なります。
 
 ### 軽微な変更
 
-善意で軽微な更新を行う場合は、その記事にアクセスして、「**編集**」リンクをクリックすると、その記事の GitHub ソースに移動します。その後、GitHub UI を使用して更新を行います。詳しくは、一般的な[アドビドキュメントのコントリビューターガイド](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)を参照してください。
+善意で軽微な更新を行う場合は、その記事にアクセスして、「**編集**」リンクをクリックすると、その記事の GitHub ソースに移動します。その後、GitHub UI を使用して更新を行います。詳しくは、一般的な[アドビドキュメントのコントリビューターガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)を参照してください。
 
 このリポジトリのドキュメントおよびコード例について送信した軽微な修正または説明には、アドビの利用条件が適用されます。
 
@@ -43,7 +43,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 コミュニティの投稿者は、GitHub UI を使用して、基本的な編集をしたり、リポジトリをフォークしたりして、大きな貢献をすることができます。
 
-詳しくは、[アドビドキュメントのコントリビューターガイド](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)を参照してください。
+詳しくは、[アドビドキュメントのコントリビューターガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)を参照してください。
 
 ## トピックをフォーマットするためのマークダウンの使用方法
 

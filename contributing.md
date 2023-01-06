@@ -1,5 +1,5 @@
 ---
-source-git-commit: 1a71a11a686ca3aa9d6f7451f394aa1f6a40e653
+source-git-commit: 33fc78768c3664f9ed9b608c260414b16f37613a
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ## 投稿者ガイドドキュメント
 
-[投稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja)を参照してください。
+[投稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)を参照してください。
 
 ## ご質問がある場合
 
