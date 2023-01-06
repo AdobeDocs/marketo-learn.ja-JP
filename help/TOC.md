@@ -1,11 +1,11 @@
 ---
-user-guide-title: Marketo EngageTutorials
-user-guide-description: Adobe Marketo Engageのビデオとチュートリアルのコレクションです。
-breadcrumb-title: Marketo EngageTutorials
-source-git-commit: 03c055f28897708262f82ea9addf0b59b691c735
+user-guide-title: Marketo Engage チュートリアル
+user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
+breadcrumb-title: Marketo Engage チュートリアル
+source-git-commit: 0684c5bdea44a6852e7b889eeb3c6ab11419da96
 workflow-type: tm+mt
-source-wordcount: '187'
-ht-degree: 5%
+source-wordcount: '190'
+ht-degree: 14%
 
 ---
 
@@ -77,3 +77,5 @@ ht-degree: 5%
 + インスタンス管理 {#instance-management}
    + [ベストプラクティス](instance-management/best-practice-learn.md)
    + [ベストプラクティスのウォークスルー](instance-management/best-practice-watch.md)
++ イベント {#events}
+   + [リードスコア](events/lead-scoring.md)
