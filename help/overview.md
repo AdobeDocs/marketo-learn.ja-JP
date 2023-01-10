@@ -1,11 +1,11 @@
 ---
 title: Marketo Engageチュートリアル
-description: 次のビデオチュートリアルを視聴する： [!DNL Marketo Engage]. マーケティング自動化機能の使用方法などに関する理解を深めます。
+description: 次のビデオチュートリアルを視聴する： [!DNL Marketo Engage]. マーケティング自動化機能の使用方法などに関する理解を深めましょう。
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
 source-git-commit: 554b8a3eb87f89c2bb46fc8af5aaf1c66114a4d2
 workflow-type: tm+mt
 source-wordcount: '175'
-ht-degree: 1%
+ht-degree: 20%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 1%
 最近追加された項目 [!DNL Marketo Engage] チュートリアル：
 
 * **[[!UICONTROL Dynamic Chat]  チュートリアル](dynamic-chat/dynamic-chat-overview.md)**
-   _これらのチュートリアルとドキュメントを使用して、Dynamic Chat を使用してパーソナライズされた会話を作成する方法を理解しやすくします。_
+   _これらのチュートリアルとドキュメントを使用すると、Dynamic Chat を使用してパーソナライズされた会話を作成する方法をよく理解できます。_
 
 * **[[!DNL Sales Insight Actions] チュートリアル](/help/sales-insight-actions/overview.md)**
    _用途 [!UICONTROL Sales Insight アクション] マーケティングを活用したインテリジェンスとエンゲージメントツールを 1 つのワークフロー内で統合し、見込み取り組みを加速します。_
