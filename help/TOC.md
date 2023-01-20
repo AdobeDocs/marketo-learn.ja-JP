@@ -2,10 +2,10 @@
 user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
-source-git-commit: 5db8b7cf5855df56e9fca79ca3a0b3fed3300537
+source-git-commit: 9f0328f2770b66a1e0695772a35c698c4268906d
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 14%
+source-wordcount: '196'
+ht-degree: 13%
 
 ---
 
@@ -14,8 +14,6 @@ ht-degree: 14%
 
 + [[!DNL Marketo Engage] チュートリアル](overview.md)
 + クロスチャネルマーケティング {#cross-channel-marketing}
-   + [イベント](email-marketing/events-learn.md)
-   + [イベントのウォークスルー](email-marketing/events-watch.md)
    + [モバイルマーケティングの統合](cross-channel-marketing/mobile-marketing-learn.md)
    + [モバイルマーケティングのウォークスルー](cross-channel-marketing/mobile-marketing-watch.md)
    + [ソーシャルマーケティング](cross-channel-marketing/social-marketing-learn.md)
@@ -24,10 +22,8 @@ ht-degree: 14%
    + [Web パーソナライゼーションのウォークスルー](cross-channel-marketing/web-personalization-watch.md)
    + [SEO と PPC](cross-channel-marketing/seo-and-ppc-learn.md)
    + [SEO と PPC のウォークスルー](cross-channel-marketing/seo-and-ppc-watch.md)
-   + [ウェビナー](email-marketing/webinar-learn.md)
-   + [ウェビナーウォークスルー](email-marketing/webinar-watch.md)
 + 動的チャット {#dynamic-chat}
-   + [[!UICONTROL Dynamic Chat] チュートリアル](dynamic-chat/dynamic-chat-overview.md)
+   + [Dynamic Chat チュートリアル](dynamic-chat/dynamic-chat-overview.md)
    + [製品ツアー](dynamic-chat/product-tour.md)
    + [セットアップとインストール](dynamic-chat/setup.md)
    + [Marketo統合](dynamic-chat/marketo-integration.md)
