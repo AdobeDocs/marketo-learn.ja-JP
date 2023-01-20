@@ -2,9 +2,9 @@
 user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
-source-git-commit: 0684c5bdea44a6852e7b889eeb3c6ab11419da96
+source-git-commit: 5db8b7cf5855df56e9fca79ca3a0b3fed3300537
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '202'
 ht-degree: 14%
 
 ---
@@ -13,31 +13,6 @@ ht-degree: 14%
 # [!DNL Marketo Engage] チュートリアル {#tutorials}
 
 + [[!DNL Marketo Engage] チュートリアル](overview.md)
-+ 基本 {#fundamentals}
-   + [目標と戦略](fundamentals/goals-and-strategy-learn.md)
-   + [組織構造](fundamentals/organizational-structure-learn.md)
-   + [コンテンツマーケティング](fundamentals/content-marketing-learn.md)
-   + [購入者のペルソナ](fundamentals/buyer-personas-learn.md)
-+ 電子メールマーケティング {#email-marketing}
-   + [予定メール](email-marketing/scheduled-email-learn.md)
-   + [スケジュール済みメールのウォークスルー](email-marketing/scheduled-email-watch.md)
-   + [パーソナライズされたニュースレター](email-marketing/personalized-newsletter-learn.md)
-   + [パーソナライズされたニュースレターのウォークスルー](email-marketing/personalized-newsletter-watch.md)
-   + [ゲーテッドコンテンツオファー](email-marketing/gated-content-offer-learn.md)
-   + [ゲーテッドコンテンツオファーのウォークスルー](email-marketing/gated-content-offer-watch.md)
-   + [A/B テスト](email-marketing/ab-testing-learn.md)
-   + [A/B テストのウォークスルー](email-marketing/ab-testing-watch.md)
-   + [ランディングページ ](email-marketing/landing-pages-learn.md)
-   + [ランディングページのウォークスルー](email-marketing/landing-pages-watch.md)
-   + [フォーム](email-marketing/forms-learn.md)
-   + [Formsウォークスルー](email-marketing/forms-watch.md)
-   + [E メールの配信品質](email-marketing/email-deliverability-learn.md)
-   + [E メール配信品質のウォークスルー](email-marketing/email-deliverability-watch.md)
-   + [トリガー済みメール](email-marketing/triggered-email-learn.md)
-   + [トリガーされたメールのウォークスルー](email-marketing/triggered-email-watch.md)
-   + [[!UICONTROL リードの育成]](email-marketing/lead-nuturing-learn.md)
-   + [動的および予測コンテンツ](email-marketing/dynamic-and-predictive-content-learn.md)
-   + [電子メールボットアクティビティのフィルタリング — 設定](filtering-email-bot-activities/setup.md)
 + クロスチャネルマーケティング {#cross-channel-marketing}
    + [イベント](email-marketing/events-learn.md)
    + [イベントのウォークスルー](email-marketing/events-watch.md)
@@ -61,21 +36,51 @@ ht-degree: 14%
    + [会議の予約](dynamic-chat/meeting-booking.md)
    + [15 分で生きる](dynamic-chat/go-live-in-15-minutes.md)
    + [会話にPDFを埋め込む](dynamic-chat/document-cloud-integration.md)
-+ セールスインサイトアクション {#sales-insight-actions}
-   + [概要](sales-insight-actions/overview.md)
-   + [セールスインサイトアクションの概要](sales-insight-actions/sales-insight-actions-overview.md)
-   + [セールスインサイトアクションインスタンスへのアクセス](sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
-   + [セールスアクティビティのログの設定先 [!DNL Salesforce]](sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
-+ リードとデータ管理 {#lead-and-data-management}
-   + [リードスコアリング](lead-and-data-management/lead-scoring-learn.md)
-   + [リードスコア付けのウォークスルー](lead-and-data-management/lead-scoring-watch.md)
-   + [購読センター](lead-and-data-management/subscription-center-learn.md)
-   + [購読センターのウォークスルー](lead-and-data-management/subscription-center-watch.md)
-   + [CRM 同期](lead-and-data-management/crm-sync-learn.md)
-   + [[!UICONTROL リードのライフサイクル]](lead-and-data-management/lead-lifecycle-learn.md)
-   + [リードライフサイクルのウォークスルー](lead-and-data-management/lead-lifecycle-watch.md)
++ 電子メールマーケティング {#email-marketing}
+   + [予定メール](email-marketing/scheduled-email-learn.md)
+   + [スケジュール済みメールのウォークスルー](email-marketing/scheduled-email-watch.md)
+   + [パーソナライズされたニュースレター](email-marketing/personalized-newsletter-learn.md)
+   + [パーソナライズされたニュースレターのウォークスルー](email-marketing/personalized-newsletter-watch.md)
+   + [ゲーテッドコンテンツオファー](email-marketing/gated-content-offer-learn.md)
+   + [ゲーテッドコンテンツオファーのウォークスルー](email-marketing/gated-content-offer-watch.md)
+   + [A/B テスト](email-marketing/ab-testing-learn.md)
+   + [A/B テストのウォークスルー](email-marketing/ab-testing-watch.md)
+   + [ランディングページ ](email-marketing/landing-pages-learn.md)
+   + [ランディングページのウォークスルー](email-marketing/landing-pages-watch.md)
+   + [フォーム](email-marketing/forms-learn.md)
+   + [Formsウォークスルー](email-marketing/forms-watch.md)
+   + [E メールの配信品質](email-marketing/email-deliverability-learn.md)
+   + [E メール配信品質のウォークスルー](email-marketing/email-deliverability-watch.md)
+   + [トリガー済みメール](email-marketing/triggered-email-learn.md)
+   + [トリガーされたメールのウォークスルー](email-marketing/triggered-email-watch.md)
+   + [リードの育成](email-marketing/lead-nuturing-learn.md)
+   + [動的および予測コンテンツ](email-marketing/dynamic-and-predictive-content-learn.md)
+   + [電子メールボットアクティビティのフィルタリング — 設定](filtering-email-bot-activities/setup.md)
++ イベント {#events}
+   + [イベント](events/events-learn.md)
+   + [イベントのウォークスルー](events/events-watch.md)
+   + [効果的なインタラクティブウェビナーのデザイン](events/design-an-effective-interactive-webinar.md)
+   + [ウェビナー](events/webinar-learn.md)
+   + [ウェビナーウォークスルー](events/webinar-watch.md)
++ 基本 {#fundamentals}
+   + [目標と戦略](fundamentals/goals-and-strategy-learn.md)
+   + [組織構造](fundamentals/organizational-structure-learn.md)
+   + [コンテンツマーケティング](fundamentals/content-marketing-learn.md)
+   + [購入者のペルソナ](fundamentals/buyer-personas-learn.md)
 + インスタンス管理 {#instance-management}
    + [ベストプラクティス](instance-management/best-practice-learn.md)
    + [ベストプラクティスのウォークスルー](instance-management/best-practice-watch.md)
-+ イベント {#events}
-   + [リードスコア](events/lead-scoring.md)
++ リードとデータ管理 {#lead-and-data-management}
+   + [リードスコアリング](lead-and-data-management/lead-scoring-learn.md)
+   + [リードスコア付けのウォークスルー](lead-and-data-management/lead-scoring-watch.md)
+   + [リードスコア付けの例](lead-and-data-management/lead-scoring.md)
+   + [購読センター](lead-and-data-management/subscription-center-learn.md)
+   + [購読センターのウォークスルー](lead-and-data-management/subscription-center-watch.md)
+   + [CRM 同期](lead-and-data-management/crm-sync-learn.md)
+   + [リードのライフサイクル](lead-and-data-management/lead-lifecycle-learn.md)
+   + [リードライフサイクルのウォークスルー](lead-and-data-management/lead-lifecycle-watch.md)
++ Sales Insight アクション {#sales-insight-actions}
+   + [概要](sales-insight-actions/overview.md)
+   + [Sales Insight アクションの概要](sales-insight-actions/sales-insight-actions-overview.md)
+   + [Sales Insight Actions インスタンスへのアクセス](sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
+   + [セールスアクティビティのログの設定先 [!DNL Salesforce]](sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
