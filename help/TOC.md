@@ -2,9 +2,9 @@
 user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
-source-git-commit: 9f0328f2770b66a1e0695772a35c698c4268906d
+source-git-commit: d7ba42d21f09ed3793b0cc0b2da0b5b760b21fa1
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '205'
 ht-degree: 13%
 
 ---
@@ -69,7 +69,6 @@ ht-degree: 13%
 + リードとデータ管理 {#lead-and-data-management}
    + [リードスコアリング](lead-and-data-management/lead-scoring-learn.md)
    + [リードスコア付けのウォークスルー](lead-and-data-management/lead-scoring-watch.md)
-   + [リードスコア付けの例](lead-and-data-management/lead-scoring.md)
    + [購読センター](lead-and-data-management/subscription-center-learn.md)
    + [購読センターのウォークスルー](lead-and-data-management/subscription-center-watch.md)
    + [CRM 同期](lead-and-data-management/crm-sync-learn.md)
@@ -80,3 +79,6 @@ ht-degree: 13%
    + [Sales Insight アクションの概要](sales-insight-actions/sales-insight-actions-overview.md)
    + [Sales Insight Actions インスタンスへのアクセス](sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [セールスアクティビティのログの設定先 [!DNL Salesforce]](sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
++ 非表示 {#hidden}
+   + [Marketoと Mocas のリードスコアリング](events/marketo-and-mochas/lead-scoring.md)
+   + [Marketoと Mocas Marketo Measureのアトリビューション](events/marketo-and-mochas/attribution.md)
