@@ -1,8 +1,9 @@
 ---
 title: Dynamic Chat チュートリアル
 description: Adobe Experience League での Dynamic Chat について説明します。これらのチュートリアルとドキュメントを使用すると、Dynamic Chat を使用してパーソナライズされた会話を作成する方法をよく理解できます。
+doc-type: overview-page
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
-source-git-commit: 554b8a3eb87f89c2bb46fc8af5aaf1c66114a4d2
+source-git-commit: 5a65ad7660a368a10e31b76ec81594304c304cc9
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 13%

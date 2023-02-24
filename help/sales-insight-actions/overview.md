@@ -1,11 +1,12 @@
 ---
 title: Sales Insight アクションTutorials
 description: 用途 [!UICONTROL Sales Insight アクション] マーケティングを活用したインテリジェンスとエンゲージメントツールを 1 つのワークフロー内で統合し、見込み取り組みを加速します。
+doc-type: overview-page
 exl-id: fac23fde-1fc8-4710-a5f5-2e19a2618d6d
-source-git-commit: 61eb7a8264c77c5ee147c76952983f4f67938d7b
+source-git-commit: 5a65ad7660a368a10e31b76ec81594304c304cc9
 workflow-type: tm+mt
 source-wordcount: '277'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
@@ -17,7 +18,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->この機能は現在、段階的なロールアウト中です。 カスタマーサクセスマネージャーまたは電子メールにお問い合わせください `sales-insights(at)adobe(dot)com` をクリックしてアクセスをリクエストします。
+>この機能は現在、段階的なロールアウト中です。カスタマーサクセスマネージャーまたは `sales-insights(at)adobe(dot)com` にメールでお問い合わせいただき、アクセスをリクエストしてください。
 
 ## 注目のTutorials {#featured-tutorials}
 
@@ -44,7 +45,7 @@ ht-degree: 0%
 <tr>
 <td>
 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.html"><img alt="Sales Insight アクション機能のサムネイル画像の概要" src="assets/sales-insight-actions-feature-overview-thumb.png" /></a>
-<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.html"><strong>Sales Insight アクション機能の概要</strong></a></div>
+<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.html"><strong>Sales Insight Actions 機能の概要</strong></a></div>
 <p><em>マーケティングを活用したインテリジェンスとエンゲージメントツールを使用して、予測する取り組みを加速します。</em></p>
 </td>
 <td>
@@ -54,7 +55,7 @@ ht-degree: 0%
 </td>
 <td>
 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.html"><img alt="アクションのサムネール画像データ同期に関する FAQ" src="assets/actions-data-sync-faq-thumb.png" /></a>
-<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.html"><strong>アクションデータ同期の FAQ</strong></a></div>
+<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.html"><strong>アクションデータ同期に関する FAQ</strong></a></div>
 <p><em>データ統合の同期の仕組みに関するよくある質問 (FAQ) です。</em></p>
 </td>
 </tr>
