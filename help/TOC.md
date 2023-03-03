@@ -2,9 +2,9 @@
 user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
-source-git-commit: 367fa4837c33b7efc6ad49d5c262f33ca2face10
+source-git-commit: 9a8c7a218fc59bb80941881246864c87ff25c55a
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '205'
 ht-degree: 13%
 
 ---
@@ -82,4 +82,3 @@ ht-degree: 13%
 + 非表示 {#hidden}
    + [Marketoと Mocas のリードスコアリング](event-recordings/marketo-and-mochas/lead-scoring.md)
    + [Marketoと Mocas Marketo Measureのアトリビューション](event-recordings/marketo-and-mochas/attribution.md)
-   + [Adobe Marketo Engageコンテンツをスケーラブルにする方法](event-recordings/templates-tokens-teamwork.md)
