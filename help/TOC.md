@@ -2,10 +2,10 @@
 user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
-source-git-commit: aec1c347ee9aefbe4f022cbb5e14cbd222828d4a
+source-git-commit: c80c10f57e7f3679a90251251f31ebdc1b271713
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 12%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -38,7 +38,6 @@ ht-degree: 12%
    + [動的および予測コンテンツ](email-marketing/dynamic-and-predictive-content-learn.md)
    + [電子メールボットアクティビティのフィルタリング — 設定](filtering-email-bot-activities/setup.md)
 + クロスチャネルマーケティング {#cross-channel-marketing}
-   + [イベントのウォークスルー](events/events-watch.md)
    + [Formsウォークスルー](email-marketing/forms-watch.md)
    + [モバイルマーケティングの統合](cross-channel-marketing/mobile-marketing-learn.md)
    + [モバイルマーケティングのウォークスルー](cross-channel-marketing/mobile-marketing-watch.md)
@@ -46,8 +45,6 @@ ht-degree: 12%
    + [SEO と PPC のウォークスルー](cross-channel-marketing/seo-and-ppc-watch.md)
    + [ソーシャルマーケティング](cross-channel-marketing/social-marketing-learn.md)
    + [ソーシャルマーケティングのウォークスルー](cross-channel-marketing/social-marketing-watch.md)
-   + [ウェビナー](events/webinar-learn.md)
-   + [ウェビナーウォークスルー](events/webinar-watch.md)
    + [Web パーソナライゼーション](cross-channel-marketing/web-personalization-learn.md)
    + [Web パーソナライゼーションのウォークスルー](cross-channel-marketing/web-personalization-watch.md)
 + 動的チャット {#dynamic-chat}
@@ -77,7 +74,10 @@ ht-degree: 12%
    + [ベストプラクティス](instance-management/best-practice-learn.md)
    + [ベストプラクティスのウォークスルー](instance-management/best-practice-watch.md)
 + イベント {#events}
+   + [イベントのウォークスルー](events/events-watch.md)
    + [イベントプログラムの作成](events/events-learn.md)
+   + [ウェビナー](events/webinar-learn.md)
+   + [ウェビナーウォークスルー](events/webinar-watch.md)
    + [効果的なインタラクティブウェビナーのデザイン](events/design-an-effective-interactive-webinar.md)
 + 非表示 {#hidden}
    + [Marketoと Mocas のリードスコアリング](event-recordings/marketo-and-mochas/lead-scoring.md)
