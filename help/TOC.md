@@ -2,10 +2,10 @@
 user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
-source-git-commit: c5b64aee7dad048693b846c65c32f215a767ba29
+source-git-commit: 534c5bdc8597e2b9b780218c81af48ce1b359b5b
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 13%
+source-wordcount: '214'
+ht-degree: 12%
 
 ---
 
@@ -57,6 +57,12 @@ ht-degree: 13%
    + [会議の予約](dynamic-chat/meeting-booking.md)
    + [15 分で生きる](dynamic-chat/go-live-in-15-minutes.md)
    + [会話にPDFを埋め込む](dynamic-chat/document-cloud-integration.md)
+   + [ストリームデザイナーで検索](dynamic-chat/search-in-stream-designer.md)
+   + [推測される属性のキャプチャ](dynamic-chat/capture-inferred-attributes.md)
+   + [ダイアログのプレビュー](dynamic-chat/dialogue-preview.md)
+   + [エンゲージメントレポート](dynamic-chat/engagement-report.md)
+   + [静的コンテンツのグローバル化](dynamic-chat/globalization-of-static-content.md)
+   + [役割と権限](dynamic-chat/roles-and-permissions.md)
 + Sales Insight アクション {#sales-insight-actions}
    + [概要](sales-insight-actions/overview.md)
    + [Sales Insight アクションの概要](sales-insight-actions/sales-insight-actions-overview.md)
