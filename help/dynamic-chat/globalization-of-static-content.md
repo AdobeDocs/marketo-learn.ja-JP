@@ -7,7 +7,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-03-20T00:00:00Z
 jira: KT-12966
 thumbnail: 3416924.jpeg
-source-git-commit: 40e21085caf5a23f98607d20930976d1f6fdb469
+source-git-commit: 2d78284e9263654ed23c2e791beaa19197e1c7fe
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # 静的コンテンツのグローバル化
 
-英語以外のダイアログを作成する方法を既に知っている可能性があります ( 作成しない場合は [ここ](https://nation.marketo.com/t5/dynamic-chat-discussion/design-non-english-language-conversations-in-dynamic-chat/m-p/324317#M39)){target=_blank}) をクリックします。 これで、選択した言語に合わせて静的/システムコンテンツをパーソナライズすることもできます。
+英語以外のダイアログを作成する方法を既に知っている可能性があります ( 作成しない場合は [ここ](https://nation.marketo.com/t5/dynamic-chat-discussion/design-non-english-language-conversations-in-dynamic-chat/m-p/324317#M39)) をクリックします。 これで、選択した言語に合わせて静的/システムコンテンツをパーソナライズすることもできます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416924/?quality=12&learn=on)
 
