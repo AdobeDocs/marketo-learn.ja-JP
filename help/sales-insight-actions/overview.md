@@ -3,7 +3,7 @@ title: Sales Insight アクションTutorials
 description: 用途 [!UICONTROL Sales Insight アクション] マーケティングを活用したインテリジェンスとエンゲージメントツールを 1 つのワークフロー内で統合し、見込み取り組みを加速します。
 doc-type: overview-page
 exl-id: fac23fde-1fc8-4710-a5f5-2e19a2618d6d
-source-git-commit: 5a65ad7660a368a10e31b76ec81594304c304cc9
+source-git-commit: 9bba0f24a492fdd5b21b30f605498b7519cd8200
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 10%
@@ -49,8 +49,8 @@ ht-degree: 10%
 <p><em>マーケティングを活用したインテリジェンスとエンゲージメントツールを使用して、予測する取り組みを加速します。</em></p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.html"><img alt="のサムネール画像 [!DNL Sales Insight Actions] ユーザーオンボーディングガイド" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
-<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.html"><strong>[!DNL Sales Insight Actions] ユーザーオンボーディングガイド</strong></a></div>
+<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><img alt="のサムネール画像 [!DNL Sales Insight Actions] ユーザーオンボーディングガイド" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
+<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><strong>[!DNL Sales Insight Actions] ユーザーオンボーディングガイド</strong></a></div>
 <p><em>新しいユーザーが作業を開始する際に従う必要がある手順を説明します。</em></p>
 </td>
 <td>
