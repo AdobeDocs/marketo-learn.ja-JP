@@ -2,7 +2,7 @@
 user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
-source-git-commit: 49cb28338f1b0701f9c1c6df334435d59961ef4d
+source-git-commit: 6c8e6e72de48b4af69ec0f3443bae732a229ef15
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 13%
@@ -39,7 +39,7 @@ ht-degree: 13%
    + [トリガーされたメールのウォークスルー](/help/email-marketing/triggered-email-watch.md)
    + [リードの育成](/help/email-marketing/lead-nuturing-learn.md)
    + [動的および予測コンテンツ](/help/email-marketing/dynamic-and-predictive-content-learn.md)
-   + [電子メールボットアクティビティのフィルタリング — 設定](filtering-email-bot-activities/setup.md)
+   + [電子メールボットアクティビティのフィルタリング — 設定](/help/filtering-email-bot-activities/setup.md)
 + クロスチャネルマーケティング {#cross-channel-marketing}
    + [Formsウォークスルー](/help/email-marketing/forms-watch.md)
    + [モバイルマーケティングの統合](/help/cross-channel-marketing/mobile-marketing-learn.md)
