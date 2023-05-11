@@ -1,20 +1,26 @@
 ---
-title: イベントプログラムの作成方法
-description: Marketoで事前に作成されたプログラムに基づく展示会イベントプログラムの作成手順をご覧ください。
+title: イベントプログラムの作成
+description: Marketoで事前に作成されたプログラムに基づく展示会イベントプログラムを作成する方法を説明します。
 role: User
 level: Beginner
 kt: 10754
 thumbnail: 345473.jpeg
 exl-id: 0cf8cd90-04eb-486b-aea6-10c6b8f62298
-source-git-commit: 5db8b7cf5855df56e9fca79ca3a0b3fed3300537
+source-git-commit: 2e074e845657a0841e762dc3d7f8358e17a4b720
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
-# イベントプログラムの作成方法
+# イベントプログラムの作成
 
-Marketoで事前に作成されたプログラムに基づく展示会イベントプログラムの作成手順をご覧ください。
+Marketoで事前に作成されたプログラムに基づく展示会イベントプログラムを作成する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345473/?quality=12&learn=on)
+
+## その他のリソース
+
+イベントプログラムの作成方法の詳細については、製品ガイドを参照してください。
+
+* [ 新しいイベントプログラムの作成ドキュメント](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.html?lang=en)

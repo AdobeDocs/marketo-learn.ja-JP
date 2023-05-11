@@ -1,20 +1,20 @@
 ---
-title: ウェビナープログラムの作成および実行方法
-description: ウェビナーの作成およびMarketoからの管理手順を確認します。
+title: ウェビナープログラムの作成と実行
+description: ウェビナーを作成し、Marketoから管理する方法を説明します。
 role: User
 level: Beginner
 kt: 10760
 thumbnail: 345477.jpeg
 exl-id: 06757667-eae0-41d8-ab0d-a70759f6532c
-source-git-commit: 5db8b7cf5855df56e9fca79ca3a0b3fed3300537
+source-git-commit: 2e074e845657a0841e762dc3d7f8358e17a4b720
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '34'
 ht-degree: 0%
 
 ---
 
-# ウェビナープログラムの作成および実行方法
+# ウェビナープログラムの作成と実行
 
-ウェビナーの作成およびMarketoからの管理手順を確認します。
+ウェビナーを作成し、Marketoから管理する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345477/?quality=12&learn=on)
