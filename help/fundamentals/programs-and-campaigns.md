@@ -3,8 +3,10 @@ title: Marketoのプログラムとキャンペーンについて
 description: コンテンツマーケティング戦略を策定し、オーディエンスを惹きつけ、獲得し、惹きつけます。
 role: User
 level: Beginner
+kt: 13203
+thumbnail: 3418042.jpg
 exl-id: 3420976b-d64f-4afe-8ef3-6f8cfd9858fe
-source-git-commit: f93fceaee1acb03fa8b0c3da6564dd48f5f2448f
+source-git-commit: f2b2b862a78e6e10fee1c92d591edcafbfa07391
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 5%
