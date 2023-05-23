@@ -2,7 +2,7 @@
 user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
-source-git-commit: ba26c4920d9dd996642e7bf94c99ceb2d36172d9
+source-git-commit: 1679c237a4e4b75b7894ddadedfd63bd01495408
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 13%
@@ -12,7 +12,7 @@ ht-degree: 13%
 
 # [!DNL Marketo Engage] チュートリアル {#tutorials}
 
-+ [[!DNL Marketo Engage] チュートリアル](overview.md)
++ [[!DNL Marketo Engage] チュートリアル](/help/_marketo-main/overview.md)
 + 基本 {#fundamentals}
    + [目標と戦略](/help/fundamentals/goals-and-strategy-learn.md)
    + [組織構造](/help/fundamentals/organizational-structure-learn.md)
