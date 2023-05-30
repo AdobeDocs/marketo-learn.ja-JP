@@ -2,10 +2,10 @@
 user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
-source-git-commit: 965e7fd5cbac9eb7b34398b9317143b0e8418ba6
+source-git-commit: 688b3906f03b84e9d5e7233a2646fec76976aa93
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 12%
+source-wordcount: '259'
+ht-degree: 11%
 
 ---
 
@@ -20,14 +20,9 @@ ht-degree: 12%
    + [購入者のペルソナ](/help/fundamentals/buyer-personas-learn.md)
    + [プログラムとキャンペーン](/help/fundamentals/programs-and-campaigns.md)
    + [UI の操作](/help/fundamentals/ui-navigation.md)
-   + プログラムとキャンペーン {#programs}
-      + [プログラムとキャンペーンについて](help/programs/understanding-programs-and-campaigns.md)
-      + [デフォルトのプログラム](/help/programs/default-programs.md)
-      + [メールプログラム](/help/programs/email-programs.md)
-      + [イベントプログラム](/help/programs/event-programs.md)
-      + [エンゲージメントプログラム](/help/programs/engagement-programs.md)
-+ プログラム {#programs}
-   + [プログラムとキャンペーンについて](help/programs/understanding-programs-and-campaigns.md)
+   + [プログラムとキャンペーンについて](help/fundamentals/understand-programs-and-campaigns.md)
++ プログラムとキャンペーン {#programs}
+   + [プログラムとキャンペーンについて](/help/programs/understanding-programs-and-campaigns.md)
    + [デフォルトのプログラム](/help/programs/default-programs.md)
    + [メールプログラム](/help/programs/email-programs.md)
    + [イベントプログラム](/help/programs/event-programs.md)
