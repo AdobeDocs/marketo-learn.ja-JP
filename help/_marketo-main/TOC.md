@@ -2,9 +2,9 @@
 user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
-source-git-commit: 5b30792d417c8ff5f9102c580fe218c9f4c6de25
+source-git-commit: 7692d20ca3c21456a182afbf7585978f12506659
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '261'
 ht-degree: 11%
 
 ---
@@ -96,5 +96,6 @@ ht-degree: 11%
    + [効果的なインタラクティブウェビナーのデザイン](/help/events/design-an-effective-interactive-webinar.md)
 + Reporting and Analytics {#reporting}
    + [Reporting and Analytics](/help/reporting/reporting-and-analytics.md)
+   + [主要レポート](/help/reporting/key-reports.md)
 + 統合 {#integrations}
-   + [MarketoとReal-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
+   + [MarketoとReal-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html){target="_blank"}
