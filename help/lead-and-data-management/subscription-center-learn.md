@@ -3,10 +3,10 @@ title: サブスクリプションセンターの設定と管理について説�
 description: 購読者とのコミュニケーションに苦労している場合は、 どのようなコミュニケーションを望んでいるか、どのくらいの頻度であなたから連絡を取りたいかを教えてください。 サブスクリプションセンターを作成および管理して、適切なケイデンスとプロセスを開発する方法を説明します。
 role: User
 level: Beginner
-kt: 10742
+jira: KT-10742
 thumbnail: 345426.jpeg
 exl-id: 969ce461-d932-44ea-90b2-975fa79525c2
-source-git-commit: 98ead59ff285e4133e4d5f0668f5724a9d680309
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%

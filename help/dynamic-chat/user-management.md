@@ -1,12 +1,12 @@
 ---
-title: Dynamic Chat のユーザーを追加および管理
-description: Adobe Admin Consoleを使用して Dynamic Chat のユーザーアクセスを管理する方法を説明します。
+title: ユーザーの追加とDynamic Chat
+description: Adobe Admin Consoleを使用してDynamic Chatのユーザーアクセスを管理する方法を説明します。
 role: User
 level: Beginner
-kt: 9686
+jira: KT-9686
 thumbnail: 340249.jpeg
 exl-id: c6007829-9831-4259-a37e-20a2d318734f
-source-git-commit: 456e16b830e491f688900e91de90e2a6765afaf4
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -22,5 +22,5 @@ ht-degree: 0%
 ## その他の役に立つビデオ
 
 * [パーソナライズしたダイアログの作成と管理](dialogue-management.md)
-* [とのMarketo統合のアクティブ化 [!UICONTROL Dynamic Chat] ](marketo-integration.md)
+* [とのMarketo統合のアクティブ化 [!UICONTROL Dynamic Chat]](marketo-integration.md)
 * [リードがセールスとのミーティングを予約できるようにします](meeting-booking.md)

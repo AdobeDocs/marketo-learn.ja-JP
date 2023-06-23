@@ -3,12 +3,12 @@ title: マーケティング組織構造の定義について説明します
 description: デジタルマーケティングの今日の変化に勝つには、マーケターが日々直面する変化する課題に対応できるチームが必要です。
 role: User
 level: Beginner
-kt: 10733
+jira: KT-10733
 thumbnail: 345416.jpeg
 exl-id: 935f92e8-ad52-44aa-90a3-396906e3a0c3
-source-git-commit: 98ead59ff285e4133e4d5f0668f5724a9d680309
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---

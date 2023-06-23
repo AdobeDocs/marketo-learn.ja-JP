@@ -1,12 +1,12 @@
 ---
-title: Dynamic Chat の製品ツアー
+title: 製品ツアーのDynamic Chat
 description: マーケティングおよび営業用に構築されたアドビの新しいチャットボットソリューションである Dynamic Chat について説明します。
 role: User
 level: Beginner
-kt: 9697
+jira: KT-9697
 thumbnail: 340473.jpeg
 exl-id: 6da18db9-1fc9-4a30-a302-102904f79aee
-source-git-commit: 456e16b830e491f688900e91de90e2a6765afaf4
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 15%
@@ -22,6 +22,6 @@ ht-degree: 15%
 ## その他の役に立つビデオ
 
 * [Chatbot のセットアップとインストール](setup.md)
-* [とのMarketo統合のアクティブ化 [!UICONTROL Dynamic Chat] ](marketo-integration.md)
-* [のユーザーを追加および管理 [!UICONTROL Dynamic Chat] ](user-management.md)
+* [とのMarketo統合のアクティブ化 [!UICONTROL Dynamic Chat]](marketo-integration.md)
+* [のユーザーを追加および管理 [!UICONTROL Dynamic Chat]](user-management.md)
 * [15 分で生きて行け](go-live-in-15-minutes.md)
