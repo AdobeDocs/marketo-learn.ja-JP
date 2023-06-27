@@ -2,9 +2,9 @@
 user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
-source-git-commit: 709d91f881ea8ea0c851c5fc03939ca3bfa842f7
+source-git-commit: cce7cf1bf7dee93837ab399a0b4cfc79bfa925bf
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '259'
 ht-degree: 11%
 
 ---
@@ -20,7 +20,6 @@ ht-degree: 11%
    + [購入者のペルソナ](/help/fundamentals/buyer-personas-learn.md)
    + [プログラムとキャンペーン](/help/fundamentals/programs-and-campaigns.md)
    + [UI の操作](/help/fundamentals/ui-navigation.md)
-   + [プログラムとキャンペーンについて](/help/fundamentals/understand-programs-and-campaigns.md)
 + プログラムとキャンペーン {#programs-and-campaigns}
    + [プログラムとキャンペーンについて](/help/programs/understanding-programs-and-campaigns.md)
    + [デフォルトのプログラム](/help/programs/default-programs.md)
@@ -37,7 +36,7 @@ ht-degree: 11%
    + [ゲーテッドコンテンツオファーのウォークスルー](/help/email-marketing/gated-content-offer-watch.md)
    + [A/B テスト](/help/email-marketing/ab-testing-learn.md)
    + [A/B テストのウォークスルー](/help/email-marketing/ab-testing-watch.md)
-   + [ランディングページ ](/help/email-marketing/landing-pages-learn.md)
+   + [ランディングページ](/help/email-marketing/landing-pages-learn.md)
    + [ランディングページのウォークスルー](/help/email-marketing/landing-pages-watch.md)
    + [フォーム](/help/email-marketing/forms-learn.md)
    + [E メールの配信品質](/help/email-marketing/email-deliverability-learn.md)
