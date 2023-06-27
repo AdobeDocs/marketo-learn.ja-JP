@@ -1,5 +1,5 @@
 ---
-title: スマートキャンペーン 101
+title: スマートキャンペーン 101 — コアプログラムを超えてスマートキャンペーンで実行できる操作
 description: スマートキャンペーンをデータの標準化と自動アラートに使用する方法を説明します。
 role: User
 level: Beginner
@@ -7,20 +7,28 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-30T00:00:00Z
 jira: KT-13263
 thumbnail: 3420096.jpeg
-source-git-commit: 298defd26e035865e088b48d88ec3293f91db4a2
+exl-id: a9349c7f-0590-4d7c-89cc-a86fec8cdc40
+source-git-commit: 4164691859d6e907794fca75fe8e71e1aa0332d9
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 0%
+source-wordcount: '135'
+ht-degree: 2%
 
 ---
 
-
-# スマートキャンペーン 101
+# スマートキャンペーン 101 — コアプログラムを超えてスマートキャンペーンで実行できる操作
 
 スマートキャンペーンは、Marketoのエンジンです。 スマートキャンペーンを使用して E メールやプログラムを送信する以外に、様々な用途でスマートキャンペーンを使用することができます。 スマートキャンペーンをデータの標準化と自動アラートに使用する方法を説明します。
 
-1. 関連製品ガイドを読む。
-   * [スマートキャンペーンドキュメントについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html)
-2. スマートキャンペーンの使用方法については、同業者から学びます。
-   * [エキスパートカスタマーブログ投稿：スマートキャンペーン 101:Adobe Marketo Engageの最も強力な機能に深く掘り下げる](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
-   * [エキスパートカスタマーブログ投稿：Marketo Success シリーズ：スマートキャンペーン](https://nation.marketo.com/t5/product-blogs/marketo-success-series-smart-campaigns/ba-p/306961)
+>[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on)
+
+
+## 追加リソース
+
+**ドキュメント:**
+
+* [スマートキャンペーンドキュメントについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=en)
+
+**エキスパートカスタマーブログ投稿：**
+
+* [スマートキャンペーン 101:Adobe Marketo Engageの最も強力な機能に深く掘り下げる](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
+* [Marketo Success シリーズ：スマートキャンペーン](https://nation.marketo.com/t5/product-blogs/marketo-success-series-smart-campaigns/ba-p/306961)
