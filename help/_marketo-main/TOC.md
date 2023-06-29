@@ -2,7 +2,7 @@
 user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
-source-git-commit: 7ebebfe56632209babc5a5a27ae21fbdcdf4fdac
+source-git-commit: 4bc6a6d9414f4b231878d55118a109a7f90172ec
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 11%
@@ -23,12 +23,12 @@ ht-degree: 11%
 + プログラムとキャンペーン {#programs-and-campaigns}
    + [プログラムとキャンペーンについて](/help/programs/understanding-programs-and-campaigns.md)
    + [スマートキャンペーン 101](/help/campaigns/smart-campaigns-101.md)
-   + [イベントプログラム](/help/programs/event-programs.md)
-   + [エンゲージメントプログラム](/help/programs/engagement-programs.md)
    + [メールプログラム](/help/programs/email-programs.md)
+   + [イベントプログラム](/help/programs/event-programs.md)
    + デフォルトのプログラム {#default-programs}
       + [デフォルトプログラムの作成と測定](/help/programs/create-and-measure-default-programs.md)
       + [デフォルトプログラムの柔軟性を活用](/help/programs/leverage-the-flexibility-of-default-programs.md)
+   + [エンゲージメントプログラム](/help/programs/engagement-programs.md)
 + 電子メールマーケティング {#email-marketing}
    + [予定メール](/help/email-marketing/scheduled-email-learn.md)
    + [スケジュール済みメールのウォークスルー](/help/email-marketing/scheduled-email-watch.md)
