@@ -1,5 +1,5 @@
 ---
-title: スマートキャンペーン 101 — コアプログラムを超えてスマートキャンペーンで実行できる操作
+title: スマートキャンペーン 101
 description: スマートキャンペーンをデータの標準化と自動アラートに使用する方法を説明します。
 role: User
 level: Beginner
@@ -8,14 +8,14 @@ last-substantial-update: 2023-05-30T00:00:00Z
 jira: KT-13263
 thumbnail: 3420096.jpeg
 exl-id: a9349c7f-0590-4d7c-89cc-a86fec8cdc40
-source-git-commit: 4164691859d6e907794fca75fe8e71e1aa0332d9
+source-git-commit: b23ba9f2bf8ebc824385649b9d5b9b464eb2af97
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '113'
 ht-degree: 2%
 
 ---
 
-# スマートキャンペーン 101 — コアプログラムを超えてスマートキャンペーンで実行できる操作
+# スマートキャンペーン 101
 
 スマートキャンペーンは、Marketoのエンジンです。 スマートキャンペーンを使用して E メールやプログラムを送信する以外に、様々な用途でスマートキャンペーンを使用することができます。 スマートキャンペーンをデータの標準化と自動アラートに使用する方法を説明します。
 
