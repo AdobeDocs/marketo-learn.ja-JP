@@ -2,9 +2,9 @@
 user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
-source-git-commit: 964c933df83b3f915785c5c7c4ccf4cfeacb74dc
+source-git-commit: 0ae3946dbb09034052fefc66019d0b1a2ea942e4
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '271'
 ht-degree: 11%
 
 ---
@@ -22,12 +22,13 @@ ht-degree: 11%
    + [UI の操作](/help/fundamentals/ui-navigation.md)
 + プログラムとキャンペーン {#programs-and-campaigns}
    + [プログラムとキャンペーンについて](/help/programs/understanding-programs-and-campaigns.md)
-   + [デフォルトのプログラム](/help/programs/default-programs.md)
-   + [デフォルトプログラムの柔軟性を活用](/help/programs/leverage-the-flexibility-of-default-programs.md)
-   + [メールプログラム](/help/programs/email-programs.md)
+   + [スマートキャンペーン 101](/help/campaigns/smart-campaigns-101.md)
    + [イベントプログラム](/help/programs/event-programs.md)
    + [エンゲージメントプログラム](/help/programs/engagement-programs.md)
-   + [スマートキャンペーン 101](/help/campaigns/smart-campaigns-101.md)
+   + [メールプログラム](/help/programs/email-programs.md)
+   + [デフォルトのプログラム]{#default-programs}
+      + [デフォルトプログラムの作成と測定](/help/programs/create-and-measure-default-programs.md)
+      + [デフォルトプログラムの柔軟性を活用](/help/programs/leverage-the-flexibility-of-default-programs.md)
 + 電子メールマーケティング {#email-marketing}
    + [予定メール](/help/email-marketing/scheduled-email-learn.md)
    + [スケジュール済みメールのウォークスルー](/help/email-marketing/scheduled-email-watch.md)

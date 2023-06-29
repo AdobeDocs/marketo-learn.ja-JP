@@ -6,7 +6,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-06-28T00:00:00Z
 jira: KT-13262
 thumbnail: 3420137.jpeg
-source-git-commit: 49167c958c8b3a0c218ef0b6cfc771d91554a34a
+source-git-commit: 0ae3946dbb09034052fefc66019d0b1a2ea942e4
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 3%
@@ -17,7 +17,7 @@ ht-degree: 3%
 # デフォルトプログラムの柔軟性を活用
 
 
-4 種類のプログラムの中で最も柔軟性が高いのはデフォルトのプログラムで、何を作るかをクリエイティブにすることができます。
-次の 2 つの一般的な使用例について説明します。web フォームと有料メディアのリードジェネレーション。
+4 つのプログラムタイプの中で、デフォルトのプログラムは最も柔軟で、何を作成するかをクリエイティブにすることができます。
+次の 2 つの一般的な使用例について説明します。Web フォームと有料メディアのリードジェネレーション。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420137?learn=on)
