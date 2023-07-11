@@ -7,10 +7,10 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-11T00:00:00Z
 jira: KT-13608
 thumbnail: 3421577.jpeg
-source-git-commit: 3541cb30d3e2e3f6f9e82d95179a352fd052e0d1
+source-git-commit: 8aeef083b27c23dac3828db9519e0cbd79f31f7e
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 10%
+ht-degree: 15%
 
 ---
 
@@ -29,5 +29,6 @@ Marketo Engageの操作を初めて開始する場合、組織は重要です。
 * [プログラムの複製](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.html)
 * [プログラムでのアセットの複製](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.html)
 * [プログラムのインポート](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html)
-* [フォルダーについて] (https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.html) *[新規キャンペーンフォルダの作成](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html)
-*[ワークスペースと担当者パーティションについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html)
+* [フォルダーについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.html)
+* [キャンペーンフォルダーの新規作成](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html)
+* [ワークスペースと人物パーティションについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html)
