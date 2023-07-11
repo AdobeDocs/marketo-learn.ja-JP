@@ -2,9 +2,9 @@
 user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
-source-git-commit: 4bc6a6d9414f4b231878d55118a109a7f90172ec
+source-git-commit: 3f1f9929de4d475b916a6b13f555f6cc3014ca3d
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '277'
 ht-degree: 11%
 
 ---
@@ -20,6 +20,8 @@ ht-degree: 11%
    + [購入者のペルソナ](/help/fundamentals/buyer-personas-learn.md)
    + [プログラムとキャンペーン](/help/fundamentals/programs-and-campaigns.md)
    + [UI の操作](/help/fundamentals/ui-navigation.md)
+   + [新しいインスタンスを整理するためのベストプラクティス](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
+   + [基本的なプログラムを作成するためのベストプラクティス](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
 + プログラムとキャンペーン {#programs-and-campaigns}
    + [プログラムとキャンペーンについて](/help/programs/understanding-programs-and-campaigns.md)
    + [スマートキャンペーン 101](/help/campaigns/smart-campaigns-101.md)
@@ -87,9 +89,6 @@ ht-degree: 11%
    + [CRM 同期](/help/lead-and-data-management/crm-sync-learn.md)
    + [リードのライフサイクル](/help/lead-and-data-management/lead-lifecycle-learn.md)
    + [リードライフサイクルのウォークスルー](/help/lead-and-data-management/lead-lifecycle-watch.md)
-+ インスタンス管理 {#instance-management}
-   + [ベストプラクティス](/help/instance-management/best-practice-learn.md)
-   + [ベストプラクティスのウォークスルー](/help/instance-management/best-practice-watch.md)
 + イベント {#events}
    + [イベントのウォークスルー](/help/events/events-watch.md)
    + [イベントプログラムの作成](/help/events/events-learn.md)
