@@ -2,8 +2,10 @@
 title: Sales Insight アクションTutorials
 description: 用途 [!UICONTROL Sales Insight アクション] マーケティングを活用したインテリジェンスとエンゲージメントツールを 1 つのワークフロー内で統合し、見込み取り組みを加速します。
 doc-type: overview-page
+role: User, Admin, Leader
+level: Beginner, Intermediate, Advanced
 exl-id: fac23fde-1fc8-4710-a5f5-2e19a2618d6d
-source-git-commit: 9bba0f24a492fdd5b21b30f605498b7519cd8200
+source-git-commit: 6cf9522c1eaf069b8a86e9f26f7590434b703730
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 10%
