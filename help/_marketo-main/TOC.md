@@ -2,10 +2,10 @@
 user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
-source-git-commit: 8c572e543d2c1c0b1f5a3b2b73fc0f19888c3878
+source-git-commit: a662b700709081a7f071c01e95f5faca8e1e3139
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 11%
+source-wordcount: '295'
+ht-degree: 10%
 
 ---
 
@@ -32,8 +32,12 @@ ht-degree: 11%
       + [デフォルトプログラムの作成と測定](/help/programs/create-and-measure-default-programs.md)
       + [デフォルトプログラムの柔軟性を活用](/help/programs/leverage-the-flexibility-of-default-programs.md)
    + [エンゲージメントプログラム](/help/programs/engagement-programs.md)
+   + エンゲージメントマップ {#engagement-maps}
+      + [エンゲージメントマップの概要](help/campaigns/engagement-maps/engagement-map-overview.md)
+      + [エンゲージメントマップのネストされたキャンペーン](help/campaigns/engagement-maps/engagement-map-nested-campaign.md)
+      + [エンゲージメントマップのエラー検出と解決](/help/engagement-maps/engagement-map-error-detection-and-resolution.md)
 + 電子メールマーケティング {#email-marketing}
-   + [予定メール](/help/email-marketing/scheduled-email-learn.md)
+   + [スケジュール済みメール](/help/email-marketing/scheduled-email-learn.md)
    + [スケジュール済みメールのウォークスルー](/help/email-marketing/scheduled-email-watch.md)
    + [パーソナライズされたニュースレター](/help/email-marketing/personalized-newsletter-learn.md)
    + [パーソナライズされたニュースレターのウォークスルー](/help/email-marketing/personalized-newsletter-watch.md)
@@ -46,7 +50,7 @@ ht-degree: 11%
    + [フォーム](/help/email-marketing/forms-learn.md)
    + [E メールの配信品質](/help/email-marketing/email-deliverability-learn.md)
    + [E メール配信品質のウォークスルー](/help/email-marketing/email-deliverability-watch.md)
-   + [トリガー済みメール](/help/email-marketing/triggered-email-learn.md)
+   + [トリガーされた E メール](/help/email-marketing/triggered-email-learn.md)
    + [トリガーされたメールのウォークスルー](/help/email-marketing/triggered-email-watch.md)
    + [リードの育成](/help/email-marketing/lead-nuturing-learn.md)
    + [動的および予測コンテンツ](/help/email-marketing/dynamic-and-predictive-content-learn.md)
@@ -62,7 +66,7 @@ ht-degree: 11%
    + [Web パーソナライゼーション](/help/cross-channel-marketing/web-personalization-learn.md)
    + [Web パーソナライゼーションのウォークスルー](/help/cross-channel-marketing/web-personalization-watch.md)
 + 動的チャット {#dynamic-chat}
-   + [Dynamic Chat チュートリアル](/help/dynamic-chat/dynamic-chat-overview.md)
+   + [Dynamic Chatチュートリアル](/help/dynamic-chat/dynamic-chat-overview.md)
    + [製品ツアー](/help/dynamic-chat/product-tour.md)
    + [セットアップとインストール](/help/dynamic-chat/setup.md)
    + [Marketo統合](/help/dynamic-chat/marketo-integration.md)
@@ -71,7 +75,7 @@ ht-degree: 11%
    + [会議の予約](/help/dynamic-chat/meeting-booking.md)
    + [15 分で生きる](/help/dynamic-chat/go-live-in-15-minutes.md)
    + [会話にPDFを埋め込む](/help/dynamic-chat/document-cloud-integration.md)
-   + [ストリームデザイナーで検索](/help/dynamic-chat/search-in-stream-designer.md)
+   + [ストリームデザイナーでの検索](/help/dynamic-chat/search-in-stream-designer.md)
    + [推測される属性のキャプチャ](/help/dynamic-chat/capture-inferred-attributes.md)
    + [ダイアログのプレビュー](/help/dynamic-chat/dialogue-preview.md)
    + [エンゲージメントレポート](/help/dynamic-chat/engagement-report.md)
@@ -86,7 +90,7 @@ ht-degree: 11%
    + [リードスコアリング](/help/lead-and-data-management/lead-scoring-learn.md)
    + [リードスコア付けのウォークスルー](/help/lead-and-data-management/lead-scoring-watch.md)
    + [購読センター](/help/lead-and-data-management/subscription-center-learn.md)
-   + [購読センターのウォークスルー](/help/lead-and-data-management/subscription-center-watch.md)
+   + [サブスクリプションセンターのウォークスルー](/help/lead-and-data-management/subscription-center-watch.md)
    + [CRM 同期](/help/lead-and-data-management/crm-sync-learn.md)
    + [リードのライフサイクル](/help/lead-and-data-management/lead-lifecycle-learn.md)
    + [リードライフサイクルのウォークスルー](/help/lead-and-data-management/lead-lifecycle-watch.md)
