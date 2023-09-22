@@ -9,9 +9,9 @@ jira: KT-13263
 thumbnail: 3420096.jpeg
 exl-id: a9349c7f-0590-4d7c-89cc-a86fec8cdc40
 feature: Smart Campaigns
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '115'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 2%
 
 スマートキャンペーンは、Marketoのエンジンです。 スマートキャンペーンを使用して E メールやプログラムを送信する以外に、様々な用途でスマートキャンペーンを使用することができます。 スマートキャンペーンをデータの標準化と自動アラートに使用する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on){transcript=true}
 
 
 ## 追加リソース
@@ -32,4 +32,4 @@ ht-degree: 2%
 **エキスパートカスタマーブログ投稿：**
 
 * [スマートキャンペーン 101:Adobe Marketo Engageの最も強力な機能に深く掘り下げる](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
-* [Marketo Success シリーズ：スマートキャンペーン](https://nation.marketo.com/t5/product-blogs/marketo-success-series-smart-campaigns/ba-p/306961)
+* [Marketo Success Series：スマートキャンペーン](https://nation.marketo.com/t5/product-blogs/marketo-success-series-smart-campaigns/ba-p/306961)

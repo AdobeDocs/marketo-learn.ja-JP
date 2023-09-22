@@ -8,9 +8,9 @@ last-substantial-update: 2023-07-11T00:00:00Z
 jira: KT-13608
 thumbnail: 3421577.jpeg
 feature: Getting Started
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '212'
 ht-degree: 15%
 
 ---
@@ -18,9 +18,9 @@ ht-degree: 15%
 
 # 新しいを整理するためのベストプラクティス [!DNL Marketo Engage] インスタンス
 
-Marketo Engageの操作を初めて開始する場合、組織は重要です。 インスタンス内で整理されたままにすると、キャンペーン、プログラム、アセットを自分や同僚が簡単に追跡できます。 ナビゲーションツリーの整理方法については、 [!UICONTROL マーケティング活動] フォルダ、標準的な命名規則、クローン作成などの機能を使用して、新しい [!DNL Marketo Engage] インスタンス。 
+Marketo Engageの操作を初めて開始する場合、組織は重要です。 インスタンス内で整理されたままにすると、キャンペーン、プログラム、アセットを自分や同僚が簡単に追跡できます。 ナビゲーションツリーを整理する方法については、 [!UICONTROL マーケティング活動] フォルダ、標準的な命名規則、クローン作成などの機能を使用して、新しい [!DNL Marketo Engage] インスタンス。 
 
->[!VIDEO](https://video.tv.adobe.com/v/3421577/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421577/?learn=on){transcript=true}
 
 ## 追加リソース
 

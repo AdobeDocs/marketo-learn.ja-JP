@@ -1,22 +1,22 @@
 ---
-title: セールス活動ログの構成先 [!DNL Salesforce]
-description: セールス活動ログの構成先 [!DNL Salesforce]
+title: セールスアクティビティログの構成先 [!DNL Salesforce]
+description: セールスアクティビティログの構成先 [!DNL Salesforce]
 role: User
 level: Beginner
 exl-id: a48410aa-cd68-46b2-bd52-1a7253470e74
 feature: Sales Insight Actions
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '37'
+source-wordcount: '39'
 ht-degree: 0%
 
 ---
 
-# セールス活動ログの構成先 [!DNL Salesforce] {#configure-sales-activity-logging-to-salesforce}
+# セールスアクティビティログの構成先 [!DNL Salesforce] {#configure-sales-activity-logging-to-salesforce}
 
-Sales Insight アクションアクティビティを設定し、 [!DNL Salesforce] アカウント
+Sales Insight アクションアクティビティを設定し、 [!DNL Salesforce] アカウント。
 
->[!VIDEO](https://video.tv.adobe.com/v/340843/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340843/?quality=12&learn=on){transcript=true}
 
 ## 関連ビデオ
 
