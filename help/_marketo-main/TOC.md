@@ -2,10 +2,11 @@
 user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
-source-git-commit: 85e794a49723cc931f1e8a56f39c0947af51b243
+auto-video-transcripts: true
+source-git-commit: 7e07cf83181451e37478026a36f49b02480468cf
 workflow-type: tm+mt
 source-wordcount: '298'
-ht-degree: 10%
+ht-degree: 11%
 
 ---
 
@@ -37,7 +38,7 @@ ht-degree: 10%
       + [エンゲージメントマップの概要](/help/engagement-maps/engagement-map-overview.md)
       + [エンゲージメントマップのネストされたキャンペーン](/help/engagement-maps/engagement-map-nested-campaign.md)
       + [エンゲージメントマップのエラー検出と解決](/help/engagement-maps/engagement-map-error-detection-and-resolution.md)
-+ 電子メールマーケティング {#email-marketing}
++ メールマーケティング {#email-marketing}
    + [スケジュール済みメール](/help/email-marketing/scheduled-email-learn.md)
    + [スケジュール済みメールのウォークスルー](/help/email-marketing/scheduled-email-watch.md)
    + [パーソナライズされたニュースレター](/help/email-marketing/personalized-newsletter-learn.md)
@@ -66,7 +67,7 @@ ht-degree: 10%
    + [ソーシャルマーケティングのウォークスルー](/help/cross-channel-marketing/social-marketing-watch.md)
    + [Web パーソナライゼーション](/help/cross-channel-marketing/web-personalization-learn.md)
    + [Web パーソナライゼーションのウォークスルー](/help/cross-channel-marketing/web-personalization-watch.md)
-+ 動的チャット {#dynamic-chat}
++ Dynamic Chat {#dynamic-chat}
    + [Dynamic Chatチュートリアル](/help/dynamic-chat/dynamic-chat-overview.md)
    + [製品ツアー](/help/dynamic-chat/product-tour.md)
    + [セットアップとインストール](/help/dynamic-chat/setup.md)
