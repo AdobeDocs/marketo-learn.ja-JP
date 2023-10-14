@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
 auto-video-transcripts: true
-source-git-commit: d6f93ad6b4216c9c886a288a23918f9f25187165
+source-git-commit: 01e5afc2449579fe995ffb670afbe0a42ed53353
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '307'
 ht-degree: 11%
 
 ---
@@ -91,8 +91,8 @@ ht-degree: 11%
    + [Sales Insight Actions インスタンスへのアクセス](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [セールスアクティビティのログの設定先 [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + リードとデータ管理 {#lead-and-data-management}
-   + [リードスコアリング](/help/lead-and-data-management/lead-scoring-learn.md)
-   + [リードスコア付けのウォークスルー](/help/lead-and-data-management/lead-scoring-watch.md)
+   + [リード/担当者スコアリング](/help/lead-and-data-management/lead-scoring-learn.md)
+   + [リード/担当者スコアリングのウォークスルー](/help/lead-and-data-management/lead-scoring-watch.md)
    + [購読センター](/help/lead-and-data-management/subscription-center-learn.md)
    + [サブスクリプションセンターのウォークスルー](/help/lead-and-data-management/subscription-center-watch.md)
    + [CRM 同期](/help/lead-and-data-management/crm-sync-learn.md)
