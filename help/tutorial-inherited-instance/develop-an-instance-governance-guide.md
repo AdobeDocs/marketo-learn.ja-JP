@@ -5,11 +5,11 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-12T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
-hide: true
-source-git-commit: e7fe8da128a1c46620484d9b92823ba51791a671
+hide: false
+source-git-commit: 4dc6aeed353fdd8bac960603af22b060ae2d7f00
 workflow-type: tm+mt
 source-wordcount: '906'
 ht-degree: 1%
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 レガシー [!DNL Marketo Engage] 例えば、最新の機能および技術ドキュメントが不足しているという課題が多く発生します。 管理者として、適切なインスタンスガバナンスを確実におこなうためのガイドラインを確立することは、見落とすことのできない中核的な責任です。 ～するのは重要な戦略の一つだ [確立されたMarketo Engage・インスタンスで作業する際の効率の向上](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582).
 
-このステップバイステップのチュートリアルは、 [!DNL Adobe Marketo Champion]Nick Hajdin は、このプロセスを通じて、インスタンスの設定の概要を説明し、主なオペレーショナル・プログラムを文書化し、 [!DNL changelog] 厳格なガバナンスポリシーを実施する。
+このステップバイステップのチュートリアルは、 [!DNL Adobe Marketo Champion] (2018)Nick Hajdin は、このプロセスを通じて、インスタンスの設定の概要を説明し、主要な運用プログラムを文書化し、 [!DNL changelog] 厳格なガバナンスポリシーを実施する。
 
 ## 継承されたインスタンスに対して、インスタンスガバナンスガイドとドキュメントを作成するのはなぜですか？
 

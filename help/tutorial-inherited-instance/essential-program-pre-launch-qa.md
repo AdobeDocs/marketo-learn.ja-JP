@@ -5,13 +5,13 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-06T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13888
 thumbnail: KT-13888.jpeg
-hide: true
-source-git-commit: e7fe8da128a1c46620484d9b92823ba51791a671
+hide: false
+source-git-commit: 4dc6aeed353fdd8bac960603af22b060ae2d7f00
 workflow-type: tm+mt
-source-wordcount: '5428'
+source-wordcount: '5436'
 ht-degree: 6%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 6%
 
 次の場合、 [!DNL Marketo Engage] 管理者またはマーケティングオペレーションチームは、顧客に対するミスを防ぐために、プログラムの設定を適切に確認することが非常に重要です。 間違いを制限する方法に沿って間違いから学ぶことはできますが、それはスケーラブルなプロセスではありません。 ビルダーとパワーユーザー/レビュー担当者の間で、プログラムのプリローンチ品質保証 (QA) プロセスを設計および実行する方法を学び、時間の節約、エラーの防止、内部ユーザーのトレーニングをより迅速におこなえます。
 
-このチュートリアルでは、 [!DNL Marketo Engage] 管理者は、プログラムの開始前の QA プロセスを開発して、内部チームのスケールを支援できます。 プログラムの事前立ち上げチェックリストは、AdobeのMarketoチャンピオン (20) である Grace Brebner をソースに、主要な要素と要件を順を追って説明する例として使用されています。
+このチュートリアルでは、 [!DNL Marketo Engage] 管理者は、プログラムの開始前の QA プロセスを開発して、内部チームのスケールを支援できます。 プログラムの事前立ち上げチェックリスト (AdobeMarketoチャンピオン (2021) をソース ) [Grace Brebner のブログ投稿](https://nation.marketo.com/t5/champion-program-blogs/the-ultimate-go-live-checklist/ba-p/245759)を例として使用し、主要な要素と要件を順を追って説明します。
 
 ## プログラムの事前起動 QA プロセスを設計する必要があるのはなぜですか？
 
@@ -129,9 +129,9 @@ ht-degree: 6%
 |---|---|---|---|---|
 | 1 | **精度** | 必要なすべてのスマートキャンペーンが確認、レビュー、正確と見なされているか。 | **はい：** <br>「はい」を選択して答えられない場合は、先に進む前に修正して確認する必要があります。 | [スマートキャンペーンのチェックリスト](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.html){target="_blank"} |
 | 2 | **送信数** | E メール送信キャンペーンがバッチキャンペーン（トリガーされない）の場合は、「スケジュール」タブでリード数を確認します。数字は期待どおりに揃えますか。 中止しきい値を下回っていますか？ | **はい：** <br>「はい」を選択して答えられない場合は、先に進む前に修正して確認する必要があります。 | [メールプログラムのスケジュール設定](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.html){target="_blank"} |
-| 3 | **メインルール** | 適切な場合は主なセグメント化/リストを使用しているか、適切な場合はどちらですか。 | **該当するかどうか：**<br> メインリスト/セグメント化は、参照する必要のあるフィールドの数を減らし、ヒューマンエラーのリスクを減らすように設計されています。 メインのリストやセグメント化を使用しない場合は、ルールに自信を持つ必要があります。 |  |
+| 3 | **プライマリルール** | 適切な場合は主なセグメント化/リストを使用しているか、適切な場合はどちらですか。 | **該当するかどうか：**<br> プライマリリスト/セグメント化は、参照する必要のあるフィールドの数を減らし、ヒューマンエラーのリスクを減らすように設計されています。 プライマリリスト/セグメント化を使用しない場合は、ルールに自信を持つ必要があります。 |  |
 | 4 | **アトリビューション** | プログラムが新しいリード（イベントプログラムなど）を取得している場合、必要に応じて属性設定が含まれますか？ 獲得プログラムはマッピングされていますか？ | **該当するかどうか：** <br>プログラムに担当者をインポートする場合、またはプログラムが新しい担当者を取得する場合は、獲得プログラムの設定を使用する必要があります。 |  |
-| 5 | **エンゲージメントプログラム** | エンゲージメントプログラムでスマートキャンペーンを使用する場合、必要に応じてメンバーが追加、一時停止、再開されるように、適切な手順を実行していますか？ これらの手順は他のユーザーによってレビューされていますか？ | **該当するかどうか：**<br> これがエンゲージメントプログラムで、正当な理由がないと「はい」を付けて回答できない場合は、これが実行されるまで有効にしないでください。 | [エンゲージメントプログラムへのリードの追加](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-people-to-an-engagement-program.html){target="_blank"} |
+| 5 | **エンゲージメントプログラム** | エンゲージメントプログラムでスマートキャンペーンを使用する場合、必要に応じてメンバーが追加、一時停止、再開されるように、適切な手順を実行していますか？ これらの手順は他のユーザーによってレビューされていますか？ | **該当するかどうか：**<br> これがエンゲージメントプログラムで、正当な理由なしに「はい」を付けて回答できない場合は、これが設定されるまで有効にしないでください。 | [エンゲージメントプログラムへのリードの追加](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-people-to-an-engagement-program.html){target="_blank"} |
 | 6 | **購読設定** | 必要なサブスクリプション設定要因がすべて含まれているか。 | **該当するかどうか：**<br> 不明な場合は、 [!DNL Marketo Engage] 管理者。 該当なしに進むには、適切な理由が必要です（オペレーショナルの送信など）。 | [サブスクリプションセンターの設定および管理方法](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html){target="_blank"} |
 | 7 | **プログラムステータス** | プログラムのステータスを更新するためのフローステップは含まれていますか？ | **はい：** <br>「はい」で回答できない場合は、スマートキャンペーンのフローステップにこれらを追加する必要があります。 | [プログラムステータスの変更](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.html){target="_blank"} |
 | 8 | **より広い影響** | <li>他のチームやシステムと同期するフィールドにアラートや書き込みを送信するフローステップはありますか。 <li>その場合、ボリュームは考慮され、これらのチームやシステムに関する関係者に通知されていますか？ | **はい、いいえ、または適用不可：**<br> 答えは問題ありませんが、マップが表示された場合は、通常、システムを所有するチームに通知する必要があります。 不明な場合は、管理者に問い合わせてください。 |  |
@@ -147,7 +147,7 @@ ht-degree: 6%
 | 1 | **ロジック** | スマートリストを使用してオーディエンスの一部を特定している場合、ロジックはチェック、レビューおよび正確と見なされていますか？ | **はい：** <br>「はい」で回答できない場合は、スマートリストの設定を修正し、先に進む前にこれらを確認してください。 |  |
 | 2 | **インポートプロセスのリスト** | 静的リストを使用してオーディエンスの任意の部分を識別している場合、そのデータソースは信頼でき、リストの読み込みプロセスに従って正確に読み込みがおこなわれたか。 | **はい：** <br>「はい」を入力できない場合は、先に進む前にリストデータを修正し、これらを確認してください。 | [静的リストから人を追加/削除する方法](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.html){target="_blank"}<br><br>[担当者のリストをインポート](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/quick-wins/import-a-list-of-people.html#step-import-your-spreadsheet-into-marketo) |
 | 3 | **除外** | 必要な除外（競合相手、購読解除など）が含まれブロックリストに加えるるか。 | **該当するかどうか：** <br>非常に良い、法的に準拠している、そうでない理由がない限り、配信停止を除外する必要があります。 これらを含めない場合は、コンテンツ、キャンペーンルール、法的根拠に自信を持つ必要があります。 | [登録解除について](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html){target="_blank"}<br><br>[Change Data Value](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html){target="_blank"} |
-| 4 | **メインリスト** | メインのリストやセグメント化は、適切な場所で使用されていますか。 | **該当するかどうか：** メインリスト/セグメント化は、参照する必要のあるフィールドの数を減らし、ヒューマンエラーのリスクを減らすように設計されています。 メインのリストやセグメント化を使用しない場合は、ルールに自信を持つ必要があります。 | [セグメントルールの定義](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.html) |
+| 4 | **プライマリリスト** | プライマリリスト/セグメント化は、適切な場所で使用されていますか。 | **該当するかどうか：** プライマリリスト/セグメント化は、参照する必要のあるフィールドの数を減らし、ヒューマンエラーのリスクを減らすように設計されています。 プライマリリスト/セグメント化を使用しない場合は、ルールに自信を持つ必要があります。 | [セグメントルールの定義](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.html) |
 
 >[!TAB オーディエンス]
 
@@ -174,7 +174,7 @@ ht-degree: 6%
 | 8 | **テキストバージョン** | <li>メールのテキスト版を作成しましたか？ <li>テキスト版のテストを自分に送ったか。 | **はい：**<br> 「はい」を入力できない場合は、先に進む前にテストを行ってください。 |
 | 9 | **テキストバージョンの最適化** | <li>テキストバージョンのレイアウトは最適化されていますか？<li>何かのHTMLコメントが表示されますか？<li>関連するコンテンツはすべて含まれていますか？ | **はい：**<br> 自動生成されたテキストバージョンは、読み取るのが難しい場合があります。最適化する価値があります。 | [メールのテキストバージョンを編集する](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.html){target="_blank"} |
 | 10 | **テキストバージョンのハイパーリンクと UTMS** | ハイパーリンクは機能し、UTM を含めますか？ :<ul><li>ヘッダーセクション</li><li>画像領域（含まれる場合）</li><li>本文</li><li>CTA</li>フッタ</li></ul> | **はい：**<br> 「はい」を選択して答えられない場合は、先に進む前に修正して確認する必要があります。 自動テキストバージョンでは、変数を確実に引き抜くことはできません。 |  |
-| 11 | **HTML/メインバージョン** | <li>E メールのHTML/プライマリバージョンを作成したか。<li>試験を送ったのか？ | **はい（プレーンテキストのみの場合を除く）:**<br> 「はい」を選択して答えられない場合は、先に進む前にテストを送信する必要があります。 | [メールの HTML を編集する](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.html){target="_blank"} |
+| 11 | **HTML/メインバージョン** | <li>E メールのHTML/メインバージョンを作成しているか。<li>試験を送ったのか？ | **はい（プレーンテキストのみの場合を除く）:**<br> 「はい」を選択して答えられない場合は、先に進む前にテストを送信する必要があります。 | [メールの HTML を編集する](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.html){target="_blank"} |
 | 12 | **画像** | <li>すべての画像に代替テキストがありますか？ <li>壊れた画像はありますか？ | **該当するかどうか：**<br>. 「はい」を付けて答えられない場合は、修正して確認してから、先に進む必要があります（画像がない場合を除く）。 |  |
 | 13 | **画像の圧縮** | <li>すべての画像は、画像編集ソフトウェアから Web 用に保存されましたか？ <li>アップロード前に圧縮されていましたか？ <li>E メールの読み込み時間は許容できますか？ | **該当するかどうか：**<br>&#x200B;読み込み速度を向上させるには、すべての画像（使用されている場合）を圧縮する必要があります。 | hero imagesは 120 KB 未満で、小さい画像はすべて小さくする必要があります。 負荷時間が長いと、パフォーマンスに影響します。 |
 | 14 | **HTMLバージョンのハイパーリンクと UTM** | すべてのハイパーリンクが機能し、これらの領域に UTM が含まれているか。 :<ul><li>ヘッダーセクション</li><li>画像領域（含まれる場合）</li><li>本文</li><li>CTA</li>フッタ</li></ul> | **はい：**<br> 壊れたリンクを送信しない。 「はい」と答えられない場合は、修正してから先に進んでください。 |  |
