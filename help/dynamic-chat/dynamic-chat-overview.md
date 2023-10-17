@@ -6,9 +6,9 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: d6f93ad6b4216c9c886a288a23918f9f25187165
+source-git-commit: 0a5330152f2bf8326c8642e09cc7ba6099869283
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '369'
 ht-degree: 10%
 
 ---
@@ -48,6 +48,8 @@ ht-degree: 10%
      *公開前のダイアログのプレビューは、ダイアログのプレビュー機能を使用すると非常に簡単です。*
    * **[静的コンテンツのグローバル化](globalization-of-static-content.md)**
      *静的/システムコンテンツを選択した言語に合わせてパーソナライズできます。*
+   * **[会話フォーム](conversational-forms.md)**
+     *フォームの入力後すぐに Web サイトの訪問者を惹きつける方法を学びます。*
 * ライブチャットと会議の予約
    * **[ライブチャットの設定](set-up-live-chat.md)**
      *ライブチャットの設定方法を説明します。*
