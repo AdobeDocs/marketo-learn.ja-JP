@@ -6,10 +6,10 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: 0a5330152f2bf8326c8642e09cc7ba6099869283
+source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
 workflow-type: tm+mt
-source-wordcount: '369'
-ht-degree: 10%
+source-wordcount: '405'
+ht-degree: 9%
 
 ---
 
@@ -20,7 +20,9 @@ ht-degree: 10%
 ようこそ [!UICONTROL Dynamic Chat]  チュートリアルサイト。 これらのチュートリアルとドキュメントを使用して、の使用方法をより深く理解できるようにします。 [!UICONTROL Dynamic Chat]  パーソナライズされた会話を作成します。 以下のトピックでは、作業を開始する際に役立ちます。
 
 * 概要
-   * **[クイック製品ツアー](product-tour.md)**
+   * **[クイック製品ツアー [2023]](product-tour.md)**
+     *2023 年に起動されたすべての新機能の概要を説明します。*
+   * **[クイック製品ツアー [2022]](product-tour.md)**
      *完全な製品の概要と、 [!UICONTROL Dynamic Chat].*
    * **[15 分で生きる](go-live-in-15-minutes.md)**
      *を使用して最初のダイアログを開始する際に役立つ、ステップバイステップのガイド [!UICONTROL Dynamic Chat]  15 分で！*
@@ -50,9 +52,11 @@ ht-degree: 10%
      *静的/システムコンテンツを選択した言語に合わせてパーソナライズできます。*
    * **[会話フォーム](conversational-forms.md)**
      *フォームの入力後すぐに Web サイトの訪問者を惹きつける方法を学びます。*
+   * **[会話 SDK](conversations-sdk.md)**
+     *CTA クリックを魅力的な会話に変換するための会話 SDK の実装方法を説明します。*
 * ライブチャットと会議の予約
-   * **[ライブチャットの設定](set-up-live-chat.md)**
-     *ライブチャットの設定方法を説明します。*
+   * **[訪問者をライブエージェントに接続](connect-visitors-to-live-agents.md)**
+     *クオリファイドリードを結び付けて、セールスエージェントと即座にエンゲージします。*
    * **[リードがセールスとのミーティングを予約できるようにします](meeting-booking.md)**
      *セールスとの連携を加速 [!DNL target] 会議の予約機能を持つアカウント。*
 * Marketo Measure Analytics

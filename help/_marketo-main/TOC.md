@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
 auto-video-transcripts: true
-source-git-commit: 0a5330152f2bf8326c8642e09cc7ba6099869283
+source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '321'
 ht-degree: 11%
 
 ---
@@ -69,13 +69,15 @@ ht-degree: 11%
    + [Web パーソナライゼーションのウォークスルー](/help/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
    + [Dynamic Chatチュートリアル](/help/dynamic-chat/dynamic-chat-overview.md)
-   + [製品ツアー](/help/dynamic-chat/product-tour.md)
+   + [製品ツアー [2023]](/help/dynamic-chat/product-tour.md)
+   + [製品ツアー [2022]](/help/dynamic-chat/product-tour-2022.md)
    + [セットアップとインストール](/help/dynamic-chat/setup.md)
    + [Marketo統合](/help/dynamic-chat/marketo-integration.md)
    + [ユーザー管理](/help/dynamic-chat/user-management.md)
    + [会話フォーム](/help/dynamic-chat/conversational-forms.md)
+   + [会話 SDK](/help/dynamic-chat/conversations-sdk.md)
    + [ダイアログ管理](/help/dynamic-chat/dialogue-management.md)
-   + [ライブチャットの設定](/help/dynamic-chat/set-up-live-chat.md)
+   + [訪問者をライブエージェントに接続](/help/dynamic-chat/connect-visitors-to-live-agents.md)
    + [エージェント管理](/help/dynamic-chat/agent-management.md)
    + [会議の予約](/help/dynamic-chat/meeting-booking.md)
    + [15 分で生きる](/help/dynamic-chat/go-live-in-15-minutes.md)
