@@ -10,7 +10,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-17T00:00:00Z
 jira: KT-14113
 thumbnail: 3424719.jpeg
-source-git-commit: a2a4c986fa5f46682c79a61a539f057d74eef6a1
+source-git-commit: a40cb276fbf63d4707d6e238c4b536f7629a748e
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 4%
@@ -28,7 +28,7 @@ Marketo Engageと Salesforce が連携して、セールスとマーケティン
 
 ## ビデオで使用されるリンク
 
-* [Salesforce 同期について](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)]
+* [Salesforce 同期について](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
 * [Salesforce へのMarketoフィールドの追加 (Enterprise/Unlimited)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.html)
 
@@ -36,7 +36,7 @@ Marketo Engageと Salesforce が連携して、セールスとマーケティン
 
 * [Marketoと Salesforce の連携 (Enterprise/Unlimited)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.html)
 
-* [ユーザーは、Marketoと Salesforce 同期に進む前に、Salesforce 側で Connected App を設定する必要があります。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.html)]
+* [ユーザーは、Marketoと Salesforce 同期に進む前に、Salesforce 側で Connected App を設定する必要があります。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.html)
 
 * [Salesforce 同期ステータス](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-status.html)
 
