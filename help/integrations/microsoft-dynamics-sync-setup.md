@@ -10,17 +10,15 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-17T00:00:00Z
 jira: KT-14112
 thumbnail: 3424737.jpeg
-source-git-commit: a40cb276fbf63d4707d6e238c4b536f7629a748e
+source-git-commit: d7daf2d9664baafeafd887d27cf412d7a183dd76
 workflow-type: tm+mt
-source-wordcount: '320'
-ht-degree: 17%
+source-wordcount: '316'
+ht-degree: 18%
 
 ---
 
 
 # Microsoft Dynamics 同期の概要
-
-*資料：AdobeMarketo Champions から作成。*
 
 Microsoft Dynamics 365 同期の仕組みと、2 つのシステムが互いに通信できるように設定を適切に設定する方法を説明します。 このチュートリアルでは、同期の仕組み、Marketoリード管理 (MLM) ソリューションのダウンロード、サーバー間接続用の MLM ソリューションのインストール、2 つのシステムの接続について説明します。 Microsoft Dynamics 同期の設定に役立つ、同期の検証、同期されるレコード数の制限、同期時間の予測に関するその他のヒントとテクニックを共有します。
 

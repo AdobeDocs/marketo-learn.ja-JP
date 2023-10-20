@@ -10,17 +10,15 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-17T00:00:00Z
 jira: KT-14113
 thumbnail: 3424719.jpeg
-source-git-commit: a40cb276fbf63d4707d6e238c4b536f7629a748e
+source-git-commit: d7daf2d9664baafeafd887d27cf412d7a183dd76
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '286'
 ht-degree: 4%
 
 ---
 
 
 # Salesforce 同期の開始
-
-*資料：AdobeMarketo Champions から作成。*
 
 Marketo Engageと Salesforce が連携して、セールスとマーケティングのデータを同期させる方法を説明します。 このチュートリアルでは、同期の仕組み、適切なデータのフローを得るための同期の設定、および正しく機能していることを確認するための重要な事項について説明します。 Salesforce 同期の管理に関するその他のヒントとテクニックが共有され、同期するフィールドを選択したり、不要になったフィールドを非表示にしたりするのに役立ちます。
 
