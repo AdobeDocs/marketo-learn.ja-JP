@@ -9,7 +9,7 @@ last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13875
 thumbnail: KT-13875.jpeg
 hide: false
-source-git-commit: b2659102b57cf86f89d524f4786d3101800a0a38
+source-git-commit: 96ec338944d486b74ac77d91aba3ede482abf135
 workflow-type: tm+mt
 source-wordcount: '433'
 ht-degree: 1%
@@ -19,7 +19,7 @@ ht-degree: 1%
 
 # CRM 同期エラーをログに記録してトラブルシューティングを容易にします
 
-Marketo Engage管理者が、インスタンスが CRM と同期しているかどうかを確認することが、 [日課](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. While the [Notifications section](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (Marketo Engageインターフェイスの右上隅にある ) 頻繁な同期の問題を見つけて調査する場所です。インスタンスの正常性を整理された方法で管理するのに役立つヒントがあります。  AdobeMarketoチャンピオン (2022)、Amy Goldfine は、トラブルシューティングを容易にするために、管理者ユーザーに CRM 同期エラーのログを保持することをお勧めします。
+Marketo Engage管理者が、インスタンスが CRM と同期しているかどうかを確認することが、 [日課](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. While the [Notifications section](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (Marketo Engageインターフェイスの右上隅にある ) 頻繁な同期の問題を見つけて調査する場所です。インスタンスの正常性を整理された方法で管理するのに役立つヒントがあります。 AdobeMarketoチャンピオン (2019-2022)、Amy Goldfine は、トラブルシューティングを容易にするために、管理者ユーザーに CRM 同期エラーのログを保持することをお勧めします。
 
 ![「同期エラー」タブのスクリーンショット](/help/tutorial-inherited-instance/_assets/Marketo_Engage_Admin_Salesforce_Sync_Errors_Tab.png)
 
