@@ -1,6 +1,6 @@
 ---
 title: 製品ツアーのDynamic Chat
-description: Dynamic Chat(Adobeのマーケティングと販売のために構築された新しいチャットソリューション ) について説明します。
+description: マーケティングおよび営業用に構築されたアドビの新しいチャットソリューションである Dynamic Chat について説明します。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -10,7 +10,7 @@ thumbnail: 3425033.jpeg
 source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
 workflow-type: tm+mt
 source-wordcount: '77'
-ht-degree: 0%
+ht-degree: 19%
 
 ---
 
