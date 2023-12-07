@@ -6,10 +6,10 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
+source-git-commit: 0ec4c6cada3b33a40b9e29a8dfaa3360208e589d
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 9%
+source-wordcount: '392'
+ht-degree: 8%
 
 ---
 
@@ -33,8 +33,6 @@ ht-degree: 9%
      *Web 訪問者に対する会話のターゲットを設定し、Marketoのリード情報を使用してパーソナライズします。*
    * **[のユーザーを追加および管理 [!UICONTROL Dynamic Chat]](user-management.md)**
      *でユーザーを追加または管理する方法について説明します。 [!UICONTROL Dynamic Chat] .*
-   * **[役割と権限](roles-and-permissions.md)**
-     *新しい役割を作成し、権限をユーザーに設定する方法についてDynamic Chatします。*
    * **[エージェント管理](agent-management.md)**
      *エージェントの管理方法を説明します。*
 * 自動チャット
@@ -50,7 +48,7 @@ ht-degree: 9%
      *公開前のダイアログのプレビューは、ダイアログのプレビュー機能を使用すると非常に簡単です。*
    * **[静的コンテンツのグローバル化](globalization-of-static-content.md)**
      *静的/システムコンテンツを選択した言語に合わせてパーソナライズできます。*
-   * **[会話フォーム](conversational-forms.md)**
+   * **[対話型のForms](conversational-forms.md)**
      *フォームの入力後すぐに Web サイトの訪問者を惹きつける方法を学びます。*
    * **[会話 SDK](conversations-sdk.md)**
      *CTA クリックを魅力的な会話に変換するための会話 SDK の実装方法を説明します。*

@@ -3,10 +3,10 @@ user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
 auto-video-transcripts: true
-source-git-commit: e131a83a6314b77d842b003824b9e33649ab224c
+source-git-commit: 0ec4c6cada3b33a40b9e29a8dfaa3360208e589d
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 11%
+source-wordcount: '322'
+ht-degree: 10%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 11%
       + [エンゲージメントマップの概要](/help/engagement-maps/engagement-map-overview.md)
       + [エンゲージメントマップのネストされたキャンペーン](/help/engagement-maps/engagement-map-nested-campaign.md)
       + [エンゲージメントマップのエラー検出と解決](/help/engagement-maps/engagement-map-error-detection-and-resolution.md)
-+ メールマーケティング {#email-marketing}
++ 電子メールマーケティング {#email-marketing}
    + [スケジュール済みメール](/help/email-marketing/scheduled-email-learn.md)
    + [スケジュール済みメールのウォークスルー](/help/email-marketing/scheduled-email-watch.md)
    + [パーソナライズされたニュースレター](/help/email-marketing/personalized-newsletter-learn.md)
@@ -87,7 +87,6 @@ ht-degree: 11%
    + [ダイアログのプレビュー](/help/dynamic-chat/dialogue-preview.md)
    + [エンゲージメントレポート](/help/dynamic-chat/engagement-report.md)
    + [静的コンテンツのグローバル化](/help/dynamic-chat/globalization-of-static-content.md)
-   + [役割と権限](/help/dynamic-chat/roles-and-permissions.md)
 + Sales Insight アクション {#sales-insight-actions}
    + [概要](/help/sales-insight-actions/overview.md)
    + [Sales Insight アクションの概要](/help/sales-insight-actions/sales-insight-actions-overview.md)
