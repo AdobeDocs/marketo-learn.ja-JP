@@ -1,12 +1,12 @@
 ---
-title: Marketo Engageチュートリアル
+title: Marketo Engage チュートリアル
 description: 次のビデオチュートリアルを視聴する： [!DNL Marketo Engage]. マーケティング自動化機能の使用方法などに関する理解を深めましょう。
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: 1f82761deb06722fed6bc49ac3992d0e9f42fec0
+source-git-commit: d28782307c573dd105766a799fc1f03fc473c813
 workflow-type: tm+mt
 source-wordcount: '48'
-ht-degree: 27%
+ht-degree: 35%
 
 ---
 
