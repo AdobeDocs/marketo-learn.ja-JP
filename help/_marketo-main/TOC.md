@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
 auto-video-transcripts: true
-source-git-commit: 8bfe4ab10393f5a9f97666aa13e183dbb664b055
+source-git-commit: c8ab7a7c94024acf062215ab6f0c1f0de2144ba0
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '337'
 ht-degree: 13%
 
 ---
@@ -68,25 +68,32 @@ ht-degree: 13%
    + [Web パーソナライゼーション](/help/cross-channel-marketing/web-personalization-learn.md)
    + [Web パーソナライゼーションのウォークスルー](/help/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
-   + [Dynamic Chatチュートリアル](/help/dynamic-chat/dynamic-chat-overview.md)
-   + [製品ツアー [2023]](/help/dynamic-chat/product-tour.md)
-   + [製品ツアー [2022]](/help/dynamic-chat/product-tour-2022.md)
-   + [セットアップとインストール](/help/dynamic-chat/setup.md)
-   + [Marketoの統合](/help/dynamic-chat/marketo-integration.md)
-   + [ユーザー管理](/help/dynamic-chat/user-management.md)
-   + [会話フォーム](/help/dynamic-chat/conversational-forms.md)
-   + [会話 SDK](/help/dynamic-chat/conversations-sdk.md)
-   + [ダイアログ管理](/help/dynamic-chat/dialogue-management.md)
-   + [訪問者をライブエージェントに接続する](/help/dynamic-chat/connect-visitors-to-live-agents.md)
-   + [エージェント管理](/help/dynamic-chat/agent-management.md)
-   + [会議の予約](/help/dynamic-chat/meeting-booking.md)
-   + [15 分後に運用開始](/help/dynamic-chat/go-live-in-15-minutes.md)
-   + [スレッドにPDFを埋め込む](/help/dynamic-chat/document-cloud-integration.md)
-   + [Stream Designer での検索](/help/dynamic-chat/search-in-stream-designer.md)
-   + [推測される属性のキャプチャ](/help/dynamic-chat/capture-inferred-attributes.md)
-   + [ダイアログのプレビュー](/help/dynamic-chat/dialogue-preview.md)
-   + [エンゲージメントレポート](/help/dynamic-chat/engagement-report.md)
-   + [静的コンテンツのグローバル化](/help/dynamic-chat/globalization-of-static-content.md)
+   + 基本を学ぶ {#dc-overview}
+      + [概要](/help/dynamic-chat/dynamic-chat-overview.md)
+      + [製品ツアー [2023]](/help/dynamic-chat/product-tour.md)
+      + [製品ツアー [2022]](/help/dynamic-chat/product-tour-2022.md)
+      + [15 分後に運用開始](/help/dynamic-chat/go-live-in-15-minutes.md)
+   + セットアップ {#dc-setup}
+      + [セットアップとインストール](/help/dynamic-chat/setup.md)
+      + [Marketoの統合](/help/dynamic-chat/marketo-integration.md)
+      + [ユーザー管理](/help/dynamic-chat/user-management.md)
+      + [エージェント管理](/help/dynamic-chat/agent-management.md)
+   + 自動チャット {#dc-automated-chat}
+      + [ダイアログ管理](/help/dynamic-chat/dialogue-management.md)
+      + [スレッドにPDFを埋め込む](/help/dynamic-chat/document-cloud-integration.md)
+      + [Stream Designer での検索](/help/dynamic-chat/search-in-stream-designer.md)
+      + [推測される属性のキャプチャ](/help/dynamic-chat/capture-inferred-attributes.md)
+      + [ダイアログのプレビュー](/help/dynamic-chat/dialogue-preview.md)
+      + [静的コンテンツのグローバル化](/help/dynamic-chat/globalization-of-static-content.md)
+      + [会話フォーム](/help/dynamic-chat/conversational-forms.md)
+      + [対話 SDK](/help/dynamic-chat/conversations-sdk.md)
+   + ライブチャットとミーティングの予約 {#dc-live-chat-meeting-booking}
+      + [訪問者をライブエージェントに接続する](/help/dynamic-chat/connect-visitors-to-live-agents.md)
+      + [会議の予約](/help/dynamic-chat/meeting-booking.md)
+   + ジェネレーティブ AI チャット {#dc-generative-ai-chat}
+      + [GenAI を活用した会話の促進](/help/dynamic-chat/gen-ai-features.md)
+   + 分析 {#dc-analytics}
+      + [エンゲージメントレポート](/help/dynamic-chat/engagement-report.md)
 + 販売インサイトアクション {#sales-insight-actions}
    + [概要](/help/sales-insight-actions/overview.md)
    + [販売インサイトアクションの概要](/help/sales-insight-actions/sales-insight-actions-overview.md)
