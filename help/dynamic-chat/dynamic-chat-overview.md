@@ -6,10 +6,10 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: b598324c7361191dce365157abbe9a2e45739820
+source-git-commit: 1b43db90dcd3d8427a53b1aed861c2886e8b6d9a
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 8%
+source-wordcount: '439'
+ht-degree: 7%
 
 ---
 
@@ -52,6 +52,8 @@ ht-degree: 8%
      *Web サイトの訪問者がフォームに記入した直後にエンゲージする方法を説明します。*
    * **[会話 SDK](conversations-sdk.md)**
      *Conversations SDK を実装して、CTA クリックを魅力的な会話に変換する方法を説明します。*
+   * **[対話型ランディングページ](conversational-landing-pages.md)**
+     *数回クリックするだけで、Dynamic Chatの会話フローを任意のランディングページ（Marketo ランディングページまたはカスタム）にインストールし、任意のリンクやボタンを会話エンゲージメントのトリガーに変換します。*
 * ライブチャットとミーティングの予約
    * **[訪問者をライブエージェントに接続する](connect-visitors-to-live-agents.md)**
      *認定リードを接続して、セールスエージェントと即座にエンゲージします。*
@@ -63,4 +65,3 @@ ht-degree: 8%
 * Analytics
    * **[エンゲージメントレポート](engagement-report.md)**
      *Web 訪問者によるダイアログの操作の傾向を確認します。*
-
