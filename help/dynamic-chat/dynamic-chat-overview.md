@@ -6,9 +6,9 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: 1b43db90dcd3d8427a53b1aed861c2886e8b6d9a
+source-git-commit: 02c297e50ae5ba663afe024766877e72ed94fceb
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '464'
 ht-degree: 7%
 
 ---
@@ -52,6 +52,8 @@ ht-degree: 7%
      *Web サイトの訪問者がフォームに記入した直後にエンゲージする方法を説明します。*
    * **[会話 SDK](conversations-sdk.md)**
      *Conversations SDK を実装して、CTA クリックを魅力的な会話に変換する方法を説明します。*
+   * **[再利用可能なフロー](reusable-flows.md)**
+     *新しい対話型フローカードを使用すると、会話の設計と管理を簡単に行うことができます。 対話型ストリームを 1 回作成し、複数のダイアログに再利用します。*
    * **[対話型ランディングページ](conversational-landing-pages.md)**
      *数回クリックするだけで、Dynamic Chatの会話フローを任意のランディングページ（Marketo ランディングページまたはカスタム）にインストールし、任意のリンクやボタンを会話エンゲージメントのトリガーに変換します。*
 * ライブチャットとミーティングの予約
