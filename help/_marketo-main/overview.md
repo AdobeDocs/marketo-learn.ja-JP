@@ -1,6 +1,6 @@
 ---
 title: Marketo Engage チュートリアル
-description: 次のビデオチュートリアルを視聴する： [!DNL Marketo Engage]. マーケティング自動化機能の使用方法などに関する理解を深めましょう。
+description: のビデオチュートリアルをご覧ください。 [!DNL Marketo Engage]. マーケティング自動化機能の使用方法などに関する理解を深めましょう。
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
 source-git-commit: d28782307c573dd105766a799fc1f03fc473c813
@@ -12,7 +12,7 @@ ht-degree: 35%
 
 # [!DNL Marketo Engage] チュートリアル
 
-チュートリアルライブラリを参照し、 [!DNL Marketo Engage]. これらのチュートリアルは、 [[!DNL Marketo] 製品ドキュメント](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ja){target="_blank"} マーケティング自動化機能の理解を深めるのに役立ちます。
+チュートリアルライブラリを参照して最大限に活用する [!DNL Marketo Engage]. これらのチュートリアルは補足に役立ちます [[!DNL Marketo] 製品ドキュメント](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ja){target="_blank"} マーケティング自動処理機能の理解を深めるのに役立ちます。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>

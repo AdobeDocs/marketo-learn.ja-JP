@@ -1,6 +1,6 @@
 ---
 title: Dynamic Chatチュートリアル
-description: Adobe Experience League での Dynamic Chat について説明します。これらのチュートリアルとドキュメントを使用すると、Dynamic Chat を使用してパーソナライズされた会話を作成する方法をよく理解できます。
+description: Adobe Experience League での Dynamic Chat について説明します。 これらのチュートリアルとドキュメントを使用すると、Dynamic Chat を使用してパーソナライズされた会話を作成する方法をよく理解できます。
 doc-type: overview-page
 role: User
 level: Beginner
@@ -40,7 +40,7 @@ ht-degree: 7%
      *Web 訪問者をすばやく関与させるダイアログを作成する方法を説明します [!UICONTROL Dynamic Chat].*
    * **[スレッドにPDFを埋め込む](document-cloud-integration.md)**
      *設計したパーソナライズされた会話内でPDFドキュメントを共有 [!UICONTROL Dynamic Chat].*
-   * **[Stream Designer での検索](search-in-stream-designer.md)**
+   * **[ストリームDesignerで検索](search-in-stream-designer.md)**
      *クイック検索は、ワンクリックでストリームデザイナーの任意のカードに到達するのに役立ちます。*
    * **[推測される属性のキャプチャ](capture-inferred-attributes.md)**
      *Munchkin ID を活用することで、Dynamic Chatを通じて取得したすべてのリードに対して推定属性を特定し、入力できます。*
