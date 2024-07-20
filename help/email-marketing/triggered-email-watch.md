@@ -1,5 +1,5 @@
 ---
-title: トリガーされた電子メールキャンペーンの作成
+title: トリガーメールキャンペーンの作成
 description: トリガーされたスマートキャンペーンの作成方法を説明します。
 role: User
 level: Beginner
@@ -10,11 +10,11 @@ feature: Smart Campaigns
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
 source-wordcount: '26'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# トリガーされた電子メールキャンペーンの作成
+# トリガーメールキャンペーンの作成
 
 トリガーされたスマートキャンペーンの作成方法を説明します。
 

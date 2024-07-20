@@ -1,6 +1,6 @@
 ---
-title: ソーシャルマーケティングに対するエンゲージメントの促進方法
-description: ソーシャルマーケティングを使用してブランドエンゲージメントを促進する方法を視聴します。
+title: ソーシャルマーケティングとのエンゲージメントを高める方法
+description: ソーシャルマーケティングを使用してブランドエンゲージメントを促進する方法をご覧ください。
 role: User
 level: Beginner
 jira: KT-10723
@@ -10,12 +10,12 @@ feature: Social
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
 source-wordcount: '38'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# ソーシャルマーケティングに対するエンゲージメントの促進方法
+# ソーシャルマーケティングとのエンゲージメントを高める方法
 
-ソーシャルマーケティングを使用してブランドエンゲージメントを促進する方法を視聴します。
+ソーシャルマーケティングを使用してブランドエンゲージメントを促進する方法をご覧ください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345406/?quality=12&learn=on){transcript=true}

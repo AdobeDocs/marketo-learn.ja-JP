@@ -1,6 +1,6 @@
 ---
-title: 継承されたMarketo Engage・インスタンスを監査するためのヒントとテクニック
-description: 継承したライブMarketo Engageインスタンスを最適化および拡大/縮小する方法を説明します。
+title: 継承されたMarketo Engageインスタンスの監査に関するヒントとテクニック
+description: 継承したライブMarketo Engageインスタンスを最適化およびスケールする方法について説明します。
 feature: Administration
 role: Admin
 level: Beginner
@@ -9,35 +9,35 @@ last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13890
 thumbnail: KT-13890.jpeg
 hide: false
-source-git-commit: 4dc6aeed353fdd8bac960603af22b060ae2d7f00
+exl-id: e42b8fe8-1d9d-4cc1-8175-c47d911f96f3
+source-git-commit: 681d390ce5ab336a7e24cc63256659a492288517
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
 
+# 継承されたMarketo Engageインスタンスの監査のヒントとテクニック – チュートリアルの概要
 
-# 継承されたMarketo Engageインスタンスの監査に関するヒントとテクニック — チュートリアルの概要
+*Source: Adobe Marketo チャンピオン*
 
-*資料：AdobeMarketo Champions から作成。*
+複数のユーザーが管理しているライブMarketo Engageインスタンスを継承すると、場違いのように見えるすべてのメモを作成してしまう場合があります。 タスクを分類してから、長い道のりを歩むタスクの優先順位を付けることで、クリーンアップと最適化の作業を整理することが重要です。
 
-複数のユーザーが管理しているライブMarketo Engageインスタンスを継承する場合、不適切に見えるすべてのものについて、自分がメンタルノートを作成することになる場合があります。 クリーンアップと最適化の作業を整理するには、タスクを分類し、長期にわたるタスクを優先順位付けすることが重要です。
-
-AdobeMarketo Champions が提供するこの「継承されたインスタンス監査のヒントとテクニック」チュートリアルでは、新しい管理者に対して手順を追ってガイダンスを提供します。 このチュートリアルはダウンロード可能です。 [監査チェックリスト](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html) 継承されたインスタンスをすぐにすぐにジャンプスタートできるようにするテンプレートと チュートリアルに従って、仲間から学ぶことに刺激を受けます。 
+AdobeのMarketo Champions をソースとするこの「継承されたインスタンス監査のヒントとテクニック」チュートリアルは、新しい管理者向けのステップバイステップのガイダンスを提供します。 このチュートリアルには、ダウンロード可能な [ 監査チェックリスト ](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html) テンプレートが付属しており、継承されたインスタンスをすぐに開始するのに役立ちます。 チュートリアルに従って、仲間から学ぶことでインスピレーションを得ましょう。 
 
 ## トピックと学習内容
 
 * **[継承されたインスタンスの監査](/help/tutorial-inherited-instance/audit-an-inherted-instance.md)**
-  *初めての既存のインスタンスを監査する方法を説明します。 キャンペーンインスペクターなどの標準ツールを使用して継承された設定をテストし、インスタンスに対するインサイトを得ます。*
+  *新しい既存のインスタンスを監査する方法を説明します。 キャンペーンインスペクターなどの標準のツールを使用して継承された設定をテストし、インスタンスに関するインサイトを取得し* す。
 
-* **[CRM 同期エラーをログに記録してトラブルシューティングを容易にします](/help/tutorial-inherited-instance/log-crm-sync-errors-for-easy-troubleshootig.md)**
-  *通知、CRM 同期、Launchpoint、Web サービスを確認し、エラーをタイムリーにトラブルシューティングするための管理ルーチンを確立する方法について説明します。*
+* **[CRM 同期エラーをログに記録して、トラブルシューティングを簡単にする](/help/tutorial-inherited-instance/log-crm-sync-errors-for-easy-troubleshootig.md)**
+  *通知、CRM 同期、Launchpoint、web サービスをレビューし、エラーをタイムリーにトラブルシューティングするための管理ルーチンを確立する方法について説明します。*
 
 * **[インスタンスガバナンスガイドの作成](/help/tutorial-inherited-instance/develop-an-instance-governance-guide.md)**
-  *プログラムの構築、ガバナンス、全体的なマーケティング操作を最適化するために、効率性を迅速に達成する方法を説明します。*
+  *迅速な効率を実現して、プログラムの構築、ガバナンスおよび全体的なマーケティング業務を最適化する方法を説明します*
 
 * **[マーケティングテクニカルスタックを視覚的にマッピング](/help/tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)**
-  *視覚的なアーキテクチャ図を使用してデータソースをマッピングし、テクニカルスタックを理解する方法を説明します。*
+  *視覚的なアーキテクチャ図を使用してデータソースをマッピングし、テクニカルスタックを理解する方法を説明します*
 
-* **[起動前の品質保証 (QA) プロセスをプログラムします。](/help/tutorial-inherited-instance/essential-program-pre-launch-qa.md)**
-  *効果的なプログラムの事前起動 QA プロセスを確立して、間違いを回避する方法を説明します。*
+* **[プログラムの起動前品質保証（QA）プロセス](/help/tutorial-inherited-instance/essential-program-pre-launch-qa.md)**
+  *効果的なプログラムを確立して、ミスを避けるためのローンチ前 QA プロセスを確立する方法を説明します。*

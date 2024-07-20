@@ -1,6 +1,6 @@
 ---
 title: ウェビナープログラムの作成と実行
-description: ウェビナーを作成し、Marketoから管理する方法を説明します。
+description: ウェビナーを作成しMarketoから管理する方法について説明します。
 role: User
 level: Beginner
 jira: KT-10760
@@ -10,12 +10,12 @@ feature: Programs, Events
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
 source-wordcount: '36'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
 # ウェビナープログラムの作成と実行
 
-ウェビナーを作成し、Marketoから管理する方法を説明します。
+ウェビナーを作成しMarketoから管理する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345477/?quality=12&learn=on){transcript=true}

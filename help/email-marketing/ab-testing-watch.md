@@ -1,6 +1,6 @@
 ---
 title: A/B テストの作成
-description: Marketoで電子メール A/B テストを作成して、電子メールのパフォーマンスを向上させる方法を説明します。
+description: Marketoでメール A/B テストを作成して、メールのパフォーマンスを向上させる方法を説明します。
 role: User
 level: Beginner
 jira: KT-10767
@@ -10,12 +10,12 @@ feature: A/B Testing
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
 source-wordcount: '44'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
 # A/B テストの作成
 
-Marketoで電子メール A/B テストを作成して、電子メールのパフォーマンスを向上させる方法を説明します。
+Marketoでメール A/B テストを作成して、メールのパフォーマンスを向上させる方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345484/?quality=12&learn=on){transcript=true}

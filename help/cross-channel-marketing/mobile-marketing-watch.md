@@ -1,6 +1,6 @@
 ---
-title: モバイルマーケティングをMarketoと統合する方法
-description: 購入者のペルソナの作成方法、KPI の設定方法、コミュニケーションケイデンスの決定方法、使用方法を見る [!DNL Marketo’s] マーケティングカレンダーなどを参照し、モバイルマーケティング戦略を強化します。
+title: モバイルマーケティングとMarketoを統合する方法
+description: 購入者のペルソナを作成する方法、KPI を設定する方法、コミュニケーション頻度を決定する方法、使用  [!DNL Marketo’s]  マーケティングカレンダーなどを視聴してモバイルマーケティング戦略を改善する方法をご覧ください。
 role: User
 level: Beginner
 jira: KT-10729
@@ -10,12 +10,12 @@ feature: Mobile Marketing
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
 source-wordcount: '61'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
 # モバイルマーケティングとMarketoの統合
 
-購入者のペルソナの作成方法、KPI の設定方法、通信ケイデンスの決定方法、 [!DNL Marketo] マーケティングカレンダーなどを参照し、モバイルマーケティング戦略を強化します。
+購入者のペルソナを作成する方法、KPI を設定する方法、コミュニケーション頻度を決定する方法、[!DNL Marketo] マーケティングカレンダーを使用する方法など、モバイルマーケティング戦略を改善する方法をご覧ください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345402/?quality=12&learn=on){transcript=true}

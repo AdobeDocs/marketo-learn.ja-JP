@@ -1,5 +1,5 @@
 ---
-title: 製品ツアーのDynamic Chat
+title: Dynamic Chat の製品ツアー
 description: マーケティングおよび営業用に構築されたアドビの新しいチャットボットソリューションである Dynamic Chat について説明します。
 role: User
 level: Beginner
@@ -9,14 +9,14 @@ exl-id: 6da18db9-1fc9-4a30-a302-102904f79aee
 feature: Dynamic Chat
 source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 15%
+source-wordcount: '99'
+ht-degree: 45%
 
 ---
 
-# の製品ツアー [!UICONTROL Dynamic Chat] [2022 年]
+# [!UICONTROL Dynamic Chat] の製品ツアー[2022 年]
 
-[!UICONTROL Dynamic Chat]  は、マーケティングと販売のために構築された新しい chatbot ソリューションです。 とネイティブに統合されています。 [!DNL Marketo Engage]：を使用できます。 [!UICONTROL Dynamic Chat]  をクロスチャネルマーケティングの新しいチャネルとして追加します。 簡単に使用でき、設定が簡単です。 クイック製品ツアーを見る：
+[!UICONTROL Dynamic Chat] は、マーケティングおよび営業用に構築された新しいチャットボットソリューションです。 [!DNL Marketo Engage] とネイティブに統合されており、[!UICONTROL Dynamic Chat] をクロスチャネルマーケティングの新しいチャネルとして使用できます。 シンプルに使用でき、設定も簡単です。 製品クイックツアーに参加：
 
 >[!VIDEO](https://video.tv.adobe.com/v/340473/?quality=12&learn=on){transcript=true}
 
@@ -24,5 +24,5 @@ ht-degree: 15%
 
 * [製品ツアー [2022]](product-tour-2022.md)
 * [Chatbot のセットアップとインストール](setup.md)
-* [とのMarketo統合のアクティブ化 [!UICONTROL Dynamic Chat]](marketo-integration.md)
-* [15 分で生きて行け](go-live-in-15-minutes.md)
+* [[!UICONTROL Dynamic ChatとのMarketo統合のアクティブ化 ]](marketo-integration.md)
+* [わずか15分でDynamic Chatを利用開始](go-live-in-15-minutes.md)

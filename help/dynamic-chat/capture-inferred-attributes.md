@@ -1,6 +1,6 @@
 ---
 title: 推測される属性のキャプチャ
-description: Dynamic Chatは同じAdobe Marketo Engage Munchkin Cookie を使用するので、Munchkin を活用することで、Dynamic Chatを通じてキャプチャされたすべての人に対して、推測される属性を識別し、設定するようになりました
+description: Dynamic Chatでは同じAdobe Marketo Engage munchkin cookie を使用しているので、munchkin を活用することで、Dynamic Chatを通じて取得されたすべての人に対して推測される属性を識別し、設定するようになりました
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,18 +12,18 @@ feature: Dynamic Chat
 source-git-commit: b614aa134ee0ccbbfd70c6ab73339287d6ebb27a
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
 # 推測される属性のキャプチャ
 
-Dynamic Chatは同じAdobe Marketo Engage Munchkin Cookie を使用するので、Munchkin を活用することで、Dynamic Chatを通じてキャプチャされたすべての人に対して、推測される属性を識別し、設定するようになりました。
+Dynamic Chatでは同じAdobe Marketo Engage munchkin cookie を使用しているので、munchkin を活用することで、Dynamic Chatを通じて取得されたすべての人に対して推測される属性を識別し、設定するようになりました。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416922/?quality=12&learn=on){transcript=true}
 
 ## その他の役に立つビデオ
 
-* [のユーザーを追加および管理 [!UICONTROL Dynamic Chat]](user-management.md)
-* [パーソナライズしたダイアログの作成と管理](dialogue-management.md)
-* [とのMarketo統合のアクティブ化 [!UICONTROL Dynamic Chat]](marketo-integration.md)
+* [[!UICONTROL Dynamic Chat] のユーザーを追加および管理します](user-management.md)
+* [パーソナライズされたダイアログの作成と管理](dialogue-management.md)
+* [[!UICONTROL Dynamic ChatとのMarketo統合のアクティブ化 ]](marketo-integration.md)

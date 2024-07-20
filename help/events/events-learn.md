@@ -1,6 +1,6 @@
 ---
-title: イベントプログラムの作成について説明します
-description: イベントマーケティングプログラムでの対面エンゲージメントを活用して、関係を構築し、のれんを生み出し、見込み客と顧客の信頼を獲得します。
+title: イベントプログラムの作成について学ぶ
+description: イベントマーケティングプログラムで担当者の関与を活用して、関係を構築し、のれんを生み出し、見込み客や見込み客の信頼を得ます。
 role: User
 level: Beginner
 jira: KT-10753
@@ -10,12 +10,12 @@ feature: Programs, Events
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
 source-wordcount: '58'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# イベントプログラムの作成について説明します
+# イベントプログラムの作成について学ぶ
 
-イベントマーケティングプログラムでの対面エンゲージメントを活用して、関係を構築し、のれんを生み出し、見込み客と顧客の信頼を獲得します。
+イベントマーケティングプログラムで担当者の関与を活用して、関係を構築し、のれんを生み出し、見込み客や見込み客の信頼を得ます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345472/?quality=12&learn=on){transcript=true}

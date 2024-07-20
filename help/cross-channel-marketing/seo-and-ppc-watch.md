@@ -1,6 +1,6 @@
 ---
-title: SEO の取り組みを最適化する方法： [!DNL Marketo]
-description: 効果的な SEO と PPC 戦略を作成するために、成功のための手順を実装する方法を見てください。
+title: ' [!DNL Marketo] を使用して SEO の取り組みを最適化する方法'
+description: 有益な SEO と PPC 戦略を作成するための成功手順を実装する方法をご覧ください。
 role: User
 level: Beginner
 jira: KT-10730
@@ -10,12 +10,12 @@ feature: SEO
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
 source-wordcount: '44'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# SEO の取り組みを最適化する方法： [!DNL Marketo]
+# [!DNL Marketo] で SEO の取り組みを最適化する方法
 
-効果的な SEO と PPC 戦略を作成するために、成功のための手順を実装する方法を見てください。
+有益な SEO と PPC 戦略を作成するための成功手順を実装する方法をご覧ください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345400/?quality=12&learn=on){transcript=true}

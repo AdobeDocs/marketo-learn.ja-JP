@@ -1,6 +1,6 @@
 ---
-title: サブスクリプションセンターの設定および管理方法
-description: サブスクリプションセンターを設定および管理して、サブスクリプションセンターと購読者との間にプロセスを実装する方法を確認します。
+title: Subscription センターのセットアップおよび管理方法
+description: 購読センターを設定および管理して、購読者と購読者のプロセスを実装する方法について説明します。
 role: User
 level: Beginner
 jira: KT-10743
@@ -12,12 +12,12 @@ feature: Deliverability
 source-git-commit: 6431f68a2ffb3f8ccf1e35223592b9d8d1ea5126
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# サブスクリプションセンターの設定および管理方法
+# Subscription センターのセットアップおよび管理方法
 
-サブスクリプションセンターを設定および管理して、サブスクリプションセンターと購読者との間にプロセスを実装する方法を確認します。
+購読センターを設定および管理して、購読者と購読者のプロセスを実装する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345427/?quality=12&learn=on){transcript=true}

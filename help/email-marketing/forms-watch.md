@@ -1,6 +1,6 @@
 ---
 title: フォームの作成および編集方法
-description: プログレッシブプロファイリングを含むフォームの構築、設計、編成方法を確認します。
+description: プログレッシブプロファイルを含むフォームを作成、設計、整理する方法について説明します。
 role: User
 level: Beginner
 jira: KT-10756
@@ -10,12 +10,12 @@ feature: Forms
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
 source-wordcount: '38'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
 # フォームの作成および編集方法
 
-プログレッシブプロファイリングを含むフォームの構築、設計、編成方法を確認します。
+プログレッシブプロファイルを含むフォームを作成、設計、整理する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345475/?quality=12&learn=on){transcript=true}

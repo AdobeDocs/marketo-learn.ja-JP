@@ -1,6 +1,6 @@
 ---
 title: エンゲージメントレポート
-description: Web 訪問者がダイアログにどのように関わっているかの傾向を確認できます。
+description: 次に、web 訪問者によるダイアログの操作の傾向を確認します。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,18 +12,18 @@ feature: Dynamic Chat
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
 source-wordcount: '54'
-ht-degree: 7%
+ht-degree: 16%
 
 ---
 
 # エンゲージメントレポート
 
-Web 訪問者がダイアログにどのように関わっているかの傾向を確認できます。
+次に、web 訪問者によるダイアログの操作の傾向を確認します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416921/?quality=12&learn=on){transcript=true}
 
 ## その他の役に立つビデオ
 
-* [のユーザーを追加および管理 [!UICONTROL Dynamic Chat]](user-management.md)
-* [パーソナライズしたダイアログの作成と管理](dialogue-management.md)
-* [とのMarketo統合のアクティブ化 [!UICONTROL Dynamic Chat]](marketo-integration.md)
+* [[!UICONTROL Dynamic Chat] のユーザーを追加および管理します](user-management.md)
+* [パーソナライズされたダイアログの作成と管理](dialogue-management.md)
+* [[!UICONTROL Dynamic ChatとのMarketo統合のアクティブ化 ]](marketo-integration.md)

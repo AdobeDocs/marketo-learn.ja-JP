@@ -1,6 +1,6 @@
 ---
-title: トークンを使用してパーソナライズ
-description: Marketoプログラムでトークンを使用する方法について説明します。 Marketoプログラムでのトークンの活用は、パーソナライゼーション、プログラムの構築時間の短縮、入力ミスや人為的エラーの可能性の低減に役立ちます。
+title: トークンを使用したパーソナライズ
+description: Marketo プログラムでトークンを使用する方法を説明します。 Marketo プログラムでトークンを活用すると、パーソナライゼーションに役立ち、プログラムのビルド時間が短縮され、入力ミスや人的エラーの可能性が低くなります。
 feature: Tokens
 role: Admin, User
 level: Beginner, Intermediate
@@ -8,16 +8,16 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-21T00:00:00Z
 jira: KT-13611
 thumbnail: 3421605.jpeg
-source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
+exl-id: 8ff3053e-28ba-43f8-91a6-25fd16f6def3
+source-git-commit: a80342218bbc8c42f88c6ccf3a435cbbd3bd47d0
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
+# トークンを使用したパーソナライズ
 
-# トークンを使用してパーソナライズ
-
-Marketoプログラムでトークンを使用する方法について説明します。 Marketoプログラムでのトークンの活用は、パーソナライゼーション、プログラムの構築時間の短縮、入力ミスや人為的エラーの可能性の低減に役立ちます。
+Marketo プログラムでトークンを使用する方法を説明します。 Marketo プログラムでトークンを活用すると、パーソナライゼーションに役立ち、プログラムのビルド時間が短縮され、入力ミスや人的エラーの可能性が低くなります。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421605/?learn=on){transcript=true}

@@ -1,6 +1,6 @@
 ---
-title: Web パーソナライゼーションで訪問者を惹きつける方法
-description: 接続方法を見る [!DNL Marketo] をデジタル広告の LaunchPoint パートナーのいくつかに追加します。
+title: Web パーソナライゼーションで訪問者を引き付ける方法
+description: 当社のデジタル広告 LaunchPoint パートナーの  [!DNL Marketo]  くつかに接続する方法をご覧ください。
 role: User
 level: Beginner
 jira: KT-10726
@@ -10,12 +10,12 @@ feature: Web Personalization
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
 source-wordcount: '40'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Web パーソナライゼーションで訪問者を惹きつける方法
+# Web パーソナライゼーションで訪問者を引き付ける方法
 
-接続方法を見る [!DNL Marketo] をデジタル広告の LaunchPoint パートナーのいくつかに追加します。
+アドビのデジタル広告である LaunchPoint パートナーの一部に [!DNL Marketo] を接続する方法をご覧ください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345404/?quality=12&learn=on){transcript=true}

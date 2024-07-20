@@ -1,6 +1,6 @@
 ---
-title: フォームの作成と編集について説明します
-description: 用途 [!DNL Marketo forms] 見込み客が web サイトを訪問する際に、個人データを徐々に取り込むため。
+title: フォームの作成と編集について学ぶ
+description: 見込み客が Web サ  [!DNL Marketo forms]  トを訪問する際に、人物データを段階的に取り込むために使用します。
 role: User
 level: Beginner
 jira: KT-10755
@@ -10,12 +10,12 @@ feature: Forms
 source-git-commit: b614aa134ee0ccbbfd70c6ab73339287d6ebb27a
 workflow-type: tm+mt
 source-wordcount: '36'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# フォームの作成と編集について説明します
+# フォームの作成と編集について学ぶ
 
-用途 [!DNL Marketo forms] 見込み客が web サイトを訪問する際に、個人データを徐々に取り込むため。
+見込み客が Web サイトを訪問する際に、[!DNL Marketo forms] を使用してユーザーデータを段階的に取り込みます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345474/?quality=12&learn=on){transcript=true}

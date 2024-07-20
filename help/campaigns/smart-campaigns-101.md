@@ -28,9 +28,9 @@ ht-degree: 3%
 
 **ドキュメント：**
 
-* [スマートキャンペーンについてドキュメント](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=en)
+* [ スマートキャンペーンのドキュメントについて ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=en)
 
-**エキスパートのお客様のブログ投稿：**
+**Expert Customer のブログ投稿：**
 
-* [スマートキャンペーン 101:Adobe Marketo Engageの最も強力な機能の詳細](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
-* [Marketoサクセスシリーズ：スマートキャンペーン](https://nation.marketo.com/t5/product-blogs/marketo-success-series-smart-campaigns/ba-p/306961)
+* [ スマートキャンペーン 101:Adobe Marketo Engageの最も強力な機能の詳細 ](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
+* [Marketoサクセスシリーズ：スマートキャンペーン ](https://nation.marketo.com/t5/product-blogs/marketo-success-series-smart-campaigns/ba-p/306961)

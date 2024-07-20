@@ -1,6 +1,6 @@
 ---
-title: E メールの配信品質の最適化方法
-description: ベストプラクティス、E メール認証、レピュテーションを通じて、E メールの配信品質を最適化する方法をご覧ください。
+title: メール配信品質を最適化する方法
+description: ベストプラクティス、メール認証、レピュテーションを通じてメールの配信品質を最適化する方法をご覧ください。
 role: User
 level: Beginner
 jira: KT-10765
@@ -10,12 +10,12 @@ feature: Deliverability
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
 source-wordcount: '38'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# E メールの配信品質の最適化方法
+# メール配信品質を最適化する方法
 
-ベストプラクティス、E メール認証、レピュテーションを通じて、E メールの配信品質を最適化する方法をご覧ください。
+ベストプラクティス、メール認証、レピュテーションを通じてメールの配信品質を最適化する方法をご覧ください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345482/?quality=12&learn=on){transcript=true}

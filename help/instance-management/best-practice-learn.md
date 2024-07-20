@@ -1,6 +1,6 @@
 ---
-title: 使用の詳細 [!DNL Marketo] インスタンスとプログラムのベストプラクティス
-description: フォロー中 [!DNL Marketo's] プログラムやインスタンスを整理するための推奨ベストプラクティスは、必要に応じてインスタンス内で必要なものを見つけ、レポートをより正確にするのに役立ちます。
+title: 使用  [!DNL Marketo]  インスタンスおよびプログラムのベストプラクティスについて説明します
+description: 以下では  [!DNL Marketo's]  プログラムとインスタンスを整理するためのベストプラクティスを紹介します。これにより、ユーザーや同僚が必要なときに、インスタンスで必要なものを見つけることができ、レポートをより正確にすることができます。
 role: User
 level: Beginner
 jira: KT-10736
@@ -11,12 +11,12 @@ exl-id: c128913a-a4f7-4f45-ab62-3ced27f068d5
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 使用の詳細 [!DNL Marketo] インスタンスとプログラムのベストプラクティス
+# インスタンスとプログラム [!DNL Marketo] ベストプラクティスの使用について説明します
 
-フォロー中 [!DNL Marketo's] プログラムやインスタンスを整理するための推奨ベストプラクティスは、必要に応じてインスタンス内で必要なものを見つけ、レポートをより正確にするのに役立ちます。
+プログラム [!DNL Marketo's] インスタンスを整理するためのベストプラクティスに従うと、ユーザーや同僚が必要なときにインスタンスで必要なものを見つけることができ、レポートをより正確にすることができます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345420/?quality=12&learn=on){transcript=true}

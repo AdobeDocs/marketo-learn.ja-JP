@@ -1,6 +1,6 @@
 ---
-title: トリガーされた電子メールキャンペーンの作成について説明します
-description: 使用方法を学ぶ [!DNL Marketo] を活用して、トリガーされた e メールキャンペーンを使用して、タイムリーで関連性の高いメッセージを利用し、購入者の行動を活かすことができます。
+title: トリガーメールキャンペーンの作成について学ぶ
+description: トリガー  [!DNL Marketo]  れたメールキャンペーンを使用してタイムリーで関連性の高いメッセージに関与することで、購入者の行動を活用する方法を説明します。
 role: User
 level: Beginner
 jira: KT-10762
@@ -10,12 +10,12 @@ feature: Smart Campaigns
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# トリガーされた電子メールキャンペーンの作成について説明します
+# トリガーメールキャンペーンの作成について学ぶ
 
-使用方法を学ぶ [!DNL Marketo] を活用して、トリガーされた e メールキャンペーンを使用して、タイムリーで関連性の高いメッセージを利用し、購入者の行動を活かすことができます。
+トリガーされたメールキャンペーンを使用してタイムリーで適切なメッセージに関与することで、[!DNL Marketo] を使用して買い手の行動を収益化する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345479/?quality=12&learn=on){transcript=true}

@@ -1,6 +1,6 @@
 ---
 title: Marketoのプログラムとキャンペーンについて
-description: コンテンツマーケティング戦略を策定し、オーディエンスを惹きつけ、獲得し、惹きつけます。
+description: コンテンツマーケティング戦略を開発して、オーディエンスを引き付け、獲得し、惹き付けます。
 role: User
 level: Beginner
 jira: KT-13203

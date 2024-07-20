@@ -1,6 +1,6 @@
 ---
-title: 作成と実行について説明します [!UICONTROL リード] キャンペーンの育成
-description: ユーザーの育成に伴い、個人のニーズに耳を傾け、独自の購入者ジャーニー全体を通じて関連性の高いコンテンツで対応できます。 育成プログラム、その仕組み、成功のためのステップについて学びます。
+title: '[!UICONTROL  リード ] 育成キャンペーンの作成と実行について説明します'
+description: 人材の育成により、個人のニーズに耳を傾け、独自の買い手ジャーニーを通じて関連コンテンツで対応できます。 ナーチャリングプログラム、その仕組み、成功の手順について説明します。
 role: User
 level: Beginner
 jira: KT-10761
@@ -10,12 +10,12 @@ feature: Engagement Programs
 source-git-commit: b614aa134ee0ccbbfd70c6ab73339287d6ebb27a
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 作成と実行について説明します [!UICONTROL リード] キャンペーンの育成
+# [!UICONTROL  リード ] 育成キャンペーンの作成と実行について説明します
 
-を使用 [!UICONTROL 人の育成]を使用すると、個人のニーズに耳を傾け、独自の購入者ジャーニー全体を通じて関連性の高いコンテンツで応えることができます。 育成プログラム、その仕組み、成功のためのステップについて学びます。
+[!UICONTROL  ユーザー育成 ] を使用すると、個人のニーズを聞き、独自の買い手ジャーニー全体を通して関連コンテンツで応答できます。 ナーチャリングプログラム、その仕組み、成功の手順について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345478/?quality=12&learn=on){transcript=true}

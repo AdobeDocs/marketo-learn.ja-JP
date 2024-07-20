@@ -25,14 +25,14 @@ ht-degree: 12%
    + [新しいインスタンスを整理するためのベストプラクティス](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [基本的なプログラムを作成するためのベストプラクティス](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [トークンを使用したパーソナライズ](/help/personalization/personalize-with-tokens.md)
-   + [新しいインスタンスの実装 – チュートリアル](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
-   + [継承されたインスタンスの監査 – チュートリアル](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
+   + [ 新しいインスタンスの実装 – チュートリアル ](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
+   + [ 継承されたインスタンスの監査 – チュートリアル ](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
 + プログラムとキャンペーン {#programs-and-campaigns}
    + [プログラムとキャンペーンについて](/help/programs/understanding-programs-and-campaigns.md)
    + [スマートキャンペーン 101](/help/campaigns/smart-campaigns-101.md)
    + [メールプログラム](/help/programs/email-programs.md)
    + [イベントプログラム](/help/programs/event-programs.md)
-   + デフォルトプログラム {#default-programs}
+   + 既定のプログラム {#default-programs}
       + [デフォルトプログラムの作成と測定](/help/programs/create-and-measure-default-programs.md)
       + [デフォルトプログラムの柔軟性の活用](/help/programs/leverage-the-flexibility-of-default-programs.md)
    + [エンゲージメントプログラム](/help/programs/engagement-programs.md)
@@ -58,7 +58,7 @@ ht-degree: 12%
    + [トリガーメールのウォークスルー](/help/email-marketing/triggered-email-watch.md)
    + [リード育成](/help/email-marketing/lead-nuturing-learn.md)
    + [動的および予測コンテンツ](/help/email-marketing/dynamic-and-predictive-content-learn.md)
-   + [E メールボットアクティビティのフィルタリング – 設定](/help/filtering-email-bot-activities/setup.md)
+   + [ メールボットアクティビティのフィルタリング – 設定 ](/help/filtering-email-bot-activities/setup.md)
 + クロスチャネルマーケティング {#cross-channel-marketing}
    + [Formsのウォークスルー](/help/email-marketing/forms-watch.md)
    + [モバイルマーケティングの統合](/help/cross-channel-marketing/mobile-marketing-learn.md)
@@ -80,7 +80,7 @@ ht-degree: 12%
    + [エージェント管理](/help/dynamic-chat/agent-management.md)
    + [ダイアログ管理](/help/dynamic-chat/dialogue-management.md)
    + [スレッドにPDFを埋め込む](/help/dynamic-chat/document-cloud-integration.md)
-   + [Stream Designer での検索](/help/dynamic-chat/search-in-stream-designer.md)
+   + [ストリームDesignerで検索](/help/dynamic-chat/search-in-stream-designer.md)
    + [推測される属性のキャプチャ](/help/dynamic-chat/capture-inferred-attributes.md)
    + [ダイアログのプレビュー](/help/dynamic-chat/dialogue-preview.md)
    + [静的コンテンツのグローバル化](/help/dynamic-chat/globalization-of-static-content.md)
@@ -96,7 +96,7 @@ ht-degree: 12%
    + [概要](/help/sales-insight-actions/overview.md)
    + [販売インサイトアクションの概要](/help/sales-insight-actions/sales-insight-actions-overview.md)
    + [Sales Insight Actions インスタンスへのアクセス](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
-   + [への販売アクティビティのログを構成します [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
+   + [ [!DNL Salesforce] の場所への販売アクティビティのログを構成します。](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + リードおよびデータ管理 {#lead-and-data-management}
    + [リード/人物スコアリング](/help/lead-and-data-management/lead-scoring-learn.md)
    + [リード/人物スコアリングウォークスルー](/help/lead-and-data-management/lead-scoring-watch.md)

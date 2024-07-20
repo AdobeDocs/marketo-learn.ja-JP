@@ -1,6 +1,6 @@
 ---
-title: ストリームデザイナーでの検索
-description: クイック検索を使用すると、ストリームデザイナー内の任意のカードをワンクリックで表示できます。
+title: Stream Designer での検索
+description: クイック検索は、ワンクリックでストリームデザイナーの任意のカードに到達するのに役立ちます。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,18 +12,18 @@ feature: Dynamic Chat
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# ストリームデザイナーでの検索
+# Stream Designer での検索
 
-クイック検索を使用すると、ストリームデザイナー内の任意のカードをワンクリックで表示できます。
+クイック検索は、ワンクリックでストリームデザイナーの任意のカードに到達するのに役立ちます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416925/?quality=12&learn=on){transcript=true}
 
 ## その他の役に立つビデオ
 
 * [ダイアログのプレビュー](dialogue-preview.md)
-* [パーソナライズしたダイアログの作成と管理](dialogue-management.md)
-* [とのMarketo統合のアクティブ化 [!UICONTROL Dynamic Chat]](marketo-integration.md)
+* [パーソナライズされたダイアログの作成と管理](dialogue-management.md)
+* [[!UICONTROL Dynamic ChatとのMarketo統合のアクティブ化 ]](marketo-integration.md)

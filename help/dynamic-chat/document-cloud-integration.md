@@ -1,6 +1,6 @@
 ---
-title: 会話にPDFを埋め込む
-description: PDFで設計したパーソナライズされた会話内で、Dynamic Chatドキュメントを共有します。
+title: スレッドにPDFを埋め込む
+description: Dynamic Chatで設計し、パーソナライズされた会話内でPDFドキュメントを共有します。
 role: User
 level: Beginner
 jira: KT-10495
@@ -10,12 +10,12 @@ feature: Dynamic Chat
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
 source-wordcount: '47'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 会話にPDFを埋め込む
+# スレッドにPDFを埋め込む
 
-[!UICONTROL Dynamic Chat]  は、Document CloudPDFEmbed API と統合されました。 これにより、で設計したパーソナライズされたPDF内で、会話ドキュメントを共有できます。 [!UICONTROL Dynamic Chat] .
+[!UICONTROL Dynamic Chat] が Document Cloud PDF埋め込み API と統合されました。 これにより、[!UICONTROL Dynamic Chat] で設計したパーソナライズされた会話内でPDFドキュメントを共有できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/343479/?quality=12&learn=on){transcript=true}

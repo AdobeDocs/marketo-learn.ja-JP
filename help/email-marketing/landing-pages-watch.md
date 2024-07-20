@@ -1,6 +1,6 @@
 ---
 title: ランディングページの作成とデザイン
-description: ランディングページを作成、カスタマイズ、およびパーソナライズする方法について説明します。
+description: ランディングページを作成、カスタマイズ、パーソナライズする方法について説明します。
 role: User
 level: Beginner
 jira: KT-10750
@@ -10,12 +10,12 @@ feature: Landing Pages
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
 source-wordcount: '30'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
 # ランディングページの作成とデザイン
 
-ランディングページを作成、カスタマイズ、およびパーソナライズする方法について説明します。
+ランディングページを作成、カスタマイズ、パーソナライズする方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345469/?quality=12&learn=on){transcript=true}
