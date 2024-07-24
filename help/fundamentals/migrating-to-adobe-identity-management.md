@@ -7,9 +7,9 @@ hide: true
 hidefromtoc: true
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 70f6e3cd3e114fd16ddd52f6d1a62fd914788621
+source-git-commit: 38c9ed6825714e5255001bcebae14fcbbeb9dcc1
 workflow-type: tm+mt
-source-wordcount: '1070'
+source-wordcount: '1071'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ Adobe Marketo EngageをAdobe Admin Consoleに移行できるようにするに�
 
 内部タイムラインに合わせて、**管理者**/**移行コンソール**/**移行前** で移行日を変更できます。 再スケジュールと [ 移行日の変更 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity#pre-migration){target="_blank"} の制限事項について詳しく説明します。
 
-* システム管理者にメールを送信します。
+#### システム管理者にメールを送信 {send-an-email-to-system-admin}
 
 以下は、システム管理者に送信するメールのサンプルです。 通常、IT 部門は、すべてのAdobeライセンスを管理します。
 
@@ -90,7 +90,7 @@ Marketo Engageのサブスクリプションは、間もなくAdobeIdentity Mana
 
 `---------------------------------------------------`
 
-* Marketo Engageユーザーにメールを送信します。
+#### Marketo Engageユーザーへのメールの送信 {#send-an-email-to-marketo-engage-users}
 
 以下は、管理者権限を持たないMarketo Engageユーザーに今後の移行を通知するために使用できるサンプルメールです。
 
