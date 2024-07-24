@@ -5,11 +5,12 @@ role: User
 level: Beginner
 hide: true
 hidefromtoc: true
+recommendations: noDisplay, noCatalog
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 247e961f6fcd4ec287c957ac34d557f1ad844f14
+source-git-commit: 1e076e4dae4753bc265187cf0554b8e51aeee1aa
 workflow-type: tm+mt
-source-wordcount: '1070'
+source-wordcount: '1077'
 ht-degree: 0%
 
 ---
@@ -28,7 +29,9 @@ Adobe Marketo EngageをAdobe Admin Consoleに移行できるようにするに�
 
 * システム管理者が不明な場合は、Adobeアカウントチームに問い合わせるか、Adobeサポート `marketocares@marketo.com` ームにお問い合わせください。
 
-* Marketo Engageのサブスクリプションを移行するAdobe Admin Console（またはAdobe組織）を指定します。  Marketo Engageのサブスクリプションは、Marketo Engageと統合されたネイティブな会話自動処理ツールであるDynamic Chatと同じ組織にデプロイする必要があります。 [詳細情報](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"}
+* Marketo Engageのサブスクリプションを移行するAdobe Admin Console（またはAdobe組織）を指定します。  Marketo Engage サブスクリプションは、Marketo Engageと統合されたネイティブな会話自動処理ツールである [Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview){target="_blank"} と同じ組織に展開する必要があります。 [詳細情報](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"}
+
+* **オプション：**[ シングルサインオン（SSO）を実装 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"} ユーザー移行前。
 
 * システム管理者との通信方法については、[ サンプルメールの節 ](#announce-the-migration-timeline) を参照してください。
 
@@ -36,7 +39,7 @@ Adobe Marketo EngageをAdobe Admin Consoleに移行できるようにするに�
 
 次のビデオでは、Marketo Engage製品管理チームが、移行ジャーニーと予想される結果について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430920t3/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430920t3/?t=170/?quality=12&learn=on){transcript=true}
 
 このトピックに関するMarketo Engage管理者向けのヘルプについては、次のヘルプ記事を参照してください。
 
@@ -54,9 +57,9 @@ Adobe Marketo EngageをAdobe Admin Consoleに移行できるようにするに�
 
 * Marketo Engage管理者とユーザーのカレンダーに、スケジュールに従って移行日をマークします。
 
-内部タイムラインに合わせて、**管理者**/**移行コンソール**/**移行前** で移行日を変更できます。 再スケジュールと [ 移行日の変更 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity#pre-migration){target="_blank"} の制限事項について詳しく説明します。
+   * 内部タイムラインに合わせて、**管理者**/**移行コンソール**/**移行前** で移行日を変更できます。 再スケジュールと [ 移行日の変更 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity#pre-migration){target="_blank"} の制限事項について詳しく説明します。
 
-#### システム管理者へのメールの送信 {#send-an-email-to-system-admin}
+* **システム管理者へのメールの送信**
 
 以下は、システム管理者に送信するメールのサンプルです。 通常、IT 部門は、すべてのAdobeライセンスを管理します。
 
@@ -72,7 +75,7 @@ Marketo Engageのサブスクリプションは、間もなくAdobeIdentity Mana
 
 * Marketo Engageのサブスクリプションは、Marketo Engageと統合されたネイティブな会話自動処理ツールであるDynamic Chatと同じ組織に存在する必要があります。
 
-* Marketo Engageが追加されるAdmin Consoleに関してご質問や懸念がある場合は、Adobeサポート（`marketocares@marketo.com`）および CC にお問い合わせください。
+* Admin Consoleに関するご質問やご不明な点については、Adobeサポート（`marketocares@marketo.com`）および CC までお問い合わせください。
 
 `2.` 件名が「Adobe Marketo Engage `[Package Tier]` へのユーザーアクセスの管理に必要なアクション」である、Adobeからのメールを探してください。 このメールは、Admin ConsoleにMarketo Engageライセンスがプロビジョニングされた後に送信されました。 このメールはシステム管理者にのみ送信されます。 受け取り次第お知らせ下さい。
 
@@ -90,7 +93,7 @@ Marketo Engageのサブスクリプションは、間もなくAdobeIdentity Mana
 
 `---------------------------------------------------`
 
-#### Marketo Engageユーザーへのメールの送信 {#send-an-email-to-marketo-engage-users}
+* **Marketo Engageユーザーへのメールの送信**
 
 以下は、管理者権限を持たないMarketo Engageユーザーに今後の移行を通知するために使用できるサンプルメールです。
 
@@ -116,7 +119,7 @@ Marketo Engageインスタンスとログイン方法に関する重要なお知
 
 `1.`**準備**:Adobe ID に移行するには、メール検証が必要です。
 
-i. リンクが記載された確認のメールが届いています（3 日間有効です）。 リンクの有効期限が切れている場合は、Marketo Engageで **管理者**/**マイアカウント**/**アカウント設定** に移動し、「**認証を再送信**」をクリックすると、認証メールを再送信できます。
+i. リンクが記載された確認のメールが届いています（3 日間有効です）。 リンクの有効期限が切れている場合は、「マイプロファイル」アイコンをクリックし、**マイアカウント**/**アカウント設定**/**再送信認証** に移動して、Marketo Engageから認証メールを再送信できます。
 
 ii.電子メールの検証を成功させるには、アクティブなユーザーセッションが必要です。 最初に ID プロバイダー（IdP）の URL を使用して、Marketo Engageのサブスクリプションにログインしてください。
 
