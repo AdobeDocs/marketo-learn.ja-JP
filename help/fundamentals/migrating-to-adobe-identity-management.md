@@ -7,9 +7,9 @@ hide: true
 hidefromtoc: true
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: f6ae52b43770789c24237f0bc664d33541469a50
+source-git-commit: fe760c2fc53b96d5c176de377730bce2e89dbc74
 workflow-type: tm+mt
-source-wordcount: '1089'
+source-wordcount: '1079'
 ht-degree: 0%
 
 ---
@@ -67,7 +67,7 @@ Adobe Marketo EngageをAdobe Admin Consoleに移行できるようにするに�
 
 Kaemayku`[IT Administrator/NAME]`、
 
-Marketo Engageのサブスクリプションは、間もなくAdobeIdentity Managementシステムに移行されます。 Marketo Engageユーザーへの影響を最小限に抑えるために、[ マーケティング運営チーム ] は、ユーザーの移行開始前に必要な手順を完了するようご協力を必要としています
+Marketo Engageのサブスクリプションは、間もなくAdobeIdentity Managementシステムに移行されます。 `[Marketing Operation team]` は、Marketo Engageユーザーへの影響を最小限に抑えるために、ユーザーの移行開始前に必要な手順を完了するためにユーザーの支援を必要としています。
 
 `1.` 組織が既にAdobe Admin Consoleで他のAdobeMarketo Engageを管理しているかどうか、また製品が同じコンソールに移行されるかどうかを確認します。
 
@@ -123,12 +123,12 @@ ii.電子メールの検証を成功させるには、アクティブなユー�
 i. [ 招待の承諾 ] ボタンをクリックし、Adobe ID を使用してサインインすることで、新しい招待を承諾します。
 ii.Adobeログインページで、既存のAdobe IDにログインしてください。
 
-`3.` 問い合わせ：アカウントの移行後に質問がある場合やサポートが必要な場合、またはアカウントが移行されておらず、Marketo Engageへのアクセス権を失った場合は、Marketo Engage移行チーム [ 社内の連絡先のメール / フォン ] にお問い合わせください。
+`3.` お問い合わせ：アカウントの移行後にご質問がある場合、またはアカウントが移行されておらずMarketo Engageへのアクセス権を失った場合は、`[your internal contact email/phone]` のMarketo Engage移行チームにお問い合わせください。
 
 今回の移行にご協力いただき、ありがとうございます。 システムのセキュリティを維持するためのご理解とご協力をお願いいたします。
 
 最高の
 
-[ あなたの名前 ]
+`[Your Name]`
 
 `---------------------------------------------------`
