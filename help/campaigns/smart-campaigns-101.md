@@ -1,7 +1,7 @@
 ---
 title: スマートキャンペーン 101
-description: スマートキャンペーンを使用してデータの正規化と自動アラートを実行する方法について説明します。
-short-description: Marketo Engageが車なら、スマートキャンペーンがそのエンジンになります。 スマートキャンペーンは想像以上の効果を発揮し、使い始めるのは簡単です。
+description: データ標準化と自動アラートにスマートキャンペーンを使用する方法を説明します。
+short-description: Marketo Engage が車なら、スマートキャンペーンはそのエンジンです。スマートキャンペーンは想像以上の効果を発揮し、簡単に使い始めることができます。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -13,7 +13,7 @@ feature: Smart Campaigns
 source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 3%
+ht-degree: 41%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 3%
 >[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on){transcript=true}
 
 
-## 追加リソース
+## その他のリソース
 
 **ドキュメント：**
 
