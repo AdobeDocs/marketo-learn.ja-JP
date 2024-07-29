@@ -7,7 +7,7 @@ recommendations: noDisplay, noCatalog
 last-substantial-update: 2024-07-26T00:00:00Z
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: a1248a4367a283bd1922269db3be8ed146f85648
+source-git-commit: 4a1db73e8dff8d5c39f05962b6e24ee0d380683f
 workflow-type: tm+mt
 source-wordcount: '1077'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Adobe Marketo EngageをAdobe Admin Consoleに移行できるようにするに�
 
 * システム管理者が不明な場合は、Adobeアカウントチームに問い合わせるか、Adobeサポート `marketocares@marketo.com` ームにお問い合わせください。
 
-* Marketo Engageのサブスクリプションを移行するAdobe Admin Console（またはAdobe組織）を指定します。  Marketo Engage サブスクリプションは、Marketo Engageと統合されたネイティブな会話自動処理ツールである [Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview){target="_blank"} と同じ組織に展開する必要があります。 [詳細情報](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"}
+* Marketo Engageのサブスクリプションを移行するAdobe Admin Console（またはAdobe組織）を指定します。  Marketo Engage サブスクリプションは、Marketo Engageと統合されたネイティブな会話自動処理ツールである [Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview){target="_blank"} と同じ組織に展開する必要があります。 [詳細情報](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete)
 
 * **オプション：**[ シングルサインオン（SSO）を実装 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"} ユーザー移行前。
 
