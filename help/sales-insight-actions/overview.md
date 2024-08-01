@@ -6,10 +6,10 @@ role: User, Admin, Leader
 level: Beginner, Intermediate, Experienced
 exl-id: fac23fde-1fc8-4710-a5f5-2e19a2618d6d
 feature: Sales Insight Actions
-source-git-commit: 063ac280987d4a2b68245f51cde1199ea93319df
+source-git-commit: fa58833852b94a41441f39433f2d3ba5c05fa04c
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 0%
+source-wordcount: '191'
+ht-degree: 5%
 
 ---
 
@@ -18,6 +18,10 @@ ht-degree: 0%
 ![](assets/header.png)
 
 [!UICONTROL  セールスインサイトアクション ] を使用すると、マーケティングを活用したインテリジェンスとエンゲージメントツールを 1 つのワークフローで組み合わせ、見込み客調査の取り組みを促進できます。
+
+>[!NOTE]
+>
+>Marketo Sales Insight Actions は、[Marketo Sales Insight パッケージ ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange){target="_blank"} を通じて Salesforce CRM のみと統合される web ベースのアプリケーションです。 「Marketo Sales」や、シンプルに「Actions」と呼ばれることもあります。
 
 ## 注目のTutorials {#featured-tutorials}
 
