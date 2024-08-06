@@ -8,7 +8,7 @@ doc-type: Technical Video
 duration: 772
 last-substantial-update: 2024-08-06T00:00:00Z
 jira: KT-15548
-source-git-commit: 757f21c965161fba774c2c31e02baa75f4691e4d
+source-git-commit: dfe4f1d9737cb0c69bbd96aedf6c61953315fa9b
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -36,8 +36,10 @@ Postman アプリケーションを設定し、変数を活用して、再利用
 
 * 応答本文から access_token を取得する JS スクリプト（「Scripts:」タブの下）:
 
-`var jsonData = pm.response.json();
-pm.environment.set("access_token", jsonData.access_token);`
+```
+var jsonData = pm.response.json();
+pm.environment.set("access_token", jsonData.access_token);
+```
 
 * [Marketo Engage開発者向けドキュメント ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}
 
