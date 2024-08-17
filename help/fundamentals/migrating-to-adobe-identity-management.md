@@ -7,9 +7,9 @@ recommendations: noDisplay, noCatalog
 last-substantial-update: 2024-07-26T00:00:00Z
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 820346b8475da5bd0cc5c6652b1cc6367b9fe54e
+source-git-commit: f6caaae707cb4dae45c4f05a895566adc98458e6
 workflow-type: tm+mt
-source-wordcount: '1114'
+source-wordcount: '1115'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Adobe Marketo EngageをAdobe Admin Consoleに移行できるようにするに�
 
 * Marketo Engageのサブスクリプションを移行するAdobe Admin Console（またはAdobe組織）を指定します。 おそらく、Marketo Engageのネイティブな会話自動処理ツールであるDynamic Chat用Adobe Admin Consoleをお持ちではないでしょうか。 Marketo Engage サブスクリプションは、[Dynamic Chatと同じ組織に展開する必要があります ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete)
 
-* IT チームと協力して、[ この記事の上部 ](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} に一覧表示されているすべてのAdobeドメインを許可リストに加えるし、Adobe ID への移行後にMarketo Engageアクセスが中断されるのを防ぎます。
+* IT チームと協力して、[ この記事の上部 ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} に一覧表示されているすべてのAdobeドメインを許可リストに加えるし、Adobe ID への移行後にMarketo Engageアクセスが中断されるのを防ぎます。
 
 * **オプション：**[ シングルサインオン（SSO）を実装 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"} ユーザー移行前。
 
