@@ -3,10 +3,10 @@ user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
 auto-video-transcripts: true
-source-git-commit: 757f21c965161fba774c2c31e02baa75f4691e4d
+source-git-commit: d74cf4ad845a6f7e65a0d8729c296f6c7d46bdaa
 workflow-type: tm+mt
-source-wordcount: '381'
-ht-degree: 13%
+source-wordcount: '383'
+ht-degree: 14%
 
 ---
 
@@ -103,8 +103,8 @@ ht-degree: 13%
    + [購読センター](/help/lead-and-data-management/subscription-center-learn.md)
    + [Subscription センターのウォークスルー](/help/lead-and-data-management/subscription-center-watch.md)
    + [CRM 同期](/help/lead-and-data-management/crm-sync-learn.md)
-   + [Salesforce 同期の概要](/help/integrations/salesforce-sync-setup.md)
-   + [Microsoft Dynamics Sync の概要](/help/integrations/microsoft-dynamics-sync-setup.md)
+   + [Salesforce同期の概要](/help/integrations/salesforce-sync-setup.md)
+   + [Microsoft Dynamics同期の概要](/help/integrations/microsoft-dynamics-sync-setup.md)
    + [リードライフサイクル](/help/lead-and-data-management/lead-lifecycle-learn.md)
    + [リードライフサイクルのウォークスルー](/help/lead-and-data-management/lead-lifecycle-watch.md)
 + イベント {#events}
@@ -119,6 +119,7 @@ ht-degree: 13%
    + [効果的なインタラクティブウェビナーのデザイン](/help/events/design-an-effective-interactive-webinar.md)
    + [インタラクティブウェビナーイベント配信](/help/events/interactive-webinars-event-delivery.md)
    + [イベントのインサイトとアクションを投稿するインタラクティブウェビナー](/help/events/interactive-webinars-post-event-insights-and-actions.md)
+   + [オンデマンドウェビナー](/help/events/on-demand-webinars.md)
 + レポートと分析 {#reporting}
    + [レポートと分析](/help/reporting/reporting-and-analytics.md)
    + [主要なレポート](/help/reporting/key-reports.md)
