@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
 auto-video-transcripts: true
-source-git-commit: d74cf4ad845a6f7e65a0d8729c296f6c7d46bdaa
+source-git-commit: a3ef8abe1a0928b4119c334ecb96c7e18d63803d
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '377'
 ht-degree: 14%
 
 ---
@@ -66,7 +66,6 @@ ht-degree: 14%
    + [SEO と PPC](/help/cross-channel-marketing/seo-and-ppc-learn.md)
    + [SEO と PPC のウォークスルー](/help/cross-channel-marketing/seo-and-ppc-watch.md)
    + [ソーシャルマーケティング](/help/cross-channel-marketing/social-marketing-learn.md)
-   + [ソーシャルマーケティングのウォークスルー](/help/cross-channel-marketing/social-marketing-watch.md)
    + [Web パーソナライゼーション](/help/cross-channel-marketing/web-personalization-learn.md)
    + [Web パーソナライゼーションのウォークスルー](/help/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
@@ -121,7 +120,6 @@ ht-degree: 14%
    + [イベントのインサイトとアクションを投稿するインタラクティブウェビナー](/help/events/interactive-webinars-post-event-insights-and-actions.md)
    + [オンデマンドウェビナー](/help/events/on-demand-webinars.md)
 + レポートと分析 {#reporting}
-   + [レポートと分析](/help/reporting/reporting-and-analytics.md)
    + [主要なレポート](/help/reporting/key-reports.md)
 + 統合 {#integrations}
    + [Real-time Customer Data PlatformのMarketo](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=ja)
