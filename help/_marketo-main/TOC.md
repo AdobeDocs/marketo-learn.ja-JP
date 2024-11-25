@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
 auto-video-transcripts: true
-source-git-commit: a3ef8abe1a0928b4119c334ecb96c7e18d63803d
+source-git-commit: 4aa725929374c6a408e5c0f4b0c00e53ba17c3ed
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '370'
 ht-degree: 14%
 
 ---
@@ -21,7 +21,6 @@ ht-degree: 14%
    + [コンテンツマーケティング](/help/fundamentals/content-marketing-learn.md)
    + [購入者ペルソナ](/help/fundamentals/buyer-personas-learn.md)
    + [プログラムとキャンペーン](/help/fundamentals/programs-and-campaigns.md)
-   + [UI のナビゲート](/help/fundamentals/ui-navigation.md)
    + [新しいインスタンスを整理するためのベストプラクティス](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [基本的なプログラムを作成するためのベストプラクティス](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [トークンを使用したパーソナライズ](/help/personalization/personalize-with-tokens.md)
@@ -30,12 +29,10 @@ ht-degree: 14%
 + プログラムとキャンペーン {#programs-and-campaigns}
    + [プログラムとキャンペーンについて](/help/programs/understanding-programs-and-campaigns.md)
    + [スマートキャンペーン 101](/help/campaigns/smart-campaigns-101.md)
-   + [メールプログラム](/help/programs/email-programs.md)
    + [イベントプログラム](/help/programs/event-programs.md)
    + 既定のプログラム {#default-programs}
       + [デフォルトプログラムの作成と測定](/help/programs/create-and-measure-default-programs.md)
       + [デフォルトプログラムの柔軟性の活用](/help/programs/leverage-the-flexibility-of-default-programs.md)
-   + [エンゲージメントプログラム](/help/programs/engagement-programs.md)
    + エンゲージメントマップ {#engagement-maps}
       + [エンゲージメントマップの概要](/help/engagement-maps/engagement-map-overview.md)
       + [エンゲージメントマップのネストされたキャンペーン](/help/engagement-maps/engagement-map-nested-campaign.md)
