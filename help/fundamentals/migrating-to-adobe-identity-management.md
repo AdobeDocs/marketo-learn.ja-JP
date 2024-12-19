@@ -7,9 +7,9 @@ recommendations: noDisplay, noCatalog
 last-substantial-update: 2024-07-26T00:00:00Z
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 2172f08f9a6171ef3a25cf6250e2f53eab8195fe
+source-git-commit: 26fc31709e97755ef7930f8421330fe579263bb5
 workflow-type: tm+mt
-source-wordcount: '1170'
+source-wordcount: '1224'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,8 @@ Adobe Marketo EngageをAdobe Admin Consoleに移行できるようにするに�
 * IT チームと協力して、[ この記事の上部 ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} に一覧表示されているすべてのAdobeドメインを許可リストに加えるし、Adobe ID への移行後にMarketo Engageアクセスが中断されるのを防ぎます。
 
 * **オプション：**[ シングルサインオン（SSO）を実装 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"} ユーザー移行前。
+
+* **オプション：** ユーザーが認証された状態を維持できるように、ユーザーが移行する前に [ 必要な最大セッション時間 ](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} をMarketo Engageします。
 
 * システム管理者との通信方法については、[ サンプルメールの節 ](#announce-the-migration-timeline) を参照してください。
 
@@ -84,9 +86,13 @@ Marketo Engageのサブスクリプションは、間もなくAdobeIdentity Mana
 
 `3.` 移行後、Marketo Engageはexperience.adobe.comからAdobe Experience Cloudに提供されるようになります。 Marketo Engageへのアクセスが中断されないように、[ この記事の上部 ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} に記載されているすべてのAdobeドメインを許可リストに加えるしてください。
 
-`4.` **オプション：** Adobe Admin Consoleでの SSO （シングルサインオン）の設定。
+`4.` **オプション：** Adobe Admin Consoleで SSO （シングルサインオン）を設定します。
 
-* 今後、Adobe ID で SSO でログインするユーザーの利益となるよう、ユーザーの移行が行われる前に、Adobe Admin Consoleで SSO の設定を支援してください。
+* 今後、Adobe ID で SSO でログインするユーザーにメリットを与えるには、ユーザーの移行が行われる前に、Adobe Admin Consoleでの SSO の設定を支援してください。
+
+`5.`**オプション：** Adobe Admin Consoleで、より長い [ 最長セッション時間 ](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} を設定します。
+
+* ユーザーが頻繁にログインする必要をなくすために、セッションの有効期間を長く設定して詳細設定でカスタマイズしてください。
 
 今回の移行にご協力いただき、ありがとうございます。 これらの手順が完了したら連絡して、移行を続行します。
 
