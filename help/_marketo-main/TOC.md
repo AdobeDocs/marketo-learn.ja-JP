@@ -3,10 +3,10 @@ user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
 auto-video-transcripts: true
-source-git-commit: 4aa725929374c6a408e5c0f4b0c00e53ba17c3ed
+source-git-commit: e310fb4cd8dfc502ac49019f12ecb361ffbbccb4
 workflow-type: tm+mt
-source-wordcount: '370'
-ht-degree: 14%
+source-wordcount: '430'
+ht-degree: 12%
 
 ---
 
@@ -121,3 +121,16 @@ ht-degree: 14%
 + 統合 {#integrations}
    + [Real-time Customer Data PlatformのMarketo](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=ja)
    + [API ヘルプ – 変数にアクセストークンを設定する方法](/help/integrations/api-set-access-token-variable.md)
++ 重複の管理 {#manage-duplicates}
+   + [重複の管理の概要](/help/managing-duplicates/introduction-managing-duplicates.md)
+   + [重複が発生する理由について](/help/managing-duplicates/why-duplicates-occur.md)
+   + [重複レコードの特定と防止](/help/managing-duplicates/identify-prevent-duplicates.md)
+   + [重複レコードが必要なタイミングを決定](/help/managing-duplicates/determine-necessary-duplicates.md)
+   + [重複レコードの手動結合](/help/managing-duplicates/merge-manually.md)
+   + [重複の一括結合第 1 部](/help/managing-duplicates/bulk-merge-part-1.md)
+   + [重複の一括結合（パート 2）](/help/managing-duplicates/bulk-merge-part-2.md)
+   + [重複の一括結合パート 3](/help/managing-duplicates/bulk-merge-part-3.md)
+   + [重複管理の自動化（パート 1）](/help/managing-duplicates/automate-integration-part-1.md)
+   + [重複管理の自動化（パート 2）](/help/managing-duplicates/automate-integration-part-2.md)
+   + [重複データの管理を合理化](/help/managing-duplicates/simplify-acs.md)
+   + [重複を管理するための最適な方法を選択](/help/managing-duplicates/duplicate-strategy.md)
