@@ -7,9 +7,9 @@ recommendations: noDisplay, noCatalog
 last-substantial-update: 2024-07-26T00:00:00Z
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 26fc31709e97755ef7930f8421330fe579263bb5
+source-git-commit: b4f9ce6cfc8126559e94985c540ec9766a56310e
 workflow-type: tm+mt
-source-wordcount: '1224'
+source-wordcount: '1248'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,10 @@ Adobe Marketo EngageをAdobe Admin Consoleに移行できるようにするに�
 * IT チームと協力して、[ この記事の上部 ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} に一覧表示されているすべてのAdobeドメインを許可リストに加えるし、Adobe ID への移行後にMarketo Engageアクセスが中断されるのを防ぎます。
 
 * **オプション：**[ シングルサインオン（SSO）を実装 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"} ユーザー移行前。
+
+  >[!NOTE]
+  >
+  >Marketo Engageでサポートされる SSO とAdobe Admin Console SSO には違いがあります。 そのため、設定の変更を実装する必要がある場合があります。
 
 * **オプション：** ユーザーが認証された状態を維持できるように、ユーザーが移行する前に [ 必要な最大セッション時間 ](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} をMarketo Engageします。
 
