@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
 auto-video-transcripts: true
-source-git-commit: e310fb4cd8dfc502ac49019f12ecb361ffbbccb4
+source-git-commit: ee68cb7fc0dbf9c4ccae3f89fdbb6e097016ebf9
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '433'
 ht-degree: 12%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 12%
 + 基本 {#fundamentals}
    + [目標と戦略](/help/fundamentals/goals-and-strategy-learn.md)
    + [組織構造](/help/fundamentals/organizational-structure-learn.md)
-   + [AdobeIdentity Managementへの移行](/help/fundamentals/migrating-to-adobe-identity-management.md)
+   + [Adobe Identity Managementへの移行](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [コンテンツマーケティング](/help/fundamentals/content-marketing-learn.md)
    + [購入者ペルソナ](/help/fundamentals/buyer-personas-learn.md)
    + [プログラムとキャンペーン](/help/fundamentals/programs-and-campaigns.md)
@@ -75,7 +75,7 @@ ht-degree: 12%
    + [ユーザー管理](/help/dynamic-chat/user-management.md)
    + [エージェント管理](/help/dynamic-chat/agent-management.md)
    + [ダイアログ管理](/help/dynamic-chat/dialogue-management.md)
-   + [スレッドにPDFを埋め込む](/help/dynamic-chat/document-cloud-integration.md)
+   + [会話にPDFを埋め込む](/help/dynamic-chat/document-cloud-integration.md)
    + [ストリームDesignerで検索](/help/dynamic-chat/search-in-stream-designer.md)
    + [推測される属性のキャプチャ](/help/dynamic-chat/capture-inferred-attributes.md)
    + [ダイアログのプレビュー](/help/dynamic-chat/dialogue-preview.md)
@@ -108,6 +108,7 @@ ht-degree: 12%
    + [イベントプログラムの作成](/help/events/events-learn.md)
    + [ウェビナー](/help/events/webinar-learn.md)
    + [ウェビナーのウォークスルー](/help/events/webinar-watch.md)
+   + [インタラクティブウェビナーの概要](/help/events/interactive-webinars-overview.md)
    + [インタラクティブウェビナーのユーザーとライセンスの管理](/help/events/interactive-webinars-user-and-license-management.md)
    + [インタラクティブウェビナーイベントプログラムの作成](/help/events/interactive-webinars-event-program-creation.md)
    + [インタラクティブウェビナーイベントプログラムの概要](/help/events/interactive-webinars-event-program-overview.md)
@@ -119,7 +120,7 @@ ht-degree: 12%
 + レポートと分析 {#reporting}
    + [主要なレポート](/help/reporting/key-reports.md)
 + 統合 {#integrations}
-   + [Real-time Customer Data PlatformのMarketo](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=ja)
+   + [Real-Time Customer Data PlatformのMarketo](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=ja)
    + [API ヘルプ – 変数にアクセストークンを設定する方法](/help/integrations/api-set-access-token-variable.md)
 + 重複の管理 {#manage-duplicates}
    + [重複の管理の概要](/help/managing-duplicates/introduction-managing-duplicates.md)
