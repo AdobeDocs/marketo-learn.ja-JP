@@ -3,7 +3,7 @@ title: Marketo Engage チュートリアル
 description: ' [!DNL Marketo Engage] のビデオチュートリアルをご覧ください。 マーケティング自動化機能の使用方法などに関する理解を深めましょう。'
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: b1bca74399683782c4691882f2239db60d117286
+source-git-commit: 7277269a9ff98122d8da3f90e1b4b91872352ecf
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 19%
@@ -23,7 +23,7 @@ ht-degree: 19%
 
 ## 最新情報 {#whats-new}
 
-* [ ライブチャットを実装するためのベストプラクティス ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices.md)
+* [ ライブチャットを実装するためのベストプラクティス ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
   _Dynamic Chatでライブチャット機能を実装する際に従うべきベストプラクティスについて説明します。_
 
 * [ インタラクティブウェビナーの概要 ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
