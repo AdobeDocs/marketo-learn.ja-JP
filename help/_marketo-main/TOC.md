@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
 auto-video-transcripts: true
-source-git-commit: ee68cb7fc0dbf9c4ccae3f89fdbb6e097016ebf9
+source-git-commit: b1bca74399683782c4691882f2239db60d117286
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '439'
 ht-degree: 12%
 
 ---
@@ -84,6 +84,7 @@ ht-degree: 12%
    + [対話 SDK](/help/dynamic-chat/conversations-sdk.md)
    + [再利用可能なフロー](/help/dynamic-chat/reusable-flows.md)
    + [対話型ランディングページ](/help/dynamic-chat/conversational-landing-pages.md)
+   + [ライブチャットを実装するためのベストプラクティス](/help/dynamic-chat/live-chat-best-practices.md)
    + [訪問者をライブエージェントに接続する](/help/dynamic-chat/connect-visitors-to-live-agents.md)
    + [会議の予約](/help/dynamic-chat/meeting-booking.md)
    + [GenAI を活用した会話の促進](/help/dynamic-chat/gen-ai-features.md)

@@ -3,10 +3,10 @@ title: Marketo Engage チュートリアル
 description: ' [!DNL Marketo Engage] のビデオチュートリアルをご覧ください。 マーケティング自動化機能の使用方法などに関する理解を深めましょう。'
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: ee68cb7fc0dbf9c4ccae3f89fdbb6e097016ebf9
+source-git-commit: b1bca74399683782c4691882f2239db60d117286
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 24%
+ht-degree: 19%
 
 ---
 
@@ -23,14 +23,14 @@ ht-degree: 24%
 
 ## 最新情報 {#whats-new}
 
+* [ ライブチャットを実装するためのベストプラクティス ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices.md)
+  _Dynamic Chatでライブチャット機能を実装する際に従うべきベストプラクティスについて説明します。_
+
 * [ インタラクティブウェビナーの概要 ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
   _Marketo Engageに組み込まれているウェビナープラットフォームである、インタラクティブウェビナーについてはすべて説明します_。
 
 * [Adobe Identity Managementへの移行 ](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
   _ユーザー向けの他のAdobe アカウントや製品と共にAdobe Marketo Engageの管理を一元的に開始できるように、Adobe Identity Managementの移行方法を説明します。_
-
-* [インタラクティブウェビナーイベント後のインサイトとアクション](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/events/interactive-webinars-post-event-insights-and-actions)
-  _インタラクティブウェビナーイベントのパフォーマンスとエンゲージメントに関する詳細情報の入手先について説明します。_
 
 ## 最も人気のあるビデオ {#most-popular-videos}
 
