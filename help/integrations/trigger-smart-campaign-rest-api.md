@@ -4,7 +4,7 @@ description: REST API を使用してMarketo Engageでスマートキャンペ�
 feature: REST API
 role: Admin, Developer
 level: Experienced
-source-git-commit: dcfffa299cbcfef489f5b618fae29f745b878d26
+source-git-commit: e840968877b3947b2d24c9416104f1dd187082cc
 workflow-type: tm+mt
 source-wordcount: '611'
 ht-degree: 1%
@@ -54,13 +54,13 @@ You're registered for **{{my.WebinarTitle}}**.
 Join here: {{my.JoinLink}}
 ```
 
+トークンを使用して画像 URL （`{{my.WebinarImage}}` など）を動的に挿入する場合は、トークンをHTML画像タグに含める必要があります。
+
+```html
+<img src="{{my.WebinarImage}}" alt="Webinar banner" />
+```
+
 >[!IMPORTANT]
->
->トークンを使用して画像 URL （`{{my.WebinarImage}}` など）を動的に挿入する場合は、トークンをHTML画像タグに含める必要があります。
->
-> ```html
-> <img src="{{my.WebinarImage}}" alt="Webinar banner" />
-> ```
 >
 >トークンが有効な image タグ内に配置されていない場合、Marketo Enagage は画像をレンダリング **しません**。
 
