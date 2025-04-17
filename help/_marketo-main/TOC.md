@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
 auto-video-transcripts: true
-source-git-commit: b1bca74399683782c4691882f2239db60d117286
+source-git-commit: dcfffa299cbcfef489f5b618fae29f745b878d26
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '454'
 ht-degree: 12%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 12%
    + [プログラムとキャンペーンについて](/help/programs/understanding-programs-and-campaigns.md)
    + [スマートキャンペーン 101](/help/campaigns/smart-campaigns-101.md)
    + [イベントプログラム](/help/programs/event-programs.md)
-   + 既定のプログラム {#default-programs}
+   + デフォルトプログラム {#default-programs}
       + [デフォルトプログラムの作成と測定](/help/programs/create-and-measure-default-programs.md)
       + [デフォルトプログラムの柔軟性の活用](/help/programs/leverage-the-flexibility-of-default-programs.md)
    + エンゲージメントマップ {#engagement-maps}
@@ -89,10 +89,10 @@ ht-degree: 12%
    + [会議の予約](/help/dynamic-chat/meeting-booking.md)
    + [GenAI を活用した会話の促進](/help/dynamic-chat/gen-ai-features.md)
    + [エンゲージメントレポート](/help/dynamic-chat/engagement-report.md)
-+ 販売インサイトアクション {#sales-insight-actions}
++ Sales Insight アクション {#sales-insight-actions}
    + [概要](/help/sales-insight-actions/overview.md)
-   + [販売インサイトアクションの概要](/help/sales-insight-actions/sales-insight-actions-overview.md)
-   + [Sales Insight Actions インスタンスへのアクセス](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
+   + [Sales Insightのアクションの概要](/help/sales-insight-actions/sales-insight-actions-overview.md)
+   + [Sales Insightのアクション・インスタンスへのアクセス](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [ [!DNL Salesforce] の場所への販売アクティビティのログを構成します。](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + リードおよびデータ管理 {#lead-and-data-management}
    + [リード/人物スコアリング](/help/lead-and-data-management/lead-scoring-learn.md)
@@ -123,6 +123,7 @@ ht-degree: 12%
 + 統合 {#integrations}
    + [Real-Time Customer Data PlatformのMarketo](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=ja)
    + [API ヘルプ – 変数にアクセストークンを設定する方法](/help/integrations/api-set-access-token-variable.md)
+   + [REST API とトークンを使用してMarketo Engageでスマートキャンペーンをトリガーする方法](/help/integrations/trigger-smart-campaign-rest-api.md)
 + 重複の管理 {#manage-duplicates}
    + [重複の管理の概要](/help/managing-duplicates/introduction-managing-duplicates.md)
    + [重複が発生する理由について](/help/managing-duplicates/why-duplicates-occur.md)
