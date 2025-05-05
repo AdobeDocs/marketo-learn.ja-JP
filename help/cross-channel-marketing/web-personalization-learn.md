@@ -18,4 +18,4 @@ ht-degree: 2%
 
 各 web サイトの訪問者に、誰が何を行っているかに基づいて、個人的で関連性の高いエクスペリエンスを提供します。 Web サイトの訪問者をセグメント化およびターゲティングして、よりカスタマイズされ、意味のある、魅力的なエクスペリエンスを作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345405/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411948/?quality=12&learn=on&captions=jpn){transcript=true}

@@ -20,4 +20,4 @@ ht-degree: 3%
 
 購読センターを設定および管理して、購読者と購読者のプロセスを実装する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345427/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411384/?quality=12&learn=on&captions=jpn){transcript=true}

@@ -20,4 +20,4 @@ ht-degree: 8%
 
 Web ページ上の CTA クリック、ページ読み込み、訪問者アクションを、Conversations SDK との魅力的な会話に変換します。 次に、を Web サイトに実装する手順を示します
 
->[!VIDEO](https://video.tv.adobe.com/v/3425034/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448863/?learn=on&captions=jpn)

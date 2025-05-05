@@ -20,7 +20,7 @@ ht-degree: 13%
 
 4 つのプログラムタイプ、プログラムの読み込み方法、リード/人物スコアリングプログラム、チャネルタグの定義について説明します。 一般的なユースケースとベストプラクティスについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421275/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422757/?learn=on&captions=jpn){transcript=true}
 
 ## 追加リソース
 

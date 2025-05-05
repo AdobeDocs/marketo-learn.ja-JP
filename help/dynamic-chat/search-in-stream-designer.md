@@ -20,7 +20,7 @@ ht-degree: 8%
 
 クイック検索は、ワンクリックでストリームデザイナーの任意のカードに到達するのに役立ちます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416925/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437237/?quality=12&learn=on&captions=jpn){transcript=true}
 
 ## その他の役に立つビデオ
 

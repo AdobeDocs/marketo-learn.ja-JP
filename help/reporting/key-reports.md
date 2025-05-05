@@ -22,7 +22,7 @@ ht-degree: 2%
 
 Marketo Engage内の主要なレポートとその取り込み方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420138/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432189/?learn=on&captions=jpn){transcript=true}
 
 ## その他のリソース
 

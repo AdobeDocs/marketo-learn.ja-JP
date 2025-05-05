@@ -21,4 +21,4 @@ ht-degree: 3%
 
 相互に接続され、深くネストされたキャンペーンを解読して、エンゲージメントマップを使用してカスタマージャーニー全体をわかりやすく可視化する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422235/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423298/?learn=on&captions=jpn){transcript=true}

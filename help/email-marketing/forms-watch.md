@@ -18,4 +18,4 @@ ht-degree: 5%
 
 プログレッシブプロファイルを含むフォームを作成、設計、整理する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345475/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409794/?quality=12&learn=on&captions=jpn){transcript=true}

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 アドビのデジタル広告である LaunchPoint パートナーの一部に [!DNL Marketo] を接続する方法をご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/345404/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411393/?quality=12&learn=on&captions=jpn){transcript=true}

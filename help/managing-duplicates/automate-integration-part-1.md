@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Vertify や Workato などの iPaaS ツールと API 統合を使用して、Marketo Engageでの重複管理を効率化する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429487/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441918/?learn=on&enablevpops&captions=jpn)

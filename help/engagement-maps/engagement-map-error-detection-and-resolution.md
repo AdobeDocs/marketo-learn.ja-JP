@@ -21,4 +21,4 @@ ht-degree: 5%
 
 エンゲージメントマップを使用して、キャンペーンの問題をすばやくトラブルシューティングおよび修正する方法を説明します
 
->[!VIDEO](https://video.tv.adobe.com/v/3422246/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423289/?learn=on&captions=jpn){transcript=true}

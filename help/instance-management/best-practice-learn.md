@@ -19,4 +19,4 @@ ht-degree: 2%
 
 プログラム [!DNL Marketo's] インスタンスを整理するためのベストプラクティスに従うと、ユーザーや同僚が必要なときにインスタンスで必要なものを見つけることができ、レポートをより正確にすることができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/345420/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411941/?quality=12&learn=on&captions=jpn){transcript=true}

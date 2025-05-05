@@ -18,4 +18,4 @@ ht-degree: 2%
 
 コンテンツマーケティング戦略として最高のコンテンツの一部をゲートすると、リードを生成し、どの訪問者が深刻かを知るのに役立ちます。 ゲートコンテンツ、その仕組み、成功のための手順について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345464/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411383/?quality=12&learn=on&captions=jpn){transcript=true}

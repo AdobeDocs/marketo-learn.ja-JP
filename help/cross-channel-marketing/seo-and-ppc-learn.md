@@ -18,4 +18,4 @@ ht-degree: 3%
 
 何百もの検索結果で Web サイトが見失われていませんか？ SEO と PPC 戦略を改善してブランドの認知度を高める方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345401/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411946/?quality=12&learn=on&captions=jpn){transcript=true}

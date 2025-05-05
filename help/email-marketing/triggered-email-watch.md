@@ -18,4 +18,4 @@ ht-degree: 7%
 
 トリガーされたスマートキャンペーンの作成方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345480/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409789/?quality=12&learn=on&captions=jpn){transcript=true}

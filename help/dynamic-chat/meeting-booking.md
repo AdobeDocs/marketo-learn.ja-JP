@@ -18,7 +18,7 @@ ht-degree: 6%
 
 Dynamic Chatを使用して、アカウントリードの営業との連携 [!DNL target] 加速させます。 [Admin Console](https://adminconsole.adobe.com/) を介してユーザーとして営業エージェントを追加することで、訪問者が様々な営業担当者とのミーティングを予約できるようになります。各エージェントは独自のカレンダーに接続する必要があります。
 
->[!VIDEO](https://video.tv.adobe.com/v/340258/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345015/?quality=12&learn=on&captions=jpn){transcript=true}
 
 ## その他の役に立つビデオ
 

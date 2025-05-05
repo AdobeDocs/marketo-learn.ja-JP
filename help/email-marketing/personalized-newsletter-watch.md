@@ -18,4 +18,4 @@ ht-degree: 5%
 
 パーソナライズされたニュースレターのメールプログラムをMarketoで作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345470/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3410447/?quality=12&learn=on&captions=jpn){transcript=true}

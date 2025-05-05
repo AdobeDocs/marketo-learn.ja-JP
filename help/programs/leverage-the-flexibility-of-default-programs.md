@@ -22,4 +22,4 @@ ht-degree: 7%
 4 種類のプログラムのうち、デフォルトのプログラムが最も柔軟で、何を作成するかでクリエイティブにすることができます。
 Web フォームと有料メディアユーザー生成の 2 つの一般的なユースケースについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420137?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453852?learn=on&captions=jpn){transcript=true}

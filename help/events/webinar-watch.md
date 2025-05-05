@@ -18,5 +18,5 @@ ht-degree: 0%
 
 ウェビナーを作成しMarketoから管理する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345477/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409792/?quality=12&learn=on&captions=jpn){transcript=true}
 

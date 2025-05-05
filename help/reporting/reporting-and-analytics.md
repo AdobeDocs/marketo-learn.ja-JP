@@ -22,7 +22,7 @@ ht-degree: 2%
 
 「分析とデータベース」セクションを操作して様々な標準レポートをMarketo Engageに取り込む方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419295/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446421/?learn=on&captions=jpn){transcript=true}
 
 ## その他のリソース
 

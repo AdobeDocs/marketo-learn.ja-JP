@@ -18,4 +18,4 @@ ht-degree: 3%
 
 コンテンツマーケティング戦略を開発して、オーディエンスを引き付け、獲得し、惹き付けます。 コンテンツの最適化と影響の測定など、成功の主な手順について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345417/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411943/?quality=12&learn=on&captions=jpn){transcript=true}

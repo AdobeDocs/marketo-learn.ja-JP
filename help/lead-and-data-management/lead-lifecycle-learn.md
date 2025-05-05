@@ -18,4 +18,4 @@ ht-degree: 2%
 
 買い手ジャーニーの各段階のリード数と、いつセールスから連絡を受ける必要があるかをご存知ですか。 スコアリングを使用してリードがジャーニーのどこにいるかに関するインサイトを取得する [!UICONTROL &#x200B; ユーザーライフサイクル &#x200B;] プログラムの作成について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345422/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411391/?quality=12&learn=on&captions=jpn){transcript=true}

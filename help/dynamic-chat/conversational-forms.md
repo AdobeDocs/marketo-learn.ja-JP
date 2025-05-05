@@ -22,4 +22,4 @@ ht-degree: 4%
 
 ステップバイステップのビデオでは、プロセスをガイドし、この強力なツールをビジネスに簡単に実装できるようにします。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424868/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443357/?learn=on&captions=jpn)

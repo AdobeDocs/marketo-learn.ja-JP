@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Marketo Engageの重複を処理するための主要なソリューションの概要を示し、チームのニーズとリソースに最適なソリューションを選択します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429502/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436641/?learn=on&enablevpops&captions=jpn)

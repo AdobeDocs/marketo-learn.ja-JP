@@ -18,4 +18,4 @@ ht-degree: 2%
 
 変化する今日のデジタルマーケティング環境で勝ち取るには、マーケターが日々直面する進化する課題に対応できるチームが必要です。 新しい課題に対応するためにマーケティング組織を構築する方法、チームで必要な人物のタイプ、エンゲージメント経済に組織を参加させるためにマーケティングを最適に配置する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345416/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411944/?quality=12&learn=on&captions=jpn){transcript=true}

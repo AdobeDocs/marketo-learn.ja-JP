@@ -20,4 +20,4 @@ ht-degree: 0%
 
 フィールドマッピング、結合ロジック、スケジュールを設定して、Marketo Engageツールと iPaaS ツール間の重複管理を自動化する方法について説明します。 ワークフローのこのビデオデモでは、例として Vertify を使用します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429486/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3453808/?learn=on&enablevpops&captions=jpn)

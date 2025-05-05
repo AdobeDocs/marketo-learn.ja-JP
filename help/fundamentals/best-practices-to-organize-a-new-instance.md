@@ -20,7 +20,7 @@ ht-degree: 9%
 
 Marketo Engageを初めて使用するときは、組織が重要です。 インスタンス内で整理しておくことで、自分自身や同僚がキャンペーン、プログラム、アセットを簡単に追跡できるようになります。 フォルダー、標準的な命名規則、クローンなどの機能を使用して、新しい [!DNL Marketo Engage] インスタンスで同僚と簡単に作業できるようにナビゲーションツリーを [!UICONTROL &#x200B; マーケティングアクティビティ &#x200B;] で整理する方法を説明します。 
 
->[!VIDEO](https://video.tv.adobe.com/v/3421577/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422765/?learn=on&captions=jpn){transcript=true}
 
 ## 追加リソース
 

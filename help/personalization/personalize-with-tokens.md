@@ -20,4 +20,4 @@ ht-degree: 3%
 
 Marketo プログラムでトークンを使用する方法を説明します。 Marketo プログラムでトークンを活用すると、パーソナライゼーションに役立ち、プログラムのビルド時間が短縮され、入力ミスや人的エラーの可能性が低くなります。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421605/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423551/?learn=on&captions=jpn){transcript=true}

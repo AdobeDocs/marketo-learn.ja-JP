@@ -19,4 +19,4 @@ ht-degree: 0%
 
 GenAI を活用した会話を推進し、訪問者が質問したり、迅速な回答を得たり、会話の概要を生成できるようにする方法を説明します。 対話型インサイトをMarketo インスタンスで直接活用します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429153/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454472/?learn=on&captions=jpn)

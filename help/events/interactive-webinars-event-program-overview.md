@@ -20,4 +20,4 @@ ht-degree: 0%
 
 インタラクティブなウェビナーイベントプログラムの様々な要素を簡単に紹介し、改良するためのアクションについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429640/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450070/?learn=on&captions=jpn)

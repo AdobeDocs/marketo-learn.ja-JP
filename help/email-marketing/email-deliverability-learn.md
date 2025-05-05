@@ -18,4 +18,4 @@ ht-degree: 2%
 
 メールが購読者のインボックスに届かないと、マーケティングメッセージが目標を達成できません。 メールを読みたい購読者にメールを正常に配信する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345481/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409788/?quality=12&learn=on&captions=jpn){transcript=true}

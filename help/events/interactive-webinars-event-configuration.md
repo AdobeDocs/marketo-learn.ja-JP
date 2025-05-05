@@ -20,4 +20,4 @@ ht-degree: 1%
 
 ウェビナーの目的に合わせて、配信前にインタラクティブウェビナーイベントを設定し、参加者が関心を生み出し、ブランド、製品、サービスに対する意図を勧誘するのに十分な効果があることを配信前に確認する方法を説明します。 など.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429637/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448985/?learn=on&captions=jpn)

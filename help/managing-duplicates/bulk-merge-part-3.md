@@ -20,4 +20,4 @@ ht-degree: 0%
 
 クリーンアップされたデータをMarketo Engageに再読み込みし、運用キャンペーンで重複を効果的に管理することで、一括結合を完了します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429488/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452748/?learn=on&enablevpops&captions=jpn)

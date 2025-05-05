@@ -18,4 +18,4 @@ ht-degree: 5%
 
 ベストプラクティス、メール認証、レピュテーションを通じてメールの配信品質を最適化する方法をご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/345482/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409787/?quality=12&learn=on&captions=jpn){transcript=true}

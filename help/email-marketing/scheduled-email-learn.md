@@ -18,4 +18,4 @@ ht-degree: 2%
 
 顧客を個人として電子メールマーケティングに関与させる準備を整えます。 オーディエンスに関連する魅力的なメッセージを配信し、メールキャンペーンの ROI を測定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345466/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3410452/?quality=12&learn=on&captions=jpn){transcript=true}

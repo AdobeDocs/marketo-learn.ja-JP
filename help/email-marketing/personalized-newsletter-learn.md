@@ -18,4 +18,4 @@ ht-degree: 0%
 
 パーソナライズされたメールニュースレターを使用して、費用対効果の高い方法で見込み客や顧客と関わり合います。
 
->[!VIDEO](https://video.tv.adobe.com/v/345471/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3410448/?quality=12&learn=on&captions=jpn){transcript=true}

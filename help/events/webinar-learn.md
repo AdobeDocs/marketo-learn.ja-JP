@@ -18,4 +18,4 @@ ht-degree: 3%
 
 マーケティングアクティビティの一部としてウェビナーを実行する準備はできていますか？ ウェビナーが [!DNL Marketo Engage] やそのAdobe Exchangeウェビナーパートナーと連携する仕組みを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345476/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409793/?quality=12&learn=on&captions=jpn){transcript=true}

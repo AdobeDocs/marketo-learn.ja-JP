@@ -18,4 +18,4 @@ ht-degree: 2%
 
 購読者とのコミュニケーションに苦労していますか？ お客様が望むコミュニケーションと、お客様から受け取りたい頻度をお客様に伝えます。 購読センターを作成および管理して、適切な頻度とプロセスを開発する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345426/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411385/?quality=12&learn=on&captions=jpn){transcript=true}

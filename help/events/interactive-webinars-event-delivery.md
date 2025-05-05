@@ -20,4 +20,4 @@ ht-degree: 0%
 
 目的を達成し、参加者を引き付けるために最適な方法でインタラクティブウェビナーイベントを配信する方法を説明します。 様々なエンゲージメントツールを通じてコンテンツに関心を生み出させ、パーソナライズされた育成とセグメント化を支援できるようにします。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429638/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440038/?learn=on&captions=jpn)

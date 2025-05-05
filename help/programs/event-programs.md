@@ -20,7 +20,7 @@ ht-degree: 7%
 
 このビデオを視聴して、基本的な理解を深め、最初のイベントプログラムを作成してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419622/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453995/?learn=on&captions=jpn){transcript=true}
 
 ## その他のリソース
 

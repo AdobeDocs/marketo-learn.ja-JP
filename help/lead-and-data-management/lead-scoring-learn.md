@@ -18,4 +18,4 @@ ht-degree: 2%
 
 リード/人物スコアリングプログラムを使用して、マーケティングが販売に提供するリードの品質を向上させます。  リード/人物スコアリング、その仕組み、測定可能なメリットを実現するための成功手順について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345424/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411387/?quality=12&learn=on&captions=jpn){transcript=true}

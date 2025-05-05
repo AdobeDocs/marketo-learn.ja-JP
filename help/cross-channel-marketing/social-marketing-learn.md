@@ -18,4 +18,4 @@ ht-degree: 3%
 
 ソーシャルマーケティングの最適な活用方法がわからない場合 ソーシャルチャネルを使用して、ブランド認知度を効果的に高め、ブランドエンゲージメントを育成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345407/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3410455/?quality=12&learn=on&captions=jpn){transcript=true}

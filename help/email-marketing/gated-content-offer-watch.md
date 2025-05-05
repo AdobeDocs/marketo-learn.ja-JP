@@ -18,4 +18,4 @@ ht-degree: 4%
 
 Marketoでゲート付きコンテンツメールプログラムを設定してトラッキングする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345465/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3410453/?quality=12&learn=on&captions=jpn){transcript=true}

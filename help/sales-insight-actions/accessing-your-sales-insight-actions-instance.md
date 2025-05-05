@@ -16,7 +16,7 @@ ht-degree: 3%
 
 このビデオでは、[!UICONTROL Sales Insight Actions] アカウントにアクセスして、コンテンツの作成、アカウントの設定、新しいユーザーの招待などを行う方法の概要を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/340925/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441584/?quality=12&learn=on&captions=jpn){transcript=true}
 
 ## 関連ビデオ
 

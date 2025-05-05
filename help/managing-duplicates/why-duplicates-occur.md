@@ -20,4 +20,4 @@ ht-degree: 0%
 
 CRM 同期、フォーム入力、データ読み込みなど、様々なソースから重複が生じる仕組みと、重複を最小限に抑える方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3441864/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443891/?learn=on&enablevpops&captions=jpn)

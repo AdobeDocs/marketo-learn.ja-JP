@@ -18,4 +18,4 @@ ht-degree: 2%
 
 コンテンツマーケティングで、見込み客を引き付け、リードを生み出したいと考えていますか？ 買い手のペルソナを作成すると、必要なコンテンツの種類と、買い手が情報を見つけて消費する方法を判断するのに役立ちます。
 
->[!VIDEO](https://video.tv.adobe.com/v/345415/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411945/?quality=12&learn=on&captions=jpn){transcript=true}

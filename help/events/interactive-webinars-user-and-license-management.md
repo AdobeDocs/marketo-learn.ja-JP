@@ -20,4 +20,4 @@ ht-degree: 0%
 
 インタラクティブウェビナーのユーザー権限、インタラクティブウェビナーライセンスのライセンス可用性と使用制限の監視について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446117/?learn=on&captions=jpn)

@@ -20,7 +20,7 @@ ht-degree: 2%
 
 Marketo Engageプラットフォームの習熟方法とユーザーインターフェイスの操作方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419131/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450674/?learn=on&captions=jpn){transcript=true}
 
 ## その他のリソース
 

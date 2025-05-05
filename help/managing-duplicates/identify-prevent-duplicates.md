@@ -20,4 +20,4 @@ ht-degree: 0%
 
 構造化されたワークフローと定期的な監査で重複を特定して防止するためのツールとヒントを探索します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429500/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447099/?learn=on&enablevpops&captions=jpn)

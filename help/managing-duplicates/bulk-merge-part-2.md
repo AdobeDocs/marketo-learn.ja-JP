@@ -20,4 +20,4 @@ ht-degree: 0%
 
 クリーン リストのインポートに関する数式とベスト プラクティスを使用して、Excel で重複レコードを並べ替え、統合する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429492/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3449668/?learn=on&enablevpops&captions=jpn)

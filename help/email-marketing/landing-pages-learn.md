@@ -18,4 +18,4 @@ ht-degree: 4%
 
 ベストプラクティスを組み込んだランディングページを作成およびデザインすることで、コンバージョンを促進します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345468/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3410450/?quality=12&learn=on&captions=jpn){transcript=true}

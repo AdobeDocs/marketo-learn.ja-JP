@@ -18,4 +18,4 @@ ht-degree: 3%
 
 購入者のペルソナを作成する方法、KPI を設定する方法、コミュニケーション頻度を決定する方法、[!DNL Marketo] マーケティングカレンダーを使用する方法など、モバイルマーケティング戦略を改善する方法をご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/345402/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411947/?quality=12&learn=on&captions=jpn){transcript=true}

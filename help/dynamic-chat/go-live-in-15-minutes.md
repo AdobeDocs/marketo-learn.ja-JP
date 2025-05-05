@@ -18,6 +18,6 @@ ht-degree: 100%
 
 わずか15 分で[!UICONTROL Dynamic Chat] を使用して最初のダイアログを開始することを可能にする、ステップバイステップのガイドです。
 
->[!VIDEO](https://video.tv.adobe.com/v/342164/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452668/?quality=12&learn=on&captions=jpn){transcript=true}
 
 *注意：アクセス方法を知らないユーザー向け [!UICONTROL Dynamic Chat] , [こちらが短いビデオです](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/user-management.html?lang=ja) 自分や他のユーザーを追加するのに役立つ [!UICONTROL Dynamic Chat] .*

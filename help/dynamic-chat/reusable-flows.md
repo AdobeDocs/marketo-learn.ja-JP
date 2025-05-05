@@ -20,4 +20,4 @@ ht-degree: 0%
 
 新しい対話型フローカードを使用すると、会話の設計と管理を簡単に行うことができます。 対話型ストリームを 1 回作成し、複数のダイアログに再利用します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429715/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446646/?learn=on&captions=jpn)

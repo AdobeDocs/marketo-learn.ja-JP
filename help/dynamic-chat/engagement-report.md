@@ -20,7 +20,7 @@ ht-degree: 16%
 
 次に、web 訪問者によるダイアログの操作の傾向を確認します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416921/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437701/?quality=12&learn=on&captions=jpn){transcript=true}
 
 ## その他の役に立つビデオ
 

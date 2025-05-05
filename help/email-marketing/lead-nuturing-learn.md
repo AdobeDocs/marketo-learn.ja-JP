@@ -18,4 +18,4 @@ ht-degree: 2%
 
 [!UICONTROL &#x200B; ユーザー育成 &#x200B;] を使用すると、個人のニーズを聞き、独自の買い手ジャーニー全体を通して関連コンテンツで応答できます。 ナーチャリングプログラム、その仕組み、成功の手順について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345478/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409791/?quality=12&learn=on&captions=jpn){transcript=true}

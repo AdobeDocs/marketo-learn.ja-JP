@@ -18,7 +18,7 @@ ht-degree: 2%
 
 事前定義済みのプログラムに基づく展示会イベントプログラムをMarketoで作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345473/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409796/?quality=12&learn=on&captions=jpn){transcript=true}
 
 ## その他のリソース
 

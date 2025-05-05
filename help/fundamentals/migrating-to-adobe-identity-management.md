@@ -46,7 +46,7 @@ Adobe Marketo EngageをAdobe Admin Consoleに移行できるようにするに�
 
 次のビデオでは、Marketo Engage Product Management チームが、移行ジャーニーと予想される結果について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430920t3/?t=170/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432372/?t=170/?quality=12&learn=on&captions=jpn){transcript=true}
 
 Marketo Engage管理者向けのこのトピックに関する詳細は、次のヘルプ記事を参照してください。
 

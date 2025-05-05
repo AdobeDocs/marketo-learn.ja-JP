@@ -16,7 +16,7 @@ ht-degree: 5%
 
 Sales Insight Actions アクティビティを設定し、[!DNL Salesforce] アカウントに記録する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/340843/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449200/?quality=12&learn=on&captions=jpn){transcript=true}
 
 ## 関連ビデオ
 

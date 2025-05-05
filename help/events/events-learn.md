@@ -18,4 +18,4 @@ ht-degree: 3%
 
 イベントマーケティングプログラムで担当者の関与を活用して、関係を構築し、のれんを生み出し、見込み客や見込み客の信頼を得ます。
 
->[!VIDEO](https://video.tv.adobe.com/v/345472/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409797/?quality=12&learn=on&captions=jpn){transcript=true}

@@ -26,4 +26,4 @@ ht-degree: 0%
 * 常に手荒な業者と話していることを保証する
 * フォーム入力後または自動チャット会話中の提供
 
->[!VIDEO](https://video.tv.adobe.com/v/3424828/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452059/?learn=on&captions=jpn)

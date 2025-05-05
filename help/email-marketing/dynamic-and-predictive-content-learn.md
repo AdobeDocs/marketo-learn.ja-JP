@@ -18,4 +18,4 @@ ht-degree: 0%
 
 関連性の高いコンテンツを配信することは、マーケティングにおいて最も重要なアイデアの 1 つです。 Marketo コンテンツ AI を活用する方法と、Marketoを操作する際に動的コンテンツを適用する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345485/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409784/?quality=12&learn=on&captions=jpn){transcript=true}

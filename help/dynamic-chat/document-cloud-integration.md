@@ -18,4 +18,4 @@ ht-degree: 4%
 
 [!UICONTROL Dynamic Chat] が Document Cloud PDF埋め込み API と統合されました。 これにより、[!UICONTROL Dynamic Chat] で設計したパーソナライズされた会話内でPDFドキュメントを共有できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/343479/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447978/?quality=12&learn=on&captions=jpn){transcript=true}

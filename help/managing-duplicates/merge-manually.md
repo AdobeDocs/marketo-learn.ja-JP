@@ -20,4 +20,4 @@ ht-degree: 0%
 
 精度と制御が高くレコード数が少ない処理に最適な、データベースセクションで重複を手動で結合する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429491/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443651/?learn=on&enablevpops&captions=jpn)

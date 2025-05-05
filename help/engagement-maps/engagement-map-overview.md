@@ -21,4 +21,4 @@ ht-degree: 6%
 
 エンゲージメントマップでキャンペーンベロシティを向上させる方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422232/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423307/?learn=on&captions=jpn){transcript=true}

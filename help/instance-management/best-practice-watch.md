@@ -19,4 +19,4 @@ ht-degree: 4%
 
 MarketoでMarketoの推奨プログラムおよびインスタンスのベストプラクティスを実装する方法をご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/345421/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411392/?quality=12&learn=on&captions=jpn){transcript=true}

@@ -18,4 +18,4 @@ ht-degree: 4%
 
 有益な SEO と PPC 戦略を作成するための成功手順を実装する方法をご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/345400/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411949/?quality=12&learn=on&captions=jpn){transcript=true}

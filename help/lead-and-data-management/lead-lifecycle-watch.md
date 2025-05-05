@@ -18,4 +18,4 @@ ht-degree: 3%
 
 プログラムのステータスを使用してリードを追跡し、販売の準備が整ったリードに対応する [!UICONTROL &#x200B; 個人ライフサイクル &#x200B;] プログラムを作成します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345423/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411390/?quality=12&learn=on&captions=jpn){transcript=true}

@@ -18,4 +18,4 @@ ht-degree: 2%
 
 今日のテクノロジーの氾濫に伴い、モバイルマーケティングは採用すべき最も不可欠な戦略の 1 つです。 モバイルデバイスの便利さを通じてリアルタイムと個人の接続を作成して、購入者との関係を構築する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345403/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409798/?quality=12&learn=on&captions=jpn){transcript=true}

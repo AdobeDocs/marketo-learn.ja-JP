@@ -18,4 +18,4 @@ ht-degree: 1%
 
 Marketoに組み込まれている A/B テスト機能を使用すると、件名行、曜日と時間帯、「送信者」の住所などをテストすることで、メールの有効性を高めるデータ駆動型の意思決定を行うのに役立ちます。 メールのパフォーマンスを向上させるために、Marketoでのメール A/B テストの使用について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345483/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409786/?quality=12&learn=on&captions=jpn){transcript=true}

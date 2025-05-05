@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Adobeのプロフェッショナルサービスが、手間のかからないアプローチで重複レコードを管理する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429501/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436779/?learn=on&enablevpops&captions=jpn)

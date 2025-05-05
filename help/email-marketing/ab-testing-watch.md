@@ -18,4 +18,4 @@ ht-degree: 4%
 
 Marketoでメール A/B テストを作成して、メールのパフォーマンスを向上させる方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345484/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409785/?quality=12&learn=on&captions=jpn){transcript=true}

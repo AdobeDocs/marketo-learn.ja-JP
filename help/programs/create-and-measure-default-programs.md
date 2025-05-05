@@ -20,4 +20,4 @@ ht-degree: 5%
 
 デフォルトプログラムの成功を作成および測定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419623/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424471/?learn=on&captions=jpn){transcript=true}
