@@ -24,5 +24,5 @@ ht-degree: 45%
 
 * [製品ツアー [2022]](product-tour-2022.md)
 * [Chatbot のセットアップとインストール](setup.md)
-* [[!UICONTROL Dynamic ChatとのMarketo統合のアクティブ化 ]](marketo-integration.md)
+* [[!UICONTROL Dynamic ChatとのMarketo統合のアクティブ化 &#x200B;]](marketo-integration.md)
 * [わずか15分でDynamic Chatを利用開始](go-live-in-15-minutes.md)

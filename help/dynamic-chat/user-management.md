@@ -23,5 +23,5 @@ Adobe Admin Consoleを使用して [!UICONTROL Dynamic Chat] のユーザーを�
 ## その他の役に立つビデオ
 
 * [パーソナライズされたダイアログの作成と管理](dialogue-management.md)
-* [[!UICONTROL Dynamic ChatとのMarketo統合のアクティブ化 ]](marketo-integration.md)
+* [[!UICONTROL Dynamic ChatとのMarketo統合のアクティブ化 &#x200B;]](marketo-integration.md)
 * [リードを有効にして、営業とのミーティングを予約する](meeting-booking.md)

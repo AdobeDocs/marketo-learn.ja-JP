@@ -1,6 +1,6 @@
 ---
 title: Chatbot のセットアップとインストール
-description: 初めて使用するために ]0}Dynamic Chat} を設定する方法を説明します。[!UICONTROL
+description: 初めて使用するために &rbrack;0&rbrace;Dynamic Chat&rbrace; を設定する方法を説明します。
 role: User
 level: Beginner
 jira: KT-9693

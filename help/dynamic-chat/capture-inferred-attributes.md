@@ -26,4 +26,4 @@ Dynamic Chatでは同じAdobe Marketo Engage munchkin cookie を使用してい�
 
 * [[!UICONTROL Dynamic Chat] のユーザーを追加および管理します](user-management.md)
 * [パーソナライズされたダイアログの作成と管理](dialogue-management.md)
-* [[!UICONTROL Dynamic ChatとのMarketo統合のアクティブ化 ]](marketo-integration.md)
+* [[!UICONTROL Dynamic ChatとのMarketo統合のアクティブ化 &#x200B;]](marketo-integration.md)

@@ -28,11 +28,11 @@ Adobe Marketo EngageをAdobe Admin Consoleに移行できるようにするに�
 
 * システム管理者が不明な場合は、Adobe アカウントチームに問い合わせるか、Adobe サポート `marketocares@marketo.com` ームにお問い合わせください。
 
-* Marketo Engage サブスクリプションの移行先となるAdobe Admin Console（またはAdobe組織）を指定します。 Marketo Engageのネイティブな会話自動処理ツールである ](/help/dynamic-chat/dynamic-chat-overview.md){target="_blank"}0}Dynamic Chat} のAdobe Admin Consoleがある可能性があります。 [Marketo Engage サブスクリプションは、Dynamic Chatと同じ組織にデプロイする必要があります。
+* Marketo Engage サブスクリプションの移行先となるAdobe Admin Console（またはAdobe組織）を指定します。 Marketo Engageのネイティブな会話自動処理ツールである [&#128279;](/help/dynamic-chat/dynamic-chat-overview.md){target="_blank"}0&rbrace;Dynamic Chat&rbrace; のAdobe Admin Consoleがある可能性があります。 Marketo Engage サブスクリプションは、Dynamic Chatと同じ組織にデプロイする必要があります。
 
 * IT チームと協力して、[ この記事の上部 ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} に一覧表示されているすべてのAdobe ドメインを許可リストに加えるし、Adobe ID への移行後にMarketo Engageへのアクセスが中断されないようにします。
 
-* **オプション：**[ シングルサインオン（SSO）を実装 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"} ユーザー移行前。
+* **オプション：**&#x200B;[ シングルサインオン（SSO）を実装 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"} ユーザー移行前。
 
   >[!NOTE]
   >

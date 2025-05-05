@@ -14,7 +14,7 @@ ht-degree: 6%
 
 ---
 
-# [!UICONTROL Dynamic ChatとのMarketo統合のアクティブ化 ]
+# [!UICONTROL Dynamic ChatとのMarketo統合のアクティブ化 &#x200B;]
 
 [!UICONTROL Dynamic Chat] は [!DNL Marketo Engage] にネイティブに統合されており、チャットボットの会話のコンテキストを使用して、見込み客を再ターゲティングまたはスコアリングできます。
 
