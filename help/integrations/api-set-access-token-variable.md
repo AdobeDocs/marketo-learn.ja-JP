@@ -24,11 +24,11 @@ Postman アプリケーションを設定し、変数を活用して、再利用
 >
 >このビデオを開始する前に、AOI の役割を持つ API のみのユーザー名を作成し、Launchpad サービスを作成します。 以下の記事の手順に従います。
 >
->* [API のみのユーザーロールの作成 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user-role){target="_blank"}
+>* [API のみのユーザーロールの作成 ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user-role){target="_blank"}
 >
->* [API のみのユーザーの作成 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user){target="_blank"}
+>* [API のみのユーザーの作成 ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user){target="_blank"}
 >
->* [REST API で使用するカスタムサービスの作成 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api){target="_blank"}
+>* [REST API で使用するカスタムサービスの作成 ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api){target="_blank"}
 
 **このビデオで使用されている参照：**
 
@@ -41,6 +41,6 @@ var jsonData = pm.response.json();
 pm.environment.set("access_token", jsonData.access_token);
 ```
 
-* [Marketo Engage開発者向けドキュメント ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}
+* [Marketo Engage開発者向けドキュメント ](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429275/?learn=on)

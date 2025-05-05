@@ -24,7 +24,7 @@ ht-degree: 12%
    + [新しいインスタンスを整理するためのベストプラクティス](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [基本的なプログラムを作成するためのベストプラクティス](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [トークンを使用したパーソナライズ](/help/personalization/personalize-with-tokens.md)
-   + [ 新しいインスタンスの実装 – チュートリアル ](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
+   + [ 新しいインスタンスの実装 – チュートリアル ](https://experienceleague.adobe.com/ja/docs/experiences-by-you/implementing-new-instance/overview)
    + [ 継承されたインスタンスの監査 – チュートリアル ](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=ja)
 + プログラムとキャンペーン {#programs-and-campaigns}
    + [プログラムとキャンペーンについて](/help/programs/understanding-programs-and-campaigns.md)

@@ -24,4 +24,4 @@ ht-degree: 3%
 
 メールプログラムについて詳しくは、製品ガイドを参照してください。
 
-* [ メールプログラムのドキュメントについて ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
+* [ メールプログラムのドキュメントについて ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=ja)

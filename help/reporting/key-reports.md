@@ -28,7 +28,7 @@ Marketo Engage内の主要なレポートとその取り込み方法について
 
 関連する製品ガイドを参照してください。
 
-* [ レポートタイプの概要 ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=en)
+* [ レポートタイプの概要 ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=ja)
 
 同業者から学ぶ：
 

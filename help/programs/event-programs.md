@@ -26,11 +26,11 @@ ht-degree: 7%
 
 詳しくは、関連する製品ガイドを参照してください。
 
-* [ イベントプログラムのドキュメントについて ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html?lang=en)
+* [ イベントプログラムのドキュメントについて ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html?lang=ja)
 
 この機能に関するその他のヘルプについては、次のビデオをご覧ください。
-* [ イベントの説明 ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=en)
-* [ ウェビナーの概要 ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/webinar-watch.html?lang=en)
+* [ イベントの説明 ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=ja)
+* [ ウェビナーの概要 ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/webinar-watch.html?lang=ja)
 
 同業者から、イベントプログラムの使用方法について学びます。
 * [ エキスパートのお客様のブログ投稿：イベントプログラム ](https://nation.marketo.com/t5/product-blogs/marketo-success-series-event-programs/ba-p/299191)

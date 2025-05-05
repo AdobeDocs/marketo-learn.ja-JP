@@ -15,8 +15,8 @@ ht-degree: 10%
 
 詳しくは、関連する製品ガイドを参照してください。
 
-* [ プログラムのドキュメントについて ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html?lang=en)
-* [ スマートキャンペーンのドキュメントについて ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=en)
+* [ プログラムのドキュメントについて ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html?lang=ja)
+* [ スマートキャンペーンのドキュメントについて ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=ja)
 
 同僚からスマートキャンペーンの使用方法を学ぶ：
 

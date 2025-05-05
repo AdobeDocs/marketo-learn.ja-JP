@@ -23,10 +23,10 @@ ht-degree: 19%
 
 ## 最新情報 {#whats-new}
 
-* [ ライブチャットを実装するためのベストプラクティス ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
+* [ ライブチャットを実装するためのベストプラクティス ](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
   _Dynamic Chatでライブチャット機能を実装する際に従うべきベストプラクティスについて説明します。_
 
-* [ インタラクティブウェビナーの概要 ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
+* [ インタラクティブウェビナーの概要 ](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
   _Marketo Engageに組み込まれているウェビナープラットフォームである、インタラクティブウェビナーについてはすべて説明します_。
 
 * [Adobe Identity Managementへの移行 ](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
@@ -41,8 +41,8 @@ ht-degree: 19%
 <div><a href="https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/programs-and-campaigns/smart-campaigns-101"><strong>スマートキャンペーン 101</strong></a></div>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/conversational-forms"><img alt="会話型Formsのサムネール画像" src="assets/tutorials-homepage-2.png"></a>
-<div><a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/conversational-forms"><strong> 会話Forms</strong></a></div>
+<a href="https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/dynamic-chat/conversational-forms"><img alt="会話型Formsのサムネール画像" src="assets/tutorials-homepage-2.png"></a>
+<div><a href="https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/dynamic-chat/conversational-forms"><strong> 会話Forms</strong></a></div>
 </td>
 <td>
 <a href="https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/fundamentals/programs-and-campaigns"><img alt="Marketoのプログラムとキャンペーンについて" src="assets/tutorials-homepage-3.png" /></a>

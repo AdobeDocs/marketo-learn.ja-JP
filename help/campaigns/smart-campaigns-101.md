@@ -28,7 +28,7 @@ ht-degree: 41%
 
 **ドキュメント：**
 
-* [ スマートキャンペーンのドキュメントについて ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=en)
+* [ スマートキャンペーンのドキュメントについて ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=ja)
 
 **Expert Customer のブログ投稿：**
 

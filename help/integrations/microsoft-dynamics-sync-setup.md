@@ -26,24 +26,24 @@ Microsoft Dynamics 365 の同期の仕組みと、設定を適切に設定して
 
 ## ビデオで使用されているリンク
 
-* [Microsoft Dynamics Sync について ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/understanding-the-microsoft-dynamics-sync.html)
+* [Microsoft Dynamics Sync について ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/understanding-the-microsoft-dynamics-sync.html?lang=ja)
 
-* [Marketo リード管理ソリューションのダウンロード](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/download-the-marketo-lead-management-solution.html)
+* [Marketo リード管理ソリューションのダウンロード](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/download-the-marketo-lead-management-solution.html?lang=ja)
 
-* [Microsoft Dynamics のMarketo ソリューションの更新 ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.html)
+* [Microsoft Dynamics のMarketo ソリューションの更新 ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.html?lang=ja)
 
-* [ クライアント Id とアプリ登録に対する同意の付与 ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/grant-consent-for-client-id-and-app-registration.html)
+* [ クライアント Id とアプリ登録に対する同意の付与 ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/grant-consent-for-client-id-and-app-registration.html?lang=ja)
 
-* [Microsoft Dynamics 同期の検証](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/validate-microsoft-dynamics-sync.html)
+* [Microsoft Dynamics 同期の検証](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/validate-microsoft-dynamics-sync.html?lang=ja)
 
-* [ 同期ステータス ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/sync-status.html)
+* [ 同期ステータス ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/sync-status.html?lang=ja)
 
-* [Dynamics 検証同期に対する問題の修正](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/fix-dynamics-validation-sync-issues.html)
+* [Dynamics 検証同期に対する問題の修正](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/fix-dynamics-validation-sync-issues.html?lang=ja)
 
-* [ カスタム Dynamics Sync フィルターの作成 ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/custom-dynmaics-sync-filter-details/create-a-custom-dynamics-sync-filter.html)
+* [ カスタム Dynamics Sync フィルターの作成 ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/custom-dynmaics-sync-filter-details/create-a-custom-dynamics-sync-filter.html?lang=ja)
 
-* [ 組織サービス URL の表示 ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/view-the-organization-service-url.html)
+* [ 組織サービス URL の表示 ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/view-the-organization-service-url.html?lang=ja)
 
-* [Dynamics で削除する前に同期するフィールドの編集 ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/editing-fields-to-sync-before-deleting-them-in-dynamics.html)
+* [Dynamics で削除する前に同期するフィールドの編集 ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/editing-fields-to-sync-before-deleting-them-in-dynamics.html?lang=ja)
 
-* [ チュートリアル：Marketoの CRM への同期について学ぶ ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn.html)
+* [ チュートリアル：Marketoの CRM への同期について学ぶ ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn.html?lang=ja)

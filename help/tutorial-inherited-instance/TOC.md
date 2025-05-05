@@ -23,4 +23,4 @@ ht-degree: 0%
 + [インスタンスガバナンスガイドの作成](/help/tutorial-inherited-instance/develop-an-instance-governance-guide.md)
 + [マーケティングテクニカルスタックを視覚的にマッピング](/help/tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)
 + [プログラムの事前開始品質保証プロセス](/help/tutorial-inherited-instance/essential-program-pre-launch-qa.md)
-+ [Marketo EngageTutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en)
++ [Marketo EngageTutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ja)
