@@ -3,10 +3,10 @@ user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
 auto-video-transcripts: true
-source-git-commit: dcfffa299cbcfef489f5b618fae29f745b878d26
+source-git-commit: 1f7221f18b629fb5a9ea7d9aa907ac847ff01c50
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 12%
+source-wordcount: '470'
+ht-degree: 13%
 
 ---
 
@@ -17,18 +17,22 @@ ht-degree: 12%
 + 基本 {#fundamentals}
    + [目標と戦略](/help/fundamentals/goals-and-strategy-learn.md)
    + [組織構造](/help/fundamentals/organizational-structure-learn.md)
-   + [Adobe Identity Managementへの移行](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [コンテンツマーケティング](/help/fundamentals/content-marketing-learn.md)
    + [購入者ペルソナ](/help/fundamentals/buyer-personas-learn.md)
+   + [スマートリスト](/help/fundamentals/smart-lists.md)
+   + [静的リスト](/help/fundamentals/static-lists.md)
    + [プログラムとキャンペーン](/help/fundamentals/programs-and-campaigns.md)
+   + [Adobe Identity Managementへの移行](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [新しいインスタンスを整理するためのベストプラクティス](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [基本的なプログラムを作成するためのベストプラクティス](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [トークンを使用したパーソナライズ](/help/personalization/personalize-with-tokens.md)
-   + [ 新しいインスタンスの実装 – チュートリアル ](https://experienceleague.adobe.com/ja/docs/experiences-by-you/implementing-new-instance/overview)
+   + [ 新しいインスタンスの実装 – チュートリアル ](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
    + [ 継承されたインスタンスの監査 – チュートリアル ](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=ja)
 + プログラムとキャンペーン {#programs-and-campaigns}
    + [プログラムとキャンペーンについて](/help/programs/understanding-programs-and-campaigns.md)
+   + [プログラムメンバーシップについて](/help/programs/understanding-program-membership.md)
    + [スマートキャンペーン 101](/help/campaigns/smart-campaigns-101.md)
+   + [チャネル、タグ、期間コストの概要](/help/campaigns/channels-tags-period-costs.md)
    + [イベントプログラム](/help/programs/event-programs.md)
    + デフォルトプログラム {#default-programs}
       + [デフォルトプログラムの作成と測定](/help/programs/create-and-measure-default-programs.md)
@@ -95,6 +99,7 @@ ht-degree: 12%
    + [Sales Insightのアクション・インスタンスへのアクセス](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [ [!DNL Salesforce] の場所への販売アクティビティのログを構成します。](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + リードおよびデータ管理 {#lead-and-data-management}
+   + [スコアリングについて](/help/lead-and-data-management/understanding-scoring.md)
    + [リード/人物スコアリング](/help/lead-and-data-management/lead-scoring-learn.md)
    + [リード/人物スコアリングウォークスルー](/help/lead-and-data-management/lead-scoring-watch.md)
    + [購読センター](/help/lead-and-data-management/subscription-center-learn.md)
