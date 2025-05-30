@@ -18,4 +18,4 @@ ht-degree: 0%
 
 リード/人物スコアリング運用プログラムの作成方法、キャンペーンでのトークンの使用方法、事前定義済みキャンペーンのインポート方法をご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/345425/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411386/?quality=12&learn=on&captions=jpn){transcript=true}
