@@ -3,7 +3,7 @@ user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
 auto-video-transcripts: true
-source-git-commit: 1f7221f18b629fb5a9ea7d9aa907ac847ff01c50
+source-git-commit: f5e642f54afb279cab8cd8084d5eed60faa7933c
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 13%
@@ -26,13 +26,13 @@ ht-degree: 13%
    + [新しいインスタンスを整理するためのベストプラクティス](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [基本的なプログラムを作成するためのベストプラクティス](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [トークンを使用したパーソナライズ](/help/personalization/personalize-with-tokens.md)
-   + [ 新しいインスタンスの実装 – チュートリアル ](https://experienceleague.adobe.com/ja/docs/experiences-by-you/implementing-new-instance/overview)
+   + [ 新しいインスタンスの実装 – チュートリアル ](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
    + [ 継承されたインスタンスの監査 – チュートリアル ](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=ja)
 + プログラムとキャンペーン {#programs-and-campaigns}
    + [プログラムとキャンペーンについて](/help/programs/understanding-programs-and-campaigns.md)
    + [プログラムメンバーシップについて](/help/programs/understanding-program-membership.md)
    + [スマートキャンペーン 101](/help/campaigns/smart-campaigns-101.md)
-   + [チャネル、タグ、期間コストの概要](/help/campaigns/channels-tags-period-costs.md)
+   + [チャネル、タグ、期間コストの概要](/help/programs/channels-tags-period-costs.md)
    + [イベントプログラム](/help/programs/event-programs.md)
    + デフォルトプログラム {#default-programs}
       + [デフォルトプログラムの作成と測定](/help/programs/create-and-measure-default-programs.md)
