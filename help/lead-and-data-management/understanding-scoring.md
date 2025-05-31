@@ -20,4 +20,4 @@ ht-degree: 0%
 
 人物/リードにスコアリングを割り当てて、コンテンツに対するエンゲージメントを評価する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463192/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463237/?learn=on&enablevpops&captions=jpn)

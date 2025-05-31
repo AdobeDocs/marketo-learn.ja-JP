@@ -20,4 +20,4 @@ ht-degree: 14%
 
 Marketo Engageで一般的なユーザーリストを作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463191/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463215/?learn=on&enablevpops&captions=jpn)

@@ -20,4 +20,4 @@ ht-degree: 21%
 
 人物および特定のプログラムとの関係について詳しく説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463189/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463193/?learn=on&enablevpops&captions=jpn)
