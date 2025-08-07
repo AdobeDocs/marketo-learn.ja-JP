@@ -20,4 +20,4 @@ ht-degree: 9%
 
 トークンは、Smart Campaign のフロー手順、メール、ランディングページなどで使用するために、パーソナライズされたデータを取り込む変数です。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470560/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470573/?learn=on&enablevpops&captions=jpn)

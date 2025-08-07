@@ -20,4 +20,4 @@ ht-degree: 36%
 
 プログラムは、単一のマーケティング施策を表します。これらを活用して、様々な方法でオーディエンスにリーチする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470486/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470488/?learn=on&enablevpops&captions=jpn)

@@ -19,4 +19,4 @@ ht-degree: 4%
 
 Assets（メール、ランディングページなど）は、Marketo Engageのマーケティングキャンペーンで使用されるコンポーネントです。 使用方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470558/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470584/?learn=on&enablevpops&captions=jpn)

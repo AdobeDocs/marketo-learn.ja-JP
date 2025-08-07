@@ -18,4 +18,4 @@ ht-degree: 0%
 
 バイヤーのジャーニーの様々な段階を通じてリード（人物）がどのように進行するかを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470572/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470596/?learn=on&enablevpops&captions=jpn)
