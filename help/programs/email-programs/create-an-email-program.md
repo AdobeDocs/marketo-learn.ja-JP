@@ -20,4 +20,4 @@ ht-degree: 16%
 
 メールプログラムを使用して、複数の受信者にメールをすばやく簡単に送信し、その結果をトラッキングする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470607/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470608/?learn=on&enablevpops&captions=jpn)
