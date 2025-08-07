@@ -3,10 +3,10 @@ user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
 auto-video-transcripts: true
-source-git-commit: f5e642f54afb279cab8cd8084d5eed60faa7933c
+source-git-commit: 543139a4013eedcea421bb7eeebea4bb683957a1
 workflow-type: tm+mt
-source-wordcount: '470'
-ht-degree: 13%
+source-wordcount: '501'
+ht-degree: 15%
 
 ---
 
@@ -21,22 +21,32 @@ ht-degree: 13%
    + [購入者ペルソナ](/help/fundamentals/buyer-personas-learn.md)
    + [スマートリスト](/help/fundamentals/smart-lists.md)
    + [静的リスト](/help/fundamentals/static-lists.md)
+   + [アセット](/help/fundamentals/assets.md)
+   + [トークンの概要](/help/fundamentals/tokens-overview.md)
+   + [トークンを使用したパーソナライズ](/help/personalization/personalize-with-tokens.md)
    + [プログラムとキャンペーン](/help/fundamentals/programs-and-campaigns.md)
    + [Adobe Identity Managementへの移行](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [新しいインスタンスを整理するためのベストプラクティス](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [基本的なプログラムを作成するためのベストプラクティス](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
-   + [トークンを使用したパーソナライズ](/help/personalization/personalize-with-tokens.md)
-   + [ 新しいインスタンスの実装 – チュートリアル ](https://experienceleague.adobe.com/ja/docs/experiences-by-you/implementing-new-instance/overview)
+   + [ 新しいインスタンスの実装 – チュートリアル ](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
    + [ 継承されたインスタンスの監査 – チュートリアル ](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=ja)
 + プログラムとキャンペーン {#programs-and-campaigns}
+   + [プログラムについて](/help/programs/understanding-programs.md)
    + [プログラムとキャンペーンについて](/help/programs/understanding-programs-and-campaigns.md)
    + [プログラムメンバーシップについて](/help/programs/understanding-program-membership.md)
+   + [スマートキャンペーンについて](/help/campaigns/understanding-smart-campaigns.md)
    + [スマートキャンペーン 101](/help/campaigns/smart-campaigns-101.md)
    + [チャネル、タグ、期間コストの概要](/help/programs/channels-tags-period-costs.md)
    + [イベントプログラム](/help/programs/event-programs.md)
    + デフォルトプログラム {#default-programs}
       + [デフォルトプログラムの作成と測定](/help/programs/create-and-measure-default-programs.md)
       + [デフォルトプログラムの柔軟性の活用](/help/programs/leverage-the-flexibility-of-default-programs.md)
+   + メールプログラム {#email-programs}
+      + [メールプログラムの作成](/help/programs/email-programs/create-an-email-program.md)
+      + [メールの作成](/help/programs/email-programs/create-an-email.md)
+      + [オーディエンスの定義](/help/programs/email-programs/define-your-audience.md)
+      + [ランディングページの作成](/help/programs/email-programs/create-a-landing-page.md)
+      + [フォームの作成](/help/programs/email-programs/create-a-form.md)
    + エンゲージメントマップ {#engagement-maps}
       + [エンゲージメントマップの概要](/help/engagement-maps/engagement-map-overview.md)
       + [エンゲージメントマップのネストされたキャンペーン](/help/engagement-maps/engagement-map-nested-campaign.md)
@@ -53,7 +63,7 @@ ht-degree: 13%
    + [ランディングページ](/help/email-marketing/landing-pages-learn.md)
    + [ランディングページのウォークスルー](/help/email-marketing/landing-pages-watch.md)
    + [フォーム](/help/email-marketing/forms-learn.md)
-   + [メール配信品質](/help/email-marketing/email-deliverability-learn.md)
+   + [メールの配信品質](/help/email-marketing/email-deliverability-learn.md)
    + [メール配信品質のウォークスルー](/help/email-marketing/email-deliverability-watch.md)
    + [トリガーメール](/help/email-marketing/triggered-email-learn.md)
    + [トリガーメールのウォークスルー](/help/email-marketing/triggered-email-watch.md)
@@ -102,6 +112,7 @@ ht-degree: 13%
    + [スコアリングについて](/help/lead-and-data-management/understanding-scoring.md)
    + [リード/人物スコアリング](/help/lead-and-data-management/lead-scoring-learn.md)
    + [リード/人物スコアリングウォークスルー](/help/lead-and-data-management/lead-scoring-watch.md)
+   + [リードライフサイクルについて](/help/lead-and-data-management/understanding-the-lead-lifecycle.md)
    + [購読センター](/help/lead-and-data-management/subscription-center-learn.md)
    + [Subscription センターのウォークスルー](/help/lead-and-data-management/subscription-center-watch.md)
    + [CRM 同期](/help/lead-and-data-management/crm-sync-learn.md)
