@@ -4,7 +4,8 @@ description: REST API を使用してMarketo Engageでスマートキャンペ�
 feature: REST API
 role: Admin, Developer
 level: Experienced
-source-git-commit: e840968877b3947b2d24c9416104f1dd187082cc
+exl-id: 46e54729-92ab-4bbb-9877-f762708def67
+source-git-commit: 99058de9712fbebd631215ef15a6df349ca4c3cc
 workflow-type: tm+mt
 source-wordcount: '611'
 ht-degree: 1%
@@ -29,9 +30,9 @@ ht-degree: 1%
 
 ## 手順 1：スマートキャンペーンの作成 {#step-one}
 
-1. **マーケティングアクティビティ** に移動し、[ プログラム ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs){target="_blank"} フォルダーの下に `Send Webinar Reminder` という新しい [ スマートキャンペーン ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns){target="_blank"} を作成します。
+1. **マーケティングアクティビティ** に移動し、[ プログラム ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs){target="_blank"} フォルダーの下に [ という新しい ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns){target="_blank"} スマートキャンペーン `Send Webinar Reminder` を作成します。
 
-1. 「**スマートリスト**」タブで [トリガーを追加 ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger){target="_blank"} し、API を使用してキャンペーンを呼び出せるようにします。
+1. 「**スマートリスト**」タブで [トリガーを追加 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger){target="_blank"} し、API を使用してキャンペーンを呼び出せるようにします。
 
    * **キャンペーンをリクエスト済み** をトリガーとして選択します
    * 「**Source**」を `Web Service API` に設定します
@@ -40,7 +41,7 @@ ht-degree: 1%
 
 ## 手順 2：メールコンテンツの定義 {#step-two}
 
-ユーザーと [ マイトークン ](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/assets/emails){target="_blank"} の両方を参照する [ メールアセット ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens){target="_blank"} を作成または編集します。
+ユーザーと [ マイトークン ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/emails){target="_blank"} の両方を参照する [ メールアセット ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens){target="_blank"} を作成または編集します。
 
 >[!NOTE]
 >
@@ -76,13 +77,13 @@ API を使用して値を動的に渡すには、トークンが既にMarketo En
 
 * `{{my.WebinarTitle}}` - テキストトークン
 * `{{my.JoinLink}}` - テキストトークン
-* `{{my.WebinarImage}}` - テキストトークン（`<img>` タグの `src` として使用）
+* `{{my.WebinarImage}}` - テキストトークン（`src` タグの `<img>` として使用）
 
 ![Campaign の「マイトークン」タブ ](assets/trigger-smart-campaign-rest-api-3.png)
 
 ## 手順 4：キャンペーンの選定ルールの設定とキャンペーンのアクティブ化 {#step-four}
 
-1. [ 選定ルール ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign){target="_blank"} を設定して、人物がスマートキャンペーンを実行できる頻度を制御します。
+1. [ 選定ルール ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign){target="_blank"} を設定して、人物がスマートキャンペーンを実行できる頻度を制御します。
 
 1. 設定が完了したら、「**アクティブ化**」をクリックして、スマートキャンペーンが API トリガーのリクエストを受け取るようにします。
 
@@ -133,7 +134,7 @@ POST /rest/v1/campaigns/1234/trigger.json
       },
       {
         "name": "{{my.WebinarImage}}",
-        "value": "https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/events/media_1c6f338a518ada11550084c8ab3a6bbf554ff6eac.jpeg"
+        "value": "https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/media_1c6f338a518ada11550084c8ab3a6bbf554ff6eac.jpeg"
       }
     ]
   }
