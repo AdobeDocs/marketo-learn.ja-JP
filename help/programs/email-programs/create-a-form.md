@@ -20,4 +20,4 @@ ht-degree: 0%
 
 フォームを作成および使用してリード/人物のデータを取り込む方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470632/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470657/?learn=on&enablevpops&captions=jpn)

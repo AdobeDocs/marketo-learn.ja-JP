@@ -20,4 +20,4 @@ ht-degree: 0%
 
 メールプログラムでメールを作成、パーソナライズ、テストする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470630/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470635/?learn=on&enablevpops&captions=jpn)
