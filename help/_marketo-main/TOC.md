@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
 auto-video-transcripts: true
-source-git-commit: 543139a4013eedcea421bb7eeebea4bb683957a1
+source-git-commit: 9cf0fca2786f14ff1d2f4ddacce8b6f44ca964ca
 workflow-type: tm+mt
-source-wordcount: '501'
+source-wordcount: '499'
 ht-degree: 15%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 15%
    + [Adobe Identity Managementへの移行](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [新しいインスタンスを整理するためのベストプラクティス](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [基本的なプログラムを作成するためのベストプラクティス](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
-   + [ 新しいインスタンスの実装 – チュートリアル ](https://experienceleague.adobe.com/ja/docs/experiences-by-you/implementing-new-instance/overview)
+   + [ 新しいインスタンスの実装 – チュートリアル ](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
    + [ 継承されたインスタンスの監査 – チュートリアル ](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=ja)
 + プログラムとキャンペーン {#programs-and-campaigns}
    + [プログラムについて](/help/programs/understanding-programs.md)
@@ -76,7 +76,6 @@ ht-degree: 15%
    + [モバイルマーケティングのウォークスルー](/help/cross-channel-marketing/mobile-marketing-watch.md)
    + [SEO と PPC](/help/cross-channel-marketing/seo-and-ppc-learn.md)
    + [SEO と PPC のウォークスルー](/help/cross-channel-marketing/seo-and-ppc-watch.md)
-   + [ソーシャルマーケティング](/help/cross-channel-marketing/social-marketing-learn.md)
    + [Web パーソナライゼーション](/help/cross-channel-marketing/web-personalization-learn.md)
    + [Web パーソナライゼーションのウォークスルー](/help/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
