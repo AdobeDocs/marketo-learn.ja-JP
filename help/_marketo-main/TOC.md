@@ -28,8 +28,8 @@ ht-degree: 15%
    + [Adobe Identity Managementへの移行](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [新しいインスタンスを整理するためのベストプラクティス](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [基本的なプログラムを作成するためのベストプラクティス](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
-   + [ 新しいインスタンスの実装 – チュートリアル ](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
-   + [ 継承されたインスタンスの監査 – チュートリアル ](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=ja)
+   + [&#x200B; 新しいインスタンスの実装 – チュートリアル &#x200B;](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
+   + [&#x200B; 継承されたインスタンスの監査 – チュートリアル &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=ja)
 + プログラムとキャンペーン {#programs-and-campaigns}
    + [プログラムについて](/help/programs/understanding-programs.md)
    + [プログラムとキャンペーンについて](/help/programs/understanding-programs-and-campaigns.md)
@@ -69,7 +69,7 @@ ht-degree: 15%
    + [トリガーメールのウォークスルー](/help/email-marketing/triggered-email-watch.md)
    + [リード育成](/help/email-marketing/lead-nuturing-learn.md)
    + [動的および予測コンテンツ](/help/email-marketing/dynamic-and-predictive-content-learn.md)
-   + [ メールボットアクティビティのフィルタリング – 設定 ](/help/filtering-email-bot-activities/setup.md)
+   + [&#x200B; メールボットアクティビティのフィルタリング – 設定 &#x200B;](/help/filtering-email-bot-activities/setup.md)
 + クロスチャネルマーケティング {#cross-channel-marketing}
    + [Formsのウォークスルー](/help/email-marketing/forms-watch.md)
    + [モバイルマーケティングの統合](/help/cross-channel-marketing/mobile-marketing-learn.md)
@@ -106,7 +106,7 @@ ht-degree: 15%
    + [概要](/help/sales-insight-actions/overview.md)
    + [Sales Insightのアクションの概要](/help/sales-insight-actions/sales-insight-actions-overview.md)
    + [Sales Insightのアクション・インスタンスへのアクセス](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
-   + [ [!DNL Salesforce] の場所への販売アクティビティのログを構成します。](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
+   + [&#x200B; [!DNL Salesforce] の場所への販売アクティビティのログを構成します。](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + リードおよびデータ管理 {#lead-and-data-management}
    + [スコアリングについて](/help/lead-and-data-management/understanding-scoring.md)
    + [リード/人物スコアリング](/help/lead-and-data-management/lead-scoring-learn.md)
