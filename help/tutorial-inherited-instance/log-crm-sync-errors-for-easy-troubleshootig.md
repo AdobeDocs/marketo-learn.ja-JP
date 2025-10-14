@@ -19,9 +19,9 @@ ht-degree: 0%
 
 # CRM 同期エラーをログに記録して、トラブルシューティングを容易にする
 
-Marketo Engage管理者は、インスタンスが CRM と同期しているかどうかを確認することが [ 毎日のルーチン ](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"} の重要な部分になるはずです。 [ 通知 ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html?lang=ja){target="_blank"} セクション（Marketo Engageインターフェイスの右上隅にあります）では頻繁な同期の問題を見つけて調査しますが、インスタンスのヘルスを組織的に管理するのに役立つヒントが用意されています。 AdobeのMarketo チャンピオン（2019～2022）、Amy Goldfine は、トラブルシューティングを容易にするために、管理者ユーザーに CRM 同期エラーのログを保持することをお勧めします。
+Marketo Engage管理者は、インスタンスが CRM と同期しているかどうかを確認することが [&#x200B; 毎日のルーチン &#x200B;](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"} の重要な部分になるはずです。 [&#x200B; 通知 &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html?lang=ja){target="_blank"} セクション（Marketo Engageインターフェイスの右上隅にあります）では頻繁な同期の問題を見つけて調査しますが、インスタンスのヘルスを組織的に管理するのに役立つヒントが用意されています。 AdobeのMarketo チャンピオン（2019～2022）、Amy Goldfine は、トラブルシューティングを容易にするために、管理者ユーザーに CRM 同期エラーのログを保持することをお勧めします。
 
-![ 「同期エラー」タブのスクリーンショット ](/help/tutorial-inherited-instance/_assets/Marketo_Engage_Admin_Salesforce_Sync_Errors_Tab.png)
+![&#x200B; 「同期エラー」タブのスクリーンショット &#x200B;](/help/tutorial-inherited-instance/_assets/Marketo_Engage_Admin_Salesforce_Sync_Errors_Tab.png)
 
 ## CRM 同期エラーを記録するのはなぜですか？
 
@@ -29,7 +29,7 @@ Marketo Engage管理者は、CRM 同期エラーをログに記録すること�
 
 ## CRM 同期エラーのログを保持する方法
 
-開始する前に、[CRM 同期エラーログテンプレート ](/help/tutorial-inherited-instance/_assets/downloads/Adobe-Marketo-Engage_CRM-Sync-Error-Log-Template.xlsx) をダウンロードしてください。
+開始する前に、[CRM 同期エラーログテンプレート &#x200B;](/help/tutorial-inherited-instance/_assets/downloads/Adobe-Marketo-Engage_CRM-Sync-Error-Log-Template.xlsx) をダウンロードしてください。
 
 **手順 1:** Marketo Engageの *[!UICONTROL 管理者 &#x200B;] セクション* に移動します。 *[!UICONTROL 統合]* の下で、使用する [!DNL CRM] に応じて「*[!DNL Salesforce]*」、「*[!DNL Microsoft Dynamics]*」、または「*[!DNL Veeva]*」をクリックし、「*[!UICONTROL 同期エラー]*」タブをクリックします。
 
@@ -47,7 +47,7 @@ Marketo Engage管理者は、CRM 同期エラーをログに記録すること�
 
 ## 次の手順
 
-**エラーコードの特定：** エラーコードを理解するには、開発者向けドキュメント [ 応答レベルのエラーコードの表 ](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes){target="_blank"} の説明を調べ、エラーを解決するための一般的な次の手順を見つけます。
+**エラーコードの特定：** エラーコードを理解するには、開発者向けドキュメント [&#x200B; 応答レベルのエラーコードの表 &#x200B;](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes){target="_blank"} の説明を調べ、エラーを解決するための一般的な次の手順を見つけます。
 
 ## 作成者
 
@@ -55,9 +55,9 @@ Marketo Engage管理者は、CRM 同期エラーをログに記録すること�
 AdobeMarketoチャンピオン（2019 年～2022 年）
 *創業者、MarketingOpsAdvice.com*
 
-![ エイミー・ゴールドファイン ](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Amy_Goldfine.png){width="25%"}
+![&#x200B; エイミー・ゴールドファイン &#x200B;](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Amy_Goldfine.png){width="25%"}
 
 **エイミー・チウ**
 *Adobe時の導入およびリテンションのマーケティングマネージャー*
 
-![ エイミー・チウ ](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width="25%"}
+![&#x200B; エイミー・チウ &#x200B;](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width="25%"}

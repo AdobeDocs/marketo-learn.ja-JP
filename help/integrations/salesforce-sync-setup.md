@@ -26,18 +26,18 @@ Marketo Engageと Salesforce を連携させて、セールスデータとマー
 
 ## ビデオで使用されているリンク
 
-* [Salesforce 同期について ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=ja)
+* [Salesforce 同期について &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=ja)
 
-* [Salesforce へのMarketo フィールドの追加（Enterprise/Unlimited） ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.html?lang=ja)
+* [Salesforce へのMarketo フィールドの追加（Enterprise/Unlimited） &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.html?lang=ja)
 
-* [Salesforce でのMarketo ユーザーの作成（Enterprise/Unlimited） ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.html?lang=ja)
+* [Salesforce でのMarketo ユーザーの作成（Enterprise/Unlimited） &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.html?lang=ja)
 
-* [Marketoと Salesforce の接続（Enterprise/Unlimited） ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.html?lang=ja)
+* [Marketoと Salesforce の接続（Enterprise/Unlimited） &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.html?lang=ja)
 
-* [ ユーザーは、Marketoおよび Salesforce Sync に進む前に、Salesforce 側で接続済みアプリを設定する必要があります。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.html?lang=ja)
+* [&#x200B; ユーザーは、Marketoおよび Salesforce Sync に進む前に、Salesforce 側で接続済みアプリを設定する必要があります。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.html?lang=ja)
 
-* [Salesforce 同期ステータス ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-status.html?lang=ja)
+* [Salesforce 同期ステータス &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-status.html?lang=ja)
 
 * [フィールドの表示／非表示](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/hide-and-unhide-a-field.html?lang=ja)
 
-* [ チュートリアル：Marketoの CRM への同期について学ぶ ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn.html?lang=ja)
+* [&#x200B; チュートリアル：Marketoの CRM への同期について学ぶ &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn.html?lang=ja)

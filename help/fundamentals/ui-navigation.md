@@ -24,7 +24,7 @@ Marketo Engageプラットフォームの習熟方法とユーザーインター
 
 ## その他のリソース
 
-* [Marketo Engage用語 ](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=ja)
+* [Marketo Engage用語 &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=ja)
 Marketoの使用時に発生する可能性のある多くの用語に関する定義。
-* [ アイコン用語集 ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=ja)
+* [&#x200B; アイコン用語集 &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=ja)
 Marketo Engageインターフェイスのアイコンの用語集。

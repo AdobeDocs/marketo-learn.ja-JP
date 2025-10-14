@@ -20,5 +20,5 @@ Sales Insight Actions を使用して、マーケティングを活用したイ�
 
 ## 関連ビデオ
 
-* [ に対する販売アクティビティ・ログの構成  [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}
-* [ インスタンスへ  [!DNL Sales Insight Actions]  アクセス ](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}
+* [&#x200B; に対する販売アクティビティ・ログの構成  [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}
+* [&#x200B; インスタンスへ  [!DNL Sales Insight Actions]  アクセス &#x200B;](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}

@@ -15,9 +15,9 @@ ht-degree: 10%
 
 詳しくは、関連する製品ガイドを参照してください。
 
-* [ プログラムのドキュメントについて ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html?lang=ja)
-* [ スマートキャンペーンのドキュメントについて ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=ja)
+* [&#x200B; プログラムのドキュメントについて &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html?lang=ja)
+* [&#x200B; スマートキャンペーンのドキュメントについて &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=ja)
 
 同僚からスマートキャンペーンの使用方法を学ぶ：
 
-* [ エキスパートのお客様のブログ投稿：スマートキャンペーン 101:Adobe Marketo Engageの最も強力な機能の詳細 ](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
+* [&#x200B; エキスパートのお客様のブログ投稿：スマートキャンペーン 101:Adobe Marketo Engageの最も強力な機能の詳細 &#x200B;](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)

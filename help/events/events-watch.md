@@ -24,4 +24,4 @@ ht-degree: 2%
 
 イベントプログラムの作成方法について詳しくは、製品ガイドを参照してください。
 
-* [ 新しいイベントプログラムの作成ドキュメント ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.html?lang=ja)
+* [&#x200B; 新しいイベントプログラムの作成ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.html?lang=ja)

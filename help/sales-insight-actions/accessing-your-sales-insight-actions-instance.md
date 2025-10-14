@@ -20,5 +20,5 @@ ht-degree: 3%
 
 ## 関連ビデオ
 
-* [ 販売インサイトアクションの概要 ](/help/sales-insight-actions/sales-insight-actions-overview.md){target="_blank"}
-* [ に対する販売アクティビティ・ログの構成  [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}
+* [&#x200B; 販売インサイトアクションの概要 &#x200B;](/help/sales-insight-actions/sales-insight-actions-overview.md){target="_blank"}
+* [&#x200B; に対する販売アクティビティ・ログの構成  [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}

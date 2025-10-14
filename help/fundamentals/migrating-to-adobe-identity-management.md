@@ -30,17 +30,17 @@ Adobe Marketo EngageをAdobe Admin Consoleに移行できるようにするに�
 
 * Marketo Engage サブスクリプションの移行先となるAdobe Admin Console（またはAdobe組織）を指定します。 Marketo Engageのネイティブな会話自動処理ツールである [&#128279;](/help/dynamic-chat/dynamic-chat-overview.md){target="_blank"}0&rbrace;Dynamic Chat&rbrace; のAdobe Admin Consoleがある可能性があります。 Marketo Engage サブスクリプションは、Dynamic Chatと同じ組織にデプロイする必要があります。
 
-* IT チームと協力して、[ この記事の上部 ](https://experienceleague.adobe.com/ja/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} に一覧表示されているすべてのAdobe ドメインを許可リストに加えるし、Adobe ID への移行後にMarketo Engageへのアクセスが中断されないようにします。
+* IT チームと協力して、[&#x200B; この記事の上部 &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} に一覧表示されているすべてのAdobe ドメインを許可リストに加えるし、Adobe ID への移行後にMarketo Engageへのアクセスが中断されないようにします。
 
-* **オプション：**&#x200B;[ シングルサインオン（SSO）を実装 ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"} ユーザー移行前。
+* **オプション：**&#x200B;[&#x200B; シングルサインオン（SSO）を実装 &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"} ユーザー移行前。
 
   >[!NOTE]
   >
   >Marketo Engageでサポートされる SSO とAdobe Admin Console SSO には違いがあります。 そのため、設定の変更を実装する必要がある場合があります。
 
-* **オプション：** ユーザーが移行する前に [ 目的の最長セッション時間 ](https://helpx.adobe.com/jp/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} をカスタマイズして、Marketo Engage ユーザーの認証状態を維持できるようにします。
+* **オプション：** ユーザーが移行する前に [&#x200B; 目的の最長セッション時間 &#x200B;](https://helpx.adobe.com/jp/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} をカスタマイズして、Marketo Engage ユーザーの認証状態を維持できるようにします。
 
-* システム管理者との通信方法については、[ サンプルメールの節 ](#announce-the-migration-timeline) を参照してください。
+* システム管理者との通信方法については、[&#x200B; サンプルメールの節 &#x200B;](#announce-the-migration-timeline) を参照してください。
 
 ### 2. Adobe ID への移行による変化と影響を確認する {#familiarize-yourself-with-the-changes}
 
@@ -50,21 +50,21 @@ Adobe Marketo EngageをAdobe Admin Consoleに移行できるようにするに�
 
 Marketo Engage管理者向けのこのトピックに関する詳細は、次のヘルプ記事を参照してください。
 
-* [ ユーザー設定チェックリスト ](https://experienceleague.adobe.com/ja/docs/marketo/using/getting-started/initial-setup/user-setup){target="_blank"}
+* [&#x200B; ユーザー設定チェックリスト &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/getting-started/initial-setup/user-setup){target="_blank"}
 
-* [Adobe Identity Managementの概要 ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}
+* [Adobe Identity Managementの概要 &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}
 
-* [Marketo サブスクリプションとAdobe Admin Consoleへのユーザー移行について ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console){target="_blank"}
+* [Marketo サブスクリプションとAdobe Admin Consoleへのユーザー移行について &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console){target="_blank"}
 
-* [ 移行コンソールを使用したAdobe ID への移行 ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity){target="_blank"}
+* [&#x200B; 移行コンソールを使用したAdobe ID への移行 &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity){target="_blank"}
 
-* [Adobe Admin Consoleの使用方法について ](https://helpx.adobe.com/jp/enterprise/using/admin-console.html){target="_blank"}
+* [Adobe Admin Consoleの使用方法について &#x200B;](https://helpx.adobe.com/jp/enterprise/using/admin-console.html){target="_blank"}
 
 ### 3.社内チームに必要な移行タイムラインと準備を知らせる {#announce-the-migration-timeline}
 
 * Marketo Engage管理者およびユーザーのカレンダーに、スケジュールに従って移行日をマークします。
 
-   * 内部タイムラインに合わせて、**管理者**/**移行コンソール**/**移行前** で移行日を変更できます。 再スケジュールと [ 移行日の変更 ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity#pre-migration){target="_blank"} の制限事項について詳しく説明します。
+   * 内部タイムラインに合わせて、**管理者**/**移行コンソール**/**移行前** で移行日を変更できます。 再スケジュールと [&#x200B; 移行日の変更 &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity#pre-migration){target="_blank"} の制限事項について詳しく説明します。
 
 * **システム管理者へのメールの送信**
 
@@ -88,13 +88,13 @@ Marketo Engageのサブスクリプションは、間もなくAdobe Identity Man
 
 * Adobeは、ユーザーをアドビの組織の既存のコンソールに自動的に移行するために、Admin Consoleのシステム管理者であるお客様の同意を得る場合があります。 件名が「Adobe Marketo Engage `[Package Tier]` へのユーザーアクセスを管理するために必要なアクション」のメールで、「開始」ボタンをクリックして同意ページに移動します。
 
-`3.` 移行後、Marketo Engageはexperience.adobe.comからAdobe Experience Cloudに提供されるようになります。 Marketo Engageへのアクセスが中断されないように、[ この記事の上部 ](https://experienceleague.adobe.com/ja/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} に記載されているすべてのAdobe ドメインを許可リストに加えるしてください。
+`3.` 移行後、Marketo Engageはexperience.adobe.comからAdobe Experience Cloudに提供されるようになります。 Marketo Engageへのアクセスが中断されないように、[&#x200B; この記事の上部 &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} に記載されているすべてのAdobe ドメインを許可リストに加えるしてください。
 
 `4.` **オプション：** Adobe Admin Consoleで SSO （シングルサインオン）を設定します。
 
 * 今後、Adobe ID で SSO でログインするユーザーにメリットを与えるには、ユーザーの移行が行われる前に、Adobe Admin Consoleでの SSO 設定を支援してください。
 
-`5.`**オプション：** Adobe Admin Consoleで、より長い [ 最長セッション時間 ](https://helpx.adobe.com/jp/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} を設定します。
+`5.`**オプション：** Adobe Admin Consoleで、より長い [&#x200B; 最長セッション時間 &#x200B;](https://helpx.adobe.com/jp/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} を設定します。
 
 * ユーザーが頻繁にログインする必要をなくすために、セッションの有効期間を長く設定して詳細設定でカスタマイズしてください。
 

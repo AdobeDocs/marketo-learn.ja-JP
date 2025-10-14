@@ -18,7 +18,7 @@ ht-degree: 7%
 
 # 静的コンテンツのグローバル化
 
-英語以外のダイアログを作成する方法は、既にご存知かもしれません（そうでない場合は [ ここをクリック ](https://nation.marketo.com/t5/dynamic-chat-discussion/design-non-english-language-conversations-in-dynamic-chat/m-p/324317#M39){target="_blank"}）。 静的/システムコンテンツを、選択した言語にパーソナライズできます。
+英語以外のダイアログを作成する方法は、既にご存知かもしれません（そうでない場合は [&#x200B; ここをクリック &#x200B;](https://nation.marketo.com/t5/dynamic-chat-discussion/design-non-english-language-conversations-in-dynamic-chat/m-p/324317#M39){target="_blank"}）。 静的/システムコンテンツを、選択した言語にパーソナライズできます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439215/?quality=12&learn=on&captions=jpn){transcript=true}
 

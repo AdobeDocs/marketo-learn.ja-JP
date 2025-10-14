@@ -12,7 +12,7 @@ ht-degree: 19%
 
 # [!DNL Marketo Engage] チュートリアル
 
-チュートリアルライブラリを参照して、[!DNL Marketo Engage] を最大限に活用してください。 これらのチュートリアルは、[[!DNL Marketo]  製品ドキュメント ](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ja){target="_blank"} を補完して、マーケティング自動化機能の理解を深めるのに役立ちます。
+チュートリアルライブラリを参照して、[!DNL Marketo Engage] を最大限に活用してください。 これらのチュートリアルは、[[!DNL Marketo]  製品ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ja){target="_blank"} を補完して、マーケティング自動化機能の理解を深めるのに役立ちます。
 
 <!-- <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -23,13 +23,13 @@ ht-degree: 19%
 
 ## 最新情報 {#whats-new}
 
-* [ ライブチャットを実装するためのベストプラクティス ](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
+* [&#x200B; ライブチャットを実装するためのベストプラクティス &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
   _Dynamic Chatでライブチャット機能を実装する際に従うべきベストプラクティスについて説明します。_
 
-* [ インタラクティブウェビナーの概要 ](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
+* [&#x200B; インタラクティブウェビナーの概要 &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
   _Marketo Engageに組み込まれているウェビナープラットフォームである、インタラクティブウェビナーについてはすべて説明します_。
 
-* [Adobe Identity Managementへの移行 ](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
+* [Adobe Identity Managementへの移行 &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
   _ユーザー向けの他のAdobe アカウントや製品と共にAdobe Marketo Engageの管理を一元的に開始できるように、Adobe Identity Managementの移行方法を説明します。_
 
 ## 最も人気のあるビデオ {#most-popular-videos}
