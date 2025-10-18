@@ -20,4 +20,4 @@ ht-degree: 0%
 
 様々なマーケティングアクティビティを整理およびトラッキングする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3458516/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3458519/?captions=jpn&learn=on&enablevpops)
