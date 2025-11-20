@@ -24,7 +24,7 @@ ht-degree: 14%
    * **[クイック製品ツアー [2023]](product-tour.md)**
      *2023 年に導入されるすべての新機能の概要を説明します*。
    * **[クイック製品ツアー [2022]](product-tour.md)**
-     *製品全体の概要と、[!UICONTROL Dynamic Chatの活用方法を説明します ]。*
+     *製品全体の概要と、[!UICONTROL Dynamic Chatの活用方法を説明します &#x200B;]。*
    * **[15 分後に公開](go-live-in-15-minutes.md)**
      *[!UICONTROL Dynamic Chat] を使用した最初のダイアログをわずか 15 分で運用を開始する際に役立つステップバイステップガイド*
 * 設定
@@ -33,14 +33,14 @@ ht-degree: 14%
    * **[[!UICONTROL Dynamic ChatとMarketoの統合を有効にする]](marketo-integration.md)**
      *スレッドを使用して web 訪問者をターゲットに設定し、Marketoのリード情報を使用してパーソナライズします。*
    * **[[!UICONTROL Dynamic Chatのユーザーの追加と管理]](user-management.md)**
-     *[!UICONTROL Dynamic Chatでユーザーを追加または管理する方法を説明します ] .*
+     *[!UICONTROL Dynamic Chatでユーザーを追加または管理する方法を説明します &#x200B;] .*
    * **[エージェントの管理](agent-management.md)**
      *エージェントの管理方法について説明します*。
 * 自動チャット
    * **[パーソナライズされたダイアログの作成と管理](dialogue-management.md)**
-     *ダイアログを作成して、web 訪問者をすばやく [!UICONTROL Dynamic Chatに関与させる方法を説明します ]。*
+     *ダイアログを作成して、web 訪問者をすばやく [!UICONTROL Dynamic Chatに関与させる方法を説明します &#x200B;]。*
    * **[PDFを会話に組み込む](document-cloud-integration.md)**
-     *[!UICONTROL Dynamic Chatで設計したパーソナライズされた会話内でPDF ドキュメントを共有します ]。*
+     *[!UICONTROL Dynamic Chatで設計したパーソナライズされた会話内でPDF ドキュメントを共有します &#x200B;]。*
    * **[ストリームDesignerで検索](search-in-stream-designer.md)**
      *クイック検索は、ワンクリックでストリームデザイナーの任意のカードにアクセスするのに役立ちます。*
    * **[推測される属性のキャプチャ](capture-inferred-attributes.md)**
