@@ -28,7 +28,7 @@ ht-degree: 15%
    + [Adobe Identity Managementへの移行](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [新しいインスタンスを整理するためのベストプラクティス](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [基本的なプログラムを作成するためのベストプラクティス](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
-   + [&#x200B; 新しいインスタンスの実装 – チュートリアル &#x200B;](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
+   + [&#x200B; 新しいインスタンスの実装 – チュートリアル &#x200B;](https://experienceleague.adobe.com/ja/docs/experiences-by-you/implementing-new-instance/overview)
    + [&#x200B; 継承されたインスタンスの監査 – チュートリアル &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=ja)
 + プログラムとキャンペーン {#programs-and-campaigns}
    + [プログラムについて](/help/programs/understanding-programs.md)
