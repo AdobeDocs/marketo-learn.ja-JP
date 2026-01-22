@@ -11,26 +11,26 @@ thumbnail: 3420096.jpeg
 exl-id: fb050abb-5b43-42da-a4ae-83780d4abb1c
 feature: Smart Campaigns
 source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 40%
+ht-degree: 100%
 
 ---
 
 # スマートキャンペーン 101
 
-スマートキャンペーンはMarketoのエンジンです。 スマートキャンペーンを使用してメールやプログラムを送信する以外に、様々なユースケースでスマートキャンペーンを使用できます。 スマートキャンペーンを使用してデータの正規化と自動アラートを実行する方法について説明します。
+スマートキャンペーンは Marketo のエンジンです。スマートキャンペーンは、メールやプログラムを送信する以外に、様々なユースケースで使用できます。データ標準化と自動アラートにスマートキャンペーンを使用する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424499/?captions=jpn&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on){transcript=true}
 
 
 ## その他のリソース
 
 **ドキュメント：**
 
-* [&#x200B; スマートキャンペーンのドキュメントについて &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=ja)
+* [「スマートキャンペーンについて」ドキュメント](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=ja)
 
-**Expert Customer のブログ投稿：**
+**エキスパート顧客のブログ投稿：**
 
-* [&#x200B; スマートキャンペーン 101:Adobe Marketo Engageの最も強力な機能の詳細 &#x200B;](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
-* [Marketoサクセスシリーズ：スマートキャンペーン &#x200B;](https://nation.marketo.com/t5/product-blogs/marketo-success-series-smart-campaigns/ba-p/306961)
+* [スマートキャンペーン 101：Adobe Marketo Engage の最も強力な機能を深く掘り下げる](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
+* [Marketo Success シリーズ：スマートキャンペーン](https://nation.marketo.com/t5/product-blogs/marketo-success-series-smart-campaigns/ba-p/306961)

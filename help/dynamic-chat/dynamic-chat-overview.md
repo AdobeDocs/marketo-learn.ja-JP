@@ -8,9 +8,9 @@ level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
 source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '486'
-ht-degree: 14%
+ht-degree: 100%
 
 ---
 
@@ -18,53 +18,53 @@ ht-degree: 14%
 
 ![](assets/dynamic-chat-header.png)
 
-[!UICONTROL Dynamic Chat] チュートリアルサイトへようこそ。 これらのチュートリアルとドキュメントを使用すると、[!UICONTROL Dynamic Chat] を使用してパーソナライズされた会話を作成する方法をより深く理解できます。 基本を学ぶには、次のトピックが役立ちます。
+[!UICONTROL Dynamic Chat] チュートリアルサイトへようこそ。これらのチュートリアルとドキュメントを使用すると、[!UICONTROL Dynamic Chat] を使用してパーソナライズされた対話を作成する方法をよく理解できます。次のトピックでは、基本を学ぶことができます。
 
 * 概要
    * **[クイック製品ツアー [2023]](product-tour.md)**
-     *2023 年に導入されるすべての新機能の概要を説明します*。
+     *2023年にローンチされるすべての新機能の概要について説明します。*
    * **[クイック製品ツアー [2022]](product-tour.md)**
-     *製品全体の概要と、[!UICONTROL Dynamic Chatの活用方法を説明します &#x200B;]。*
-   * **[15 分後に公開](go-live-in-15-minutes.md)**
-     *[!UICONTROL Dynamic Chat] を使用した最初のダイアログをわずか 15 分で運用を開始する際に役立つステップバイステップガイド*
+     *製品全体の概要と、[!UICONTROL Dynamic Chat] の活用方法について説明します。*
+   * **[15 分で利用開始](go-live-in-15-minutes.md)**
+     *わずか 15 分で [!UICONTROL Dynamic Chat] を使用して最初のダイアログを開始することを可能にする、ステップバイステップのガイドです。*
 * 設定
    * **[Chatbot の設定とインストール](setup.md)**
-     *[!UICONTROL Dynamic Chat] サブスクリプションを設定する手順について説明します。*
-   * **[[!UICONTROL Dynamic ChatとMarketoの統合を有効にする]](marketo-integration.md)**
-     *スレッドを使用して web 訪問者をターゲットに設定し、Marketoのリード情報を使用してパーソナライズします。*
-   * **[[!UICONTROL Dynamic Chatのユーザーの追加と管理]](user-management.md)**
-     *[!UICONTROL Dynamic Chatでユーザーを追加または管理する方法を説明します &#x200B;] .*
-   * **[エージェントの管理](agent-management.md)**
-     *エージェントの管理方法について説明します*。
+     *[!UICONTROL Dynamic Chat] の購読を設定する手順について説明します。*
+   * **[[!UICONTROL Dynamic Chat]](marketo-integration.md)** で Marketo 統合をアクティブ化する
+     *会話を通じて web 訪問者をターゲットにし、Marketo からのリード情報を用いて会話をパーソナライズします。*
+   * **[[!UICONTROL Dynamic Chat]](user-management.md)** のユーザの追加と管理
+     *[!UICONTROL Dynamic Chat] でユーザを追加または管理する方法について説明します。*
+   * **[エージェント管理](agent-management.md)**
+     *エージェントの管理方法について説明します。*
 * 自動チャット
    * **[パーソナライズされたダイアログの作成と管理](dialogue-management.md)**
-     *ダイアログを作成して、web 訪問者をすばやく [!UICONTROL Dynamic Chatに関与させる方法を説明します &#x200B;]。*
-   * **[PDFを会話に組み込む](document-cloud-integration.md)**
-     *[!UICONTROL Dynamic Chatで設計したパーソナライズされた会話内でPDF ドキュメントを共有します &#x200B;]。*
-   * **[ストリームDesignerで検索](search-in-stream-designer.md)**
-     *クイック検索は、ワンクリックでストリームデザイナーの任意のカードにアクセスするのに役立ちます。*
+     *[!UICONTROL Dynamic Chat] を使用して web 訪問者をすばやく引き込むダイアログを作成する方法について説明します。*
+   * **[対話への PDF の埋め込み](document-cloud-integration.md)**
+     *[!UICONTROL Dynamic Chat] でデザインしたパーソナライズされた対話内で PDF ドキュメントを共有します。*
+   * **[ストリームデザイナーでの検索](search-in-stream-designer.md)**
+     *クイック検索を使用すると、ストリームデザイナー内の任意のカードにワンクリックでアクセスできます。*
    * **[推測される属性のキャプチャ](capture-inferred-attributes.md)**
-     *Munchkin ID を活用することで、Dynamic Chatを通じて取得されたすべてのリードに対して推定属性を特定し、入力できます。*
-   * **[ダイアログプレビュー](dialogue-preview.md)**
-     *公開前にダイアログをプレビューするのは、ダイアログプレビュー機能で非常に簡単です*。
+     *Munchkin ID を活用し、Dynamic Chat を通じてキャプチャしたすべてのリードに対して、推測される属性を識別して入力できます。*
+   * **[ダイアログのプレビュー](dialogue-preview.md)**
+     *ダイアログのプレビュー機能を使用すると、公開前にダイアログをプレビューするのが非常に簡単になります。*
    * **[静的コンテンツのグローバル化](globalization-of-static-content.md)**
-     *静的/システムコンテンツは、選択した言語に合わせてパーソナライズできます。*
-   * **[会話Forms](conversational-forms.md)**
-     *Web サイトの訪問者がフォームに記入した直後にエンゲージする方法を説明します。*
-   * **[会話SDK](conversations-sdk.md)**
-     *CTAのクリックを魅力的な会話に変換する会話SDKを実装する方法を説明します。*
+     *静的／システムコンテンツを、選択した言語に合わせてカスタマイズできます。*
+   * **[対話型フォーム](conversational-forms.md)**
+     *Web サイト訪問者がフォームに入力した直後にその訪問者を引き付ける方法について説明します。*
+   * **[対話 SDK](conversations-sdk.md)**
+     *対話 SDK を実装して、CTA クリックを魅力的な会話へと変える方法について説明します。*
    * **[再利用可能なフロー](reusable-flows.md)**
-     *新しい対話型フローカードを使用すると、会話の設計と管理が簡単になります。 対話型ストリームを 1 回作成し、それを複数のダイアログに再利用します。*
+     *新しい対話型フローカードを使用して、対話のデザインと管理を簡素化します。対話型ストリームを 1 回作成して、複数のダイアログに再利用します。*
    * **[対話型ランディングページ](conversational-landing-pages.md)**
-     *数回クリックするだけで、Dynamic Chat会話フローを任意のランディングページ（Marketo ランディングページまたはカスタム）にインストールし、任意のリンクやボタンを会話エンゲージメントのトリガーに変換できます。*
-* ライブチャットとミーティングの予約
-   * **[訪問者をライブエージェントに接続する](connect-visitors-to-live-agents.md)**
-     *選定されたリードを結び付けて、販売代理店と即座にエンゲージします。*
-   * **[リードを有効にして、営業とのミーティングを予約する](meeting-booking.md)**
-     *ミーティング予約機能を備えた [!DNL target] ーザーアカウントのセールスとの連携を加速*
-* ジェネレーティブ AI チャット
-   * **[GenAI を活用した会話の促進](gen-ai-features.md)**
-     *Dynamic Chat GenAI 機能の使用方法を説明します*。
+     *数回クリックするだけで、Dynamic Chat 対話型フローを任意のランディングページ（Marketo ランディングページまたはカスタム）にインストールし、任意のリンクまたはボタンを対話型エンゲージメントのトリガーへと変えることができます。*
+* ライブチャットとミーティング予約
+   * **[訪問者をライブエージェントにつなげる](connect-visitors-to-live-agents.md)**
+     *選定されたリードを販売エージェントにつなげ、即座にエンゲージメントを開始します。*
+   * **[リードがセールス担当者とのミーティングを予約できるようにする](meeting-booking.md)**
+     *ミーティング予約機能を使用して、これらの [!DNL target] アカウントのセールス担当者と短時間でつながるようにします。*
+* 生成 AI チャット
+   * **[GenAI を活用した対話の推進](gen-ai-features.md)**
+     *Dynamic Chat GenAI 機能の使用方法について説明します。*
 * 分析
    * **[エンゲージメントレポート](engagement-report.md)**
-     *Web 訪問者によるダイアログの操作の傾向を確認する。*
+     *Web 訪問者がどのようにダイアログにエンゲージしているか、トレンドを確認します。*
