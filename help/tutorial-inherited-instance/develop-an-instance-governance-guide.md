@@ -29,7 +29,7 @@ ht-degree: 1%
 
 1. 拡張可能な方法で、社内ユーザーをより簡単にトレーニング。
 2. [!DNL Marketo Engage]でより効率的に長期的に構築します。
-3. 電子メールを掘り下げる時間を節約するために、インスタンスの健全性と健全性を今後も維持します。コンテキストを取得するために、[監査証跡](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html)、[ アクティビティログ ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html)。
+3. 電子メールを掘り下げる時間を節約するために、インスタンスの健全性と健全性を今後も維持します。コンテキストを取得するために、[監査証跡](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html)、[&#x200B; アクティビティログ &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html)。
 4. チームが離職した場合、[!DNL Marketo Engage]知識を新しい[!DNL Marketo Engage]管理者に転送する際の時間を節約します。
 
 ## [!DNL Marketo Engage] ガバナンスガイド 101
@@ -51,7 +51,7 @@ ht-degree: 1%
 
 ### 手順2: [!DNL Marketo Engage] ドキュメントに含める要素を特定し、[!DNL Changelogs]
 
-形式は、クラウドベースのプラットフォームと共有ドキュメントで異なります。 自社のニーズに合ったフォーマットを設計できます。[ここでは、簡単なドキュメントとchangelog Excel テンプレート ](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)を使用して開始できる重要な要素について説明します。 これには、以下が含まれます。
+形式は、クラウドベースのプラットフォームと共有ドキュメントで異なります。 自社のニーズに合ったフォーマットを設計できます。[ここでは、簡単なドキュメントとchangelog Excel テンプレート &#x200B;](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)を使用して開始できる重要な要素について説明します。 これには、以下が含まれます。
 
 * ドキュメント
    * プログラムテンプレート名
@@ -93,7 +93,7 @@ ht-degree: 1%
 
 ## 次のステップ？
 
-この[ シンプルなテンプレート ](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)をダウンロードして開始します。
+この[&#x200B; シンプルなテンプレート &#x200B;](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)をダウンロードして開始します。
 
 上記の手順に従って、ガバナンスガイドとドキュメントを作成します。 プロセスを進める際には、次の経験則を考慮してください。
 
