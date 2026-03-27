@@ -19,7 +19,7 @@ ht-degree: 1%
 
 # 簡単なトラブルシューティング用のCRM同期エラーのログ
 
-Marketo Engage管理者は、インスタンスがCRMと同期しているかどうかを確認することが、[毎日のルーチン &#x200B;](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}の重要な部分である必要があります。 [通知セクション &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} （Marketo Engage インターフェイスの右上隅にあります）では、頻繁な同期の問題を確認して調査できますが、インスタンスの正常性を整理して管理するのに役立つプロ向けのヒントがあります。 Adobe Marketo Champion （2019～2022）、Amy Goldfineは、管理者ユーザーがCRM Sync エラーのログを保持して、トラブルシューティングを容易にすることをお勧めします。
+Marketo Engage管理者は、インスタンスがCRMと同期しているかどうかを確認することが、[毎日のルーチン &#x200B;](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}の重要な部分である必要があります。 [通知セクション &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html?lang=ja){target="_blank"} （Marketo Engage インターフェイスの右上隅にあります）では、頻繁な同期の問題を確認して調査できますが、インスタンスの正常性を整理して管理するのに役立つプロ向けのヒントがあります。 Adobe Marketo Champion （2019～2022）、Amy Goldfineは、管理者ユーザーがCRM Sync エラーのログを保持して、トラブルシューティングを容易にすることをお勧めします。
 
 ![同期エラーのタブのスクリーンショット &#x200B;](/help/tutorial-inherited-instance/_assets/Marketo_Engage_Admin_Salesforce_Sync_Errors_Tab.png)
 
@@ -33,7 +33,7 @@ CRM Sync エラーをログに記録することで、Marketo Engage管理者は
 
 **手順1:** Marketo Engageの&#x200B;*[!UICONTROL 管理者] セクション*&#x200B;に移動します。 *[!UICONTROL 統合]*&#x200B;で、使用している[!DNL CRM]に応じて&#x200B;*[!DNL Salesforce]*、*[!DNL Microsoft Dynamics]*&#x200B;または&#x200B;*[!DNL Veeva]*&#x200B;をクリックし、「*[!UICONTROL 同期エラー]*」タブをクリックします。
 
-**手順2:** [!UICONTROL &#x200B; フィルター] パネル [&#128279;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html#filter-sync-errors){target="_blank"}を使用して、エラーの記録を [!DNL CSV]  ファイルとして書き出すことを選択できます。 時間が数時間しかない場合、「*[!UICONTROL 同期エラー]*」タブから直接コピー&amp;ペーストすることをお勧めします。
+**手順2:** [!UICONTROL &#x200B; フィルター] パネル [&#128279;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html?lang=ja#filter-sync-errors){target="_blank"}を使用して、エラーの記録を [!DNL CSV]  ファイルとして書き出すことを選択できます。 時間が数時間しかない場合、「*[!UICONTROL 同期エラー]*」タブから直接コピー&amp;ペーストすることをお勧めします。
 
 **手順3:** エラーが発生した日付を記録します。
 
