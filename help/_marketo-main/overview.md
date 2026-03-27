@@ -1,25 +1,27 @@
 ---
 title: Marketo Engage チュートリアル
-description: ' [!DNL Marketo Engage] のビデオチュートリアルをご覧ください。マーケティングオートメーション機能の使用方法などに関する理解を深めましょう。'
+description: ' [!DNL Marketo Engage] のビデオチュートリアルをご覧ください。 マーケティングオートメーション機能の使用方法などに関する理解を深めましょう。'
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: 7277269a9ff98122d8da3f90e1b4b91872352ecf
-workflow-type: ht
-source-wordcount: '161'
+source-git-commit: 66ace67a9f5e1df875a56124676842372c93589b
+workflow-type: tm+mt
+source-wordcount: '265'
 ht-degree: 100%
 
 ---
 
 # [!DNL Marketo Engage] チュートリアル
 
-チュートリアルライブラリを参照して、[!DNL Marketo Engage] を最大限に活用してください。これらのチュートリアルは、[[!DNL Marketo]  製品のドキュメント](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ja){target="_blank"}を補足し、マーケティングオートメーション機能の理解を深めるのに役立ちます。
+チュートリアルライブラリを参照して、[!DNL Marketo Engage] を最大限に活用してください。 これらのチュートリアルは、[[!DNL Marketo]  製品のドキュメント](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ja){target="_blank"}を補足し、マーケティングオートメーション機能の理解を深めるのに役立ちます。
 
-<!-- <div id="recs-overview-body-1"></div>
+<!-- 
+<div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
 <div id="recs-overview-body-3"></div>
 <div id="recs-overview-body-4"></div>
 <div id="recs-overview-body-5"></div>
-<div id="recs-overview-body-6"></div> -->
+<div id="recs-overview-body-6"></div> 
+-->
 
 ## 最新情報 {#whats-new}
 
