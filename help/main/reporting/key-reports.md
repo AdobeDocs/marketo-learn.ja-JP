@@ -32,6 +32,6 @@ Marketo Engageの主要なレポートとその活用方法をご紹介します
 
 導入企業から学ぶ：
 
-* [ エキスパートのユーザー向けブログ投稿：Champion Chelsea Kikoが様々なMarketo Engage スペースでレポートを作成する方法](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)
+* [&#x200B; エキスパートのユーザー向けブログ投稿：Champion Chelsea Kikoが様々なMarketo Engage スペースでレポートを作成する方法](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)
 * [Expert Customer Webinar: Beyond the Basics with Courtney Tobe](https://nation.marketo.com/t5/product-blogs/on-demand-webinar-beyond-the-basics-marketo-reporting/ba-p/302116)
 * [Expert Customer Webinar: How to build a full-fledged ROI reporting strategy with Britney Young](https://nation.marketo.com/t5/product-blogs/on-demand-webinar-rounding-out-your-reporting-how-to-build-a/ba-p/319082)

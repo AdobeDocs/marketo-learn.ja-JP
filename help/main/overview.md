@@ -25,10 +25,10 @@ ht-degree: 94%
 
 ## 最新情報 {#whats-new}
 
-* [ ライブチャットを実装するためのベストプラクティス](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
+* [&#x200B; ライブチャットを実装するためのベストプラクティス](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
   _Dynamic Chat でライブチャット機能を実装する際に従うべきベストプラクティスについて説明します。_
 
-* [ インタラクティブウェビナーの概要](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
+* [&#x200B; インタラクティブウェビナーの概要](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
   _Marketo Engage 内のビルトインのウェビナープラットフォームであるインタラクティブウェビナーについてすべてを説明します。_
 
 * [Adobe Identity Managementへの移行](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)

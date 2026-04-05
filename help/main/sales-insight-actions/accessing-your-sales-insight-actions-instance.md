@@ -21,4 +21,4 @@ ht-degree: 0%
 ## 関連動画
 
 * [Sales Insightのアクションの概要](/help/main/sales-insight-actions/sales-insight-actions-overview.md){target="_blank"}
-* [ [!DNL Salesforce]へのセールス アクティビティ ログの設定](/help/main/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}
+* [&#x200B; [!DNL Salesforce]へのセールス アクティビティ ログの設定](/help/main/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}

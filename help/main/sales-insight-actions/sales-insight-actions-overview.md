@@ -20,5 +20,5 @@ ht-degree: 47%
 
 ## 関連動画
 
-* [ [!DNL Salesforce]へのセールス アクティビティ ログの設定](/help/main/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}
-* [ [!DNL Sales Insight Actions]  インスタンスへのアクセス](/help/main/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}
+* [&#x200B; [!DNL Salesforce]へのセールス アクティビティ ログの設定](/help/main/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}
+* [&#x200B; [!DNL Sales Insight Actions]  インスタンスへのアクセス](/help/main/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}
