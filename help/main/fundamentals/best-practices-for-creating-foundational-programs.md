@@ -26,9 +26,9 @@ ht-degree: 42%
 
 **製品ガイド：**
 
-* [プログラムについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html)
+* [プログラムについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html?lang=ja)
 * [プログラムの作成](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.html?lang=ja)
 * [ベストプラクティス：プログラムを整理する方法](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html?lang=ja)
 * [プログラムのインポート](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html?lang=ja)
-* [タグについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.html)
+* [タグについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.html?lang=ja)
 * [リードスコアリング完全ガイド](https://business.adobe.com/resources/guides/lead-scoring.html)

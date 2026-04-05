@@ -27,9 +27,9 @@ Marketo Engageを初めて利用する際は、組織化が重要となります
 **製品ガイド：**
 
 * [ベストプラクティス：プログラムの整理方法](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html?lang=ja)
-* [プログラムの複製](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.html)
-* [プログラムでのアセットの複製](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.html)
+* [プログラムの複製](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.html?lang=ja)
+* [プログラムでのアセットの複製](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.html?lang=ja)
 * [プログラムのインポート](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html?lang=ja)
-* [フォルダーについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.html)
-* [キャンペーンフォルダーの新規作成](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html)
+* [フォルダーについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.html?lang=ja)
+* [キャンペーンフォルダーの新規作成](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html?lang=ja)
 * [ワークスペースと人物パーティションについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html?lang=ja)

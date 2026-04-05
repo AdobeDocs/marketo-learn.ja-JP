@@ -28,7 +28,7 @@ Marketo Engageの主要なレポートとその活用方法をご紹介します
 
 関連製品のガイドを読む：
 
-* [レポートタイプの概要](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=en)
+* [レポートタイプの概要](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=ja)
 
 導入企業から学ぶ：
 

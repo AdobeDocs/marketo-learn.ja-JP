@@ -26,7 +26,7 @@ ht-degree: 24%
 
 詳しくは、関連製品ガイドを参照してください。
 
-* [イベントプログラムのドキュメント](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html?lang=en)
+* [イベントプログラムのドキュメント](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html?lang=ja)
 
 この機能に関する詳細なヘルプについては、その他のビデオをご覧ください。
 * [イベントの説明](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=ja)
