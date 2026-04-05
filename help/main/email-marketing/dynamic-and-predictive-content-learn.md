@@ -18,4 +18,4 @@ ht-degree: 0%
 
 適切なコンテンツの提供は、マーケティングにおける最も重要なアイデアのひとつです。 Marketo Content AIを活用する方法と、Marketoを使用して動的コンテンツを適用する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345485/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409784/?captions=jpn&quality=12&learn=on){transcript=true}

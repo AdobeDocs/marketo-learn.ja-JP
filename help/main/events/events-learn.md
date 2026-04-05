@@ -18,4 +18,4 @@ ht-degree: 0%
 
 イベントマーケティングプログラムにおいて、対面でのエンゲージメントを活用することで、関係を構築し、親善を生み出し、見込み客や顧客の信頼を得ることができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/345472/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409797/?captions=jpn&quality=12&learn=on){transcript=true}

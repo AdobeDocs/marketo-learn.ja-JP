@@ -22,7 +22,7 @@ ht-degree: 20%
 
 Microsoft Dynamics 365 syncの仕組みを説明し、設定を適切に設定して、2つのシステムが互いに話し合えるようにします。 このチュートリアルでは、同期の仕組み、Marketo Lead Management （MLM）ソリューションのダウンロード、サーバー間接続用のMLM ソリューションのインストール、2つのシステムの接続について説明します。 同期の検証、同期されたレコード数の制限、同期時間の見積もりなどに関するヒントとコツは、Microsoft Dynamics同期の設定に役立ちます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424737/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430209/?captions=jpn&learn=on)
 
 ## ビデオで使用されているリンク
 

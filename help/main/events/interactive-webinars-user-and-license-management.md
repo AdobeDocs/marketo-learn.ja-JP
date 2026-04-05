@@ -20,4 +20,4 @@ ht-degree: 100%
 
 インタラクティブウェビナーのユーザー権限と、インタラクティブウェビナーライセンスの入手可能性と使用制限のモニタリングについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446117/?captions=jpn&learn=on)

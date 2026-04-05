@@ -21,7 +21,7 @@ ht-degree: 94%
 
 スマートキャンペーンは Marketo のエンジンです。 スマートキャンペーンは、メールやプログラムを送信する以外に、様々なユースケースで使用できます。 データ標準化と自動アラートにスマートキャンペーンを使用する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424499/?captions=jpn&quality=12&learn=on){transcript=true}
 
 
 ## その他のリソース

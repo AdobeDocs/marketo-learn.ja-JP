@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Marketo Engage でインタラクティブウェビナーイベントを作成およびスケジュールできるイベントプログラムの設定方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429639/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443413/?captions=jpn&learn=on)

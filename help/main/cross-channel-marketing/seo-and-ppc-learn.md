@@ -18,4 +18,4 @@ ht-degree: 0%
 
 自社サイトは数百もの検索結果で見落とされていませんか？ SEO戦略とPPC戦略を改善して、ブランドの可視性を向上させる方法をご確認ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/345401/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411946/?captions=jpn&quality=12&learn=on){transcript=true}

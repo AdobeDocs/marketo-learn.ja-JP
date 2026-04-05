@@ -20,4 +20,4 @@ ht-degree: 12%
 
 スマートリストを使用したシンプルなフィルターを使用して、特定のグループのユーザーを検索する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463190/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463204/?captions=jpn&learn=on&enablevpops)

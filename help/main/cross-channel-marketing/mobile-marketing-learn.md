@@ -18,4 +18,4 @@ ht-degree: 4%
 
 今日の急速なテクノロジーの中で、モバイルマーケティングは最も重要な戦略のひとつです。 モバイルデバイスの利便性を利用して、リアルタイムのパーソナライズされたつながりを構築することで、バイヤーとの関係を構築する方法をご確認ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/345403/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409798/?captions=jpn&quality=12&learn=on){transcript=true}

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 バイヤーズジャーニーの各段階に何人のリードがいるか、また、セールス部門がいつリードに連絡を取るべきかご存知ですか？ スコアリングを使用してリードがジャーニーのどの段階にいるのかを把握する[!UICONTROL 個人ライフサイクル &#x200B;] プログラムの作成について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345422/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411391/?captions=jpn&quality=12&learn=on){transcript=true}

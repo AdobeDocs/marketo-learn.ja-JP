@@ -18,4 +18,4 @@ ht-degree: 0%
 
 コンテンツマーケティング戦略として自社に適したコンテンツを見つけることで、リードを生み出し、どのコンテンツが重要なのかを把握できます。 ゲーテッドコンテンツとは？概要と利点を解説
 
->[!VIDEO](https://video.tv.adobe.com/v/345464/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411383/?captions=jpn&quality=12&learn=on){transcript=true}

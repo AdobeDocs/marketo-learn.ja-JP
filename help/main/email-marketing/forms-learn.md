@@ -18,4 +18,4 @@ ht-degree: 0%
 
 見込み客がweb サイトを訪問したときに、[!DNL Marketo forms]を使用して人物データを段階的に取得します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345474/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409795/?captions=jpn&quality=12&learn=on){transcript=true}

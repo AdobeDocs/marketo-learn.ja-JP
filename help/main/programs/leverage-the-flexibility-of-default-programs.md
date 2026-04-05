@@ -22,4 +22,4 @@ ht-degree: 54%
 4 つのプログラムタイプの中で、デフォルトプログラムが最も柔軟で、作成するコンテンツに創造力を働かせることができます。
 Web フォームと有料メディアにおける人物の生成という、ふたつの一般的なユースケースについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420137?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453852?captions=jpn&learn=on){transcript=true}

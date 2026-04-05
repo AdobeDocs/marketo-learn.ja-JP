@@ -18,4 +18,4 @@ ht-degree: 0%
 
 リード/人物スコアリングプログラムを使用して、マーケティングが営業部門に提供するリードの質を向上させます。 リード/個人スコアリングの概要、仕組み、測定可能なメリットを実現するための成功手順を解説します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345424/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411387/?captions=jpn&quality=12&learn=on){transcript=true}

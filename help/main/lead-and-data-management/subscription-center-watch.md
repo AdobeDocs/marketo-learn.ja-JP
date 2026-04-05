@@ -20,4 +20,4 @@ ht-degree: 0%
 
 サブスクリプションセンターを設定して管理することで、自社と顧客との間でプロセスを実現する方法をご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/345427/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411384/?captions=jpn&quality=12&learn=on){transcript=true}

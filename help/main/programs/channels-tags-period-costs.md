@@ -20,4 +20,4 @@ ht-degree: 0%
 
 さまざまなマーケティング活動を整理および追跡する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3458516/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3458519/?captions=jpn&learn=on&enablevpops)

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 購読者とコミュニケーションをとるのに苦慮していませんか？ 顧客が望むコミュニケーションとその頻度を伝えましょう。 サブスクリプションセンターを作成および管理して、適切な頻度とプロセスを開発する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345426/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411385/?captions=jpn&quality=12&learn=on){transcript=true}

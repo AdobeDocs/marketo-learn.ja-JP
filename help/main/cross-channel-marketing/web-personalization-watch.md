@@ -18,4 +18,4 @@ ht-degree: 0%
 
 [!DNL Marketo]を複数のデジタル広告LaunchPoint パートナーに接続する方法をご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/345404/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411393/?captions=jpn&quality=12&learn=on){transcript=true}

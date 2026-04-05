@@ -18,4 +18,4 @@ ht-degree: 0%
 
 有益なSEO戦略とPPC戦略を構築するための成功事例を動画で解説します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345400/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411949/?captions=jpn&quality=12&learn=on){transcript=true}

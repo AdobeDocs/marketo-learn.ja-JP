@@ -20,4 +20,4 @@ ht-degree: 0%
 
 一括結合を完了するには、クリーンなデータをMarketo Engageに再インポートし、運用中のキャンペーンで重複を効果的に管理します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429488/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452748/?captions=jpn&learn=on&enablevpops)

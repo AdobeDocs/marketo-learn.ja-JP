@@ -18,4 +18,4 @@ ht-degree: 0%
 
 訪問者が誰であり、何をしているのかに基づいて、個々のニーズに即したエクスペリエンスを提供します。 web サイト訪問者をセグメンテーションおよびターゲティングして、よりカスタマイズされた、有意義で魅力的な体験を構築する方法をご確認ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/345405/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411948/?captions=jpn&quality=12&learn=on){transcript=true}

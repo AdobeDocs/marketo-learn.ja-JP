@@ -46,7 +46,7 @@ ht-degree: 93%
 
 次のビデオでは、Marketo Engage 製品管理チームが移行ジャーニーと期待される結果について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430920t3/?t=170/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432372/?captions=jpn&t=170/?quality=12&learn=on){transcript=true}
 
 Marketo Engage 管理者向けのこのトピックに関するヘルプについて詳しくは、次のヘルプ記事を参照してください。
 

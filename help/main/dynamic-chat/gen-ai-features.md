@@ -19,4 +19,4 @@ ht-degree: 0%
 
 生成AIを活用して会話を促進し、訪問者が質問したり、迅速に回答を得たり、会話の要約を生成できるようにする方法をご確認ください。 Marketoのインスタンスで会話型インサイトを直接活用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429153/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454472/?captions=jpn&learn=on)

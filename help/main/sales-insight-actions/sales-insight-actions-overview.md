@@ -16,7 +16,7 @@ ht-degree: 47%
 
 セールスインサイトアクションを使用して、マーケティングを活用したインテリジェンスとエンゲージメントツールを 1 つのワークフローに統合し、潜在顧客の発掘を加速します。
 
->[!VIDEO](https://video.tv.adobe.com/v/340917/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447246/?captions=jpn&quality=12&learn=on){transcript=true}
 
 ## 関連動画
 

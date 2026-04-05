@@ -18,4 +18,4 @@ ht-degree: 0%
 
 [!UICONTROL 人ナーチャリング &#x200B;]を利用することで、個人のニーズに耳を傾け、独自のバイヤージャーニーを通じて関連性の高いコンテンツで対応することができます。 ナーチャリングプログラムの概要、仕組み、成功に向けた手順などについて解説します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345478/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409791/?captions=jpn&quality=12&learn=on){transcript=true}

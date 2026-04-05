@@ -21,4 +21,4 @@ ht-degree: 16%
 
 相互に関連付けられ、連続性のあるキャンペーンを解読し、エンゲージメントマップを使用してカスタマージャーニー全体をより詳細に把握する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422235/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423298/?captions=jpn&learn=on){transcript=true}

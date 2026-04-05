@@ -20,4 +20,4 @@ ht-degree: 8%
 
 新しい会話型フローカードで、会話の設計と管理を簡素化できます。 一度作成した会話ストリームを複数のダイアログに再利用できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429715/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446646/?captions=jpn&learn=on)

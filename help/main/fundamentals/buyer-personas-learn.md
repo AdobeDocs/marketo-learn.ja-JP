@@ -18,4 +18,4 @@ ht-degree: 0%
 
 コンテンツマーケティングで見込み客を惹きつけ、リードを生み出せることを確認したい場合、 ペルソナを作成することで、必要なコンテンツの種類や、顧客が情報をどのように検索し、利用するのかを決定できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/345415/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411945/?captions=jpn&quality=12&learn=on){transcript=true}

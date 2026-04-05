@@ -26,4 +26,4 @@ ht-degree: 13%
 * データを活用して
 * フォームへの入力後や自動チャット会話中にオファーを提供
 
->[!VIDEO](https://video.tv.adobe.com/v/3424828/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452059/?captions=jpn&learn=on)

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 あらゆるマーケティング活動を、組織の目標をサポートする戦略に適合させることで、プログラムやキャンペーンの価値をより適切に証明することができます。 マーケティング目標と戦略を策定するための、取り組みの一元化の方法をご確認ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/345419/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411942/?captions=jpn&quality=12&learn=on){transcript=true}

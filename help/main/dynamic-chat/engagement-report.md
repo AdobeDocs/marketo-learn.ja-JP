@@ -20,7 +20,7 @@ ht-degree: 13%
 
 web訪問者がどのようにダイアログに関与しているか、トレンドを把握しましょう。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416921/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437701/?captions=jpn&quality=12&learn=on){transcript=true}
 
 ## その他の役に立つビデオ
 

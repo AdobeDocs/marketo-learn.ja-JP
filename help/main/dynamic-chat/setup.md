@@ -18,7 +18,7 @@ ht-degree: 53%
 
 Web サイトまたはランディングページにチャットボット JavaScript をインストールし、ブランドに合わせて外観をカスタマイズする際に役立つガイド。
 
->[!VIDEO](https://video.tv.adobe.com/v/340257/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345023/?captions=jpn&quality=12&learn=on){transcript=true}
 
 ## その他の役に立つビデオ
 

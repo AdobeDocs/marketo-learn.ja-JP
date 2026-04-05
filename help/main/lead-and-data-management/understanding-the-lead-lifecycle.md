@@ -18,4 +18,4 @@ ht-degree: 0%
 
 リード（人物）がバイヤージャーニーのさまざまな段階をどのように進んでいるのかを学びます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470572/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470596/?captions=jpn&learn=on&enablevpops)

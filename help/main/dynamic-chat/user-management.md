@@ -18,7 +18,7 @@ ht-degree: 5%
 
 Adobe Admin Consoleを使用して[!UICONTROL Dynamic Chat] ユーザーを管理します。
 
->[!VIDEO](https://video.tv.adobe.com/v/340249/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345030/?captions=jpn&quality=12&learn=on){transcript=true}
 
 ## その他の役に立つビデオ
 

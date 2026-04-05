@@ -18,7 +18,7 @@ ht-degree: 25%
 
 すべての web 訪問者にとって優れた対話型エクスペリエンスを作り出すには、ターゲットを絞ってパーソナライズされた会話をデザインすることが重要です。 ダイアログの作成および管理方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/340259/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443789/?captions=jpn&quality=12&learn=on){transcript=true}
 
 ## その他の役に立つビデオ
 

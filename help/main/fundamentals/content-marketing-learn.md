@@ -18,4 +18,4 @@ ht-degree: 0%
 
 コンテンツマーケティング戦略を策定することで、オーディエンスの獲得、獲得、エンゲージメントを促進しましょう。 コンテンツの効果の最適化と測定など、成功するための重要なステップをご紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345417/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411943/?captions=jpn&quality=12&learn=on){transcript=true}

@@ -26,4 +26,4 @@ ht-degree: 6%
 - 訪問者の選択や興味にもとづいておすすめのコンテンツ
 - ドキュメントの共有やエンゲージメントの追跡
 
->[!VIDEO](https://video.tv.adobe.com/v/3429414/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445102/?captions=jpn&learn=on)

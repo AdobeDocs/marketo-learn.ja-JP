@@ -18,4 +18,4 @@ ht-degree: 0%
 
 [!DNL Marketo] CRM Syncを使用すると、[!DNL Marketo]とCRMの間で関連情報をシームレスに共有することにより、マーケティング活動とセールス活動を調整できます。 [!DNL Marketo]をCRMに同期する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345428/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3410454/?captions=jpn&quality=12&learn=on){transcript=true}

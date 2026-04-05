@@ -18,7 +18,7 @@ ht-degree: 5%
 
 Dynamic Chatを使用して、[!DNL target]件のアカウントリードのセールス部門とのつながりを強化します。 [管理コンソール &#x200B;](https://adminconsole.adobe.com/)を通じてセールス担当者をユーザーとして追加することで、訪問者が様々なセールス担当者とのミーティングを予約できるようにします。各エージェントは独自のカレンダーを接続する必要があります。
 
->[!VIDEO](https://video.tv.adobe.com/v/340258/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345015/?captions=jpn&quality=12&learn=on){transcript=true}
 
 ## その他の役に立つビデオ
 

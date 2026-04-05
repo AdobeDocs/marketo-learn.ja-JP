@@ -20,7 +20,7 @@ ht-degree: 20%
 
 最初のエンゲージメントプログラムを作成するには、このステップバイステップチュートリアルに従います。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419374/?learn=on){transcript=true} 
+>[!VIDEO](https://video.tv.adobe.com/v/3452680/?captions=jpn&learn=on){transcript=true} 
 
 ## その他のリソース
 

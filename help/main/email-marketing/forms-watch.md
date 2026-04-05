@@ -18,4 +18,4 @@ ht-degree: 0%
 
 プログレッシブプロファイリングを含むフォームを作成、デザイン、整理する方法をご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/345475/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409794/?captions=jpn&quality=12&learn=on){transcript=true}

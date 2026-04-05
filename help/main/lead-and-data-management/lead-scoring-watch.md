@@ -18,4 +18,4 @@ ht-degree: 0%
 
 リード/人物スコアリングオペレーショナルプログラムを構築する方法、キャンペーンでトークンを使用する方法、事前に構築されたキャンペーンをインポートする方法を紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345425/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411386/?captions=jpn&quality=12&learn=on){transcript=true}

@@ -20,7 +20,7 @@ ht-degree: 13%
 
 ダイアログプレビュー機能を使用すると、公開する前にダイアログをプレビューするのは非常に簡単です。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416923/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436848/?captions=jpn&quality=12&learn=on){transcript=true}
 
 ## その他の役に立つビデオ
 

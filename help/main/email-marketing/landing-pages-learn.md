@@ -18,4 +18,4 @@ ht-degree: 0%
 
 ベストプラクティスを取り入れたランディングページを構築および設計して、コンバージョン率を向上させましょう。
 
->[!VIDEO](https://video.tv.adobe.com/v/345468/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3410450/?captions=jpn&quality=12&learn=on){transcript=true}

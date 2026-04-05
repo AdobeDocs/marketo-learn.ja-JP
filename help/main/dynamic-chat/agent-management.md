@@ -21,4 +21,4 @@ ht-degree: 4%
 Web訪問者とエンゲージする1か所からすべてのエージェントを管理するために活用できるすべての機能を理解するのに役立つガイドです。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3424829/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447234/?captions=jpn&learn=on)

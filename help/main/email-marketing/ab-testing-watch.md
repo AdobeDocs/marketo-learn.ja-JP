@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Marketoで電子メールのA/B テストを作成して、電子メールのパフォーマンスを向上させる方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345484/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409785/?captions=jpn&quality=12&learn=on){transcript=true}

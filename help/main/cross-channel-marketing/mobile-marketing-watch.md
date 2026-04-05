@@ -18,4 +18,4 @@ ht-degree: 0%
 
 バイヤーペルソナの作成、KPIの設定、コミュニケーションの頻度の決定、[!DNL Marketo] マーケティングカレンダーの使用方法などを確認して、モバイルマーケティング戦略を改善する方法をご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/345402/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411947/?captions=jpn&quality=12&learn=on){transcript=true}

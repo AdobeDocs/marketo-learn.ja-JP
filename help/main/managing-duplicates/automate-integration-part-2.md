@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Marketo EngageとiPaaS ツール間のフィールドマッピング、結合ロジック、スケジューリングを自動的に設定する方法について説明します。 このワークフローのビデオデモでは、Vertifyを例として使用します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429486/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3453808/?captions=jpn&learn=on&enablevpops)

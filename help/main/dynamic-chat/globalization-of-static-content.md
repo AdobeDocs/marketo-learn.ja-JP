@@ -20,7 +20,7 @@ ht-degree: 13%
 
 英語以外のダイアログを作成する方法を既にご存知の方もいらっしゃるかもしれません（そうでない場合は、[ここをクリック &#x200B;](https://nation.marketo.com/t5/dynamic-chat-discussion/design-non-english-language-conversations-in-dynamic-chat/m-p/324317#M39){target="_blank"}）。 静的コンテンツやシステムコンテンツを、選択した言語に合わせてパーソナライズできます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416924/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3439215/?captions=jpn&quality=12&learn=on){transcript=true}
 
 ## その他の役に立つビデオ
 

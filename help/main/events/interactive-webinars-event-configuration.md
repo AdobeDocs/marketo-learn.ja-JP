@@ -20,4 +20,4 @@ ht-degree: 13%
 
 ウェビナーの目的に合わせて配信する前にインタラクティブウェビナーイベントを設定し、参加者の関心を高め、ブランド、製品、サービスに対する意向を促すために配信が効果的であることを確認する方法を説明します。 その他。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429637/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448985/?captions=jpn&learn=on)
