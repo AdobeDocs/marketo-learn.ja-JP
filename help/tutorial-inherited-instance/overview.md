@@ -23,7 +23,7 @@ ht-degree: 0%
 
 複数のユーザーによって管理されているライブ Marketo Engage インスタンスを継承する場合は、不適切と思われるすべてのメモを作成する場合があります。 タスクを分類し、長い道のりを行くタスクに優先順位を付けることで、クリーンアップと最適化の作業を整理することが重要です。
 
-Adobe Marketo Championから入手したこの「継承されたインスタンス監査のヒントとテクニック」チュートリアルでは、新規管理者に対するステップバイステップのガイダンスを提供します。 このチュートリアルには、ダウンロード可能な[監査チェックリスト &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html)とテンプレートが含まれており、継承したインスタンスをすぐに開始するのに役立ちます。 チュートリアルに従って、仲間から学ぶことからインスピレーションを得ましょう！
+Adobe Marketo Championから入手したこの「継承されたインスタンス監査のヒントとテクニック」チュートリアルでは、新規管理者に対するステップバイステップのガイダンスを提供します。 このチュートリアルには、ダウンロード可能な[監査チェックリスト &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html?lang=ja)とテンプレートが含まれており、継承したインスタンスをすぐに開始するのに役立ちます。 チュートリアルに従って、仲間から学ぶことからインスピレーションを得ましょう！
 
 ## トピックと学習内容
 
