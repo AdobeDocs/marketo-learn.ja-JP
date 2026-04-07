@@ -9,22 +9,22 @@ duration: 772
 last-substantial-update: 2024-08-06T00:00:00Z
 jira: KT-15548
 exl-id: 4da86ed6-1072-4e0e-a648-16587badaeb3
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+source-git-commit: 9bffa576fc5a05c695f7a1c83d50cbcb16f57c37
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 52%
+source-wordcount: '219'
+ht-degree: 44%
 
 ---
 
 # API ヘルプ - 変数にアクセストークンを設定する方法
 
-Postman アプリケーションを設定し、変数を活用して、再利用目的でデータを変数に保存する方法について説明します。 また、アクセストークンを取得するための最初の Marketo Engage REST API 呼び出しを行う方法についても説明します。
+Postman アプリケーションを設定し、変数を活用して、再利用目的でデータを変数に保存する方法について説明します。 また、最初のMarketo Engage REST API呼び出しを行ってアクセストークンを取得する方法についても説明します。
 
 >[!PREREQUISITES]
 >
 >このビデオを開始する前に、AOI ロールを持つAPIのみのユーザー名を作成し、Launchpad サービスを作成します。 次の記事の手順に従います。
 >
->* [API 専用ユーザーのロールの作成](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user-role){target="_blank"}
+>* [API 専用ユーザーのロールの作成](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user-role){target="_blank"}
 >
 >* [API 専用ユーザーの作成](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user){target="_blank"}
 >
@@ -43,4 +43,4 @@ pm.environment.set("access_token", jsonData.access_token);
 
 * [Marketo Engage Developers ドキュメント](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}
 
->[!VIDEO](https://video.tv.adobe.com/v/3453984/?captions=jpn&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429275/?learn=on)
