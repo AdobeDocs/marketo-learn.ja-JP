@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
 auto-video-transcripts: true
-source-git-commit: 85ab4e6b4a14b2dfa2faf6b427cb86aab72dc7d0
+source-git-commit: a5807ceea7529380a7e8a03774f8f0956d385693
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '548'
 ht-degree: 95%
 
 ---
@@ -104,7 +104,7 @@ ht-degree: 95%
    + [概要](/help/main/sales-insight-actions/overview.md)
    + [セールスインサイトアクションの概要](/help/main/sales-insight-actions/sales-insight-actions-overview.md)
    + [セールスインサイトアクションインスタンスへのアクセス](/help/main/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
-   + [&#x200B; [!DNL Salesforce] へのセールスアクティビティログの設定](/help/main/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
+   + [ [!DNL Salesforce] へのセールスアクティビティログの設定](/help/main/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + リードおよびデータ管理 {#lead-and-data-management}
    + [スコアリングについて](/help/main/lead-and-data-management/understanding-scoring.md)
    + [リード／顧客 ID](/help/main/lead-and-data-management/lead-scoring-learn.md)
@@ -151,5 +151,6 @@ ht-degree: 95%
    + [重複データの管理の簡素化](/help/main/managing-duplicates/simplify-acs.md)
    + [重複を管理するための最適な方法の選択](/help/main/managing-duplicates/duplicate-strategy.md)
 + ショート {#shorts}
-   + [Email DesignerのAI アシスタント](/help/main/shorts/ai-assistant-email-designer.md)
+   + [メールデザイナー向けAI アシスタント](/help/main/shorts/ai-assistant-email-designer.md)
+   + [条件付きコンテンツ](/help/main/shorts/conditional-content.md)
 
