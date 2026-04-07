@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Marketo Engage Email DesignerのAI アシスタントを使用すれば、現代的でパフォーマンスの高い、直感的なメールを作成できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483183/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483185/?captions=jpn&learn=on&enablevpops)
