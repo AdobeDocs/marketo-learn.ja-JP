@@ -104,7 +104,7 @@ ht-degree: 95%
    + [概要](/help/sales-insight-actions/overview.md)
    + [セールスインサイトアクションの概要](/help/sales-insight-actions/sales-insight-actions-overview.md)
    + [セールスインサイトアクションインスタンスへのアクセス](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
-   + [ [!DNL Salesforce] へのセールスアクティビティログの設定](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
+   + [&#x200B; [!DNL Salesforce] へのセールスアクティビティログの設定](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + リードおよびデータ管理 {#lead-and-data-management}
    + [スコアリングについて](/help/lead-and-data-management/understanding-scoring.md)
    + [リード／顧客 ID](/help/lead-and-data-management/lead-scoring-learn.md)
