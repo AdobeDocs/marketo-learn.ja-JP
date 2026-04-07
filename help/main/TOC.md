@@ -3,17 +3,17 @@ user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
 auto-video-transcripts: true
-source-git-commit: 22d16ad38bdaa319705cc26ac96056f33c4a255d
+source-git-commit: 85ab4e6b4a14b2dfa2faf6b427cb86aab72dc7d0
 workflow-type: tm+mt
-source-wordcount: '548'
-ht-degree: 96%
+source-wordcount: '546'
+ht-degree: 95%
 
 ---
 
 
 # [!DNL Marketo Engage] チュートリアル {#tutorials}
 
-+ [[!DNL Marketo Engage] チュートリアル](overview.md)
++ [[!DNL Marketo Engage] チュートリアル](/help/main/overview.md)
 + 基本 {#fundamentals}
    + [目標と戦略](/help/main/fundamentals/goals-and-strategy-learn.md)
    + [組織構造](/help/main/fundamentals/organizational-structure-learn.md)
@@ -74,8 +74,6 @@ ht-degree: 96%
    + [フォームのウォークスルー](/help/main/email-marketing/forms-watch.md)
    + [モバイルマーケティングの統合](/help/main/cross-channel-marketing/mobile-marketing-learn.md)
    + [モバイルマーケティングのウォークスルー](/help/main/cross-channel-marketing/mobile-marketing-watch.md)
-   + [SEO と PPC](/help/main/cross-channel-marketing/seo-and-ppc-learn.md)
-   + [SEO と PPC のウォークスルー](/help/main/cross-channel-marketing/seo-and-ppc-watch.md)
    + [Web パーソナライゼーション](/help/main/cross-channel-marketing/web-personalization-learn.md)
    + [Web パーソナライゼーションのウォークスルー](/help/main/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
@@ -106,7 +104,7 @@ ht-degree: 96%
    + [概要](/help/main/sales-insight-actions/overview.md)
    + [セールスインサイトアクションの概要](/help/main/sales-insight-actions/sales-insight-actions-overview.md)
    + [セールスインサイトアクションインスタンスへのアクセス](/help/main/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
-   + [&#x200B; [!DNL Salesforce] へのセールスアクティビティログの設定](/help/main/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
+   + [ [!DNL Salesforce] へのセールスアクティビティログの設定](/help/main/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + リードおよびデータ管理 {#lead-and-data-management}
    + [スコアリングについて](/help/main/lead-and-data-management/understanding-scoring.md)
    + [リード／顧客 ID](/help/main/lead-and-data-management/lead-scoring-learn.md)
@@ -152,3 +150,6 @@ ht-degree: 96%
    + [重複管理の自動化 - 第 2 部](/help/main/managing-duplicates/automate-integration-part-2.md)
    + [重複データの管理の簡素化](/help/main/managing-duplicates/simplify-acs.md)
    + [重複を管理するための最適な方法の選択](/help/main/managing-duplicates/duplicate-strategy.md)
++ ショート {#shorts}
+   + [Email DesignerのAI アシスタント](/help/main/shorts/ai-assistant-email-designer.md)
+
