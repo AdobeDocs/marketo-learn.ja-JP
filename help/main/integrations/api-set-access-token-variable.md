@@ -24,7 +24,7 @@ Postman アプリケーションを設定し、変数を活用して、再利用
 >
 >このビデオを開始する前に、AOI ロールを持つAPIのみのユーザー名を作成し、Launchpad サービスを作成します。 次の記事の手順に従います。
 >
->* [API 専用ユーザーのロールの作成](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user-role){target="_blank"}
+>* [API 専用ユーザーのロールの作成](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user-role){target="_blank"}
 >
 >* [API 専用ユーザーの作成](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user){target="_blank"}
 >
