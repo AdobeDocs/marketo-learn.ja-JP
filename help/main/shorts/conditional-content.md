@@ -19,4 +19,4 @@ ht-degree: 0%
 
 どのオーディエンスが表示するかを動的に制御する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481282/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481283/?captions=jpn&learn=on&enablevpops)
