@@ -3,10 +3,10 @@ user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
 auto-video-transcripts: true
-source-git-commit: a5807ceea7529380a7e8a03774f8f0956d385693
+source-git-commit: 62ea57d025da4f21bc289ce2d454b51e9e2ff415
 workflow-type: tm+mt
 source-wordcount: '548'
-ht-degree: 95%
+ht-degree: 84%
 
 ---
 
@@ -111,7 +111,7 @@ ht-degree: 95%
    + [リード／顧客スコアリングのウォークスルー](/help/main/lead-and-data-management/lead-scoring-watch.md)
    + [リードライフサイクルについて](/help/main/lead-and-data-management/understanding-the-lead-lifecycle.md)
    + [購読センター](/help/main/lead-and-data-management/subscription-center-learn.md)
-   + [購読センターのウォークスルー](/help/main/lead-and-data-management/subscription-center-watch.md)
+   + {hide-from-toc}[&#x200B; サブスクリプションセンターのウォークスルー](/help/main/lead-and-data-management/subscription-center-watch.md)
    + [CRM 同期](/help/main/lead-and-data-management/crm-sync-learn.md)
    + [Salesforce 同期の基本を学ぶ](/help/main/integrations/salesforce-sync-setup.md)
    + [Microsoft Dynamics 同期の基本を学ぶ](/help/main/integrations/microsoft-dynamics-sync-setup.md)
@@ -138,18 +138,18 @@ ht-degree: 95%
    + [API ヘルプ - 変数にアクセストークンを設定する方法](/help/main/integrations/api-set-access-token-variable.md)
    + [REST API とトークンを使用して Marketo Engage でスマートキャンペーンをトリガーする方法](/help/main/integrations/trigger-smart-campaign-rest-api.md)
 + 重複の管理 {#manage-duplicates}
-   + [重複の管理の概要](/help/main/managing-duplicates/introduction-managing-duplicates.md)
-   + [重複が発生する理由について](/help/main/managing-duplicates/why-duplicates-occur.md)
-   + [重複レコードの特定と防止](/help/main/managing-duplicates/identify-prevent-duplicates.md)
-   + [重複レコードが必要なタイミングの決定](/help/main/managing-duplicates/determine-necessary-duplicates.md)
-   + [重複レコードの手動結合](/help/main/managing-duplicates/merge-manually.md)
-   + [重複の一括結合 - 第 1 部](/help/main/managing-duplicates/bulk-merge-part-1.md)
-   + [重複の一括結合 - 第 2 部](/help/main/managing-duplicates/bulk-merge-part-2.md)
-   + [重複の一括結合 - 第 3 部](/help/main/managing-duplicates/bulk-merge-part-3.md)
-   + [重複管理の自動化 - 第 1 部](/help/main/managing-duplicates/automate-integration-part-1.md)
-   + [重複管理の自動化 - 第 2 部](/help/main/managing-duplicates/automate-integration-part-2.md)
-   + [重複データの管理の簡素化](/help/main/managing-duplicates/simplify-acs.md)
-   + [重複を管理するための最適な方法の選択](/help/main/managing-duplicates/duplicate-strategy.md)
+   + {hide-from-toc}[重複管理の概要](/help/main/managing-duplicates/introduction-managing-duplicates.md)
+   + {hide-from-toc}[重複が発生する理由を理解](/help/main/managing-duplicates/why-duplicates-occur.md)
+   + {hide-from-toc}[&#x200B; レコードの重複を特定および防止](/help/main/managing-duplicates/identify-prevent-duplicates.md)
+   + {hide-from-toc}[重複したレコードが必要な場合を判断する](/help/main/managing-duplicates/determine-necessary-duplicates.md)
+   + {hide-from-toc}[重複したレコードを手動で結合](/help/main/managing-duplicates/merge-manually.md)
+   + {hide-from-toc}[一括結合でパート 1が重複しています](/help/main/managing-duplicates/bulk-merge-part-1.md)
+   + {hide-from-toc}[一括結合でパート 2が重複しています](/help/main/managing-duplicates/bulk-merge-part-2.md)
+   + {hide-from-toc}[一括結合でパート 3が重複しています](/help/main/managing-duplicates/bulk-merge-part-3.md)
+   + {hide-from-toc}[重複管理の自動化パート 1](/help/main/managing-duplicates/automate-integration-part-1.md)
+   + {hide-from-toc}[重複管理の自動化パート 2](/help/main/managing-duplicates/automate-integration-part-2.md)
+   + {hide-from-toc}[重複管理を簡略化](/help/main/managing-duplicates/simplify-acs.md)
+   + {hide-from-toc}[重複を管理するための最適な戦略を選択](/help/main/managing-duplicates/duplicate-strategy.md)
 + ショート {#shorts}
    + [メールデザイナー向けAI アシスタント](/help/main/shorts/ai-assistant-email-designer.md)
    + [条件付きコンテンツ](/help/main/shorts/conditional-content.md)
