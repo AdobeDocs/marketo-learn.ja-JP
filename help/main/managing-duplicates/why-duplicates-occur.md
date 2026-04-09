@@ -19,4 +19,4 @@ ht-degree: 0%
 
 CRMの同期、フォーム入力、データのインポートなど、様々なソースからの重複の発生方法と、それらを最小限に抑える方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3441864/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443891/?captions=jpn&learn=on&enablevpops)

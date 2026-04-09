@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Adobeプロフェッショナルサービスが、重複したレコードの管理をどのように支援するのかをご確認ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429501/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436779/?captions=jpn&learn=on&enablevpops)
