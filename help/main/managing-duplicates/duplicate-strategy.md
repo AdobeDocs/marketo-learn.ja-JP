@@ -7,9 +7,8 @@ doc-type: Feature Video
 duration: 0
 last-substantial-update: 2025-01-10T00:00:00Z
 jira: KT-16749
-hidefromtoc: true
 exl-id: 80f6f95b-03b7-4099-843e-72d74517583c
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+source-git-commit: 62ea57d025da4f21bc289ce2d454b51e9e2ff415
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 25%
@@ -20,4 +19,4 @@ ht-degree: 25%
 
 Marketo Engageで重複を処理するための主要なソリューションをまとめ、チームのニーズとリソースに最適なソリューションを選択します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3436641/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3429502/?learn=on&enablevpops)
