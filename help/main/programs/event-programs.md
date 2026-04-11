@@ -30,7 +30,7 @@ ht-degree: 24%
 
 この機能に関する詳細なヘルプについては、その他のビデオをご覧ください。
 * [イベントの説明](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=ja)
-* [ウェビナー](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/webinar-watch.html?lang=en)
+* [ウェビナー](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/webinar-watch.html?lang=ja)
 
 イベントプログラムの使用方法について、同僚から学びます。
 * [エキスパートのユーザー事例ブログ投稿：イベントプログラム](https://nation.marketo.com/t5/product-blogs/marketo-success-series-event-programs/ba-p/299191)
