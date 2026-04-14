@@ -21,7 +21,7 @@ ht-degree: 7%
 
 AnalyticsとDatabase セクションを操作して、Marketo Engageで様々なレポートを取り出す方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419295/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446421/?captions=jpn&learn=on){transcript=true}
 
 ## その他のリソース
 
