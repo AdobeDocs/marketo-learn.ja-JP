@@ -31,7 +31,7 @@ ht-degree: 73%
 * [条件付きコンテンツ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/shorts/conditional-content)
   _どのオーディエンスに表示されるコンテンツを動的に制御する方法を説明します。_
 
-* [ ライブチャットを実装するためのベストプラクティス](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
+* [&#x200B; ライブチャットを実装するためのベストプラクティス](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
   _Dynamic Chat でライブチャット機能を実装する際に従うべきベストプラクティスについて説明します。_
 
 ## 一番人気のビデオ {#most-popular-videos}
