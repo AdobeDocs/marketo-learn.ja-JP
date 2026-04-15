@@ -25,10 +25,10 @@ ht-degree: 73%
 
 ## 最新情報 {#whats-new}
 
-* [電子メール Designer用AI アシスタント](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/shorts/ai-assistant-email-designer)
+* [電子メール Designer用AI アシスタント](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/shorts/ai-assistant-email-designer)
   _Marketo Engage メール DesignerのAI アシスタントを使用して、現代的でパフォーマンスの高い、直感的なメールを作成できます。_
 
-* [条件付きコンテンツ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/shorts/conditional-content)
+* [条件付きコンテンツ](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/shorts/conditional-content)
   _どのオーディエンスに表示されるコンテンツを動的に制御する方法を説明します。_
 
 * [&#x200B; ライブチャットを実装するためのベストプラクティス](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
