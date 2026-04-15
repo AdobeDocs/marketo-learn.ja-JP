@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage チュートリアル
 user-guide-description: Adobe Marketo Engage のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Marketo Engage チュートリアル
 auto-video-transcripts: true
-source-git-commit: 62ea57d025da4f21bc289ce2d454b51e9e2ff415
+source-git-commit: 1ff5db25b71902fa4ad0e10a1466c9a12dd63404
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '543'
 ht-degree: 84%
 
 ---
@@ -25,7 +25,6 @@ ht-degree: 84%
    + [トークンの概要](/help/main/fundamentals/tokens-overview.md)
    + [トークンを使用したパーソナライズ](/help/main/personalization/personalize-with-tokens.md)
    + [プログラムとキャンペーン](/help/main/fundamentals/programs-and-campaigns.md)
-   + [Adobe Identity Management への移行](/help/main/fundamentals/migrating-to-adobe-identity-management.md)
    + [新しいインスタンスを整理するためのベストプラクティス](/help/main/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [基本的なプログラムを作成するためのベストプラクティス](/help/main/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [新しいインスタンスの実装 – チュートリアル](https://experienceleague.adobe.com/ja/docs/experiences-by-you/implementing-new-instance/overview)
@@ -104,14 +103,14 @@ ht-degree: 84%
    + [概要](/help/main/sales-insight-actions/overview.md)
    + [セールスインサイトアクションの概要](/help/main/sales-insight-actions/sales-insight-actions-overview.md)
    + [セールスインサイトアクションインスタンスへのアクセス](/help/main/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
-   + [&#x200B; [!DNL Salesforce] へのセールスアクティビティログの設定](/help/main/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
+   + [ [!DNL Salesforce] へのセールスアクティビティログの設定](/help/main/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + リードおよびデータ管理 {#lead-and-data-management}
    + [スコアリングについて](/help/main/lead-and-data-management/understanding-scoring.md)
    + [リード／顧客 ID](/help/main/lead-and-data-management/lead-scoring-learn.md)
    + [リード／顧客スコアリングのウォークスルー](/help/main/lead-and-data-management/lead-scoring-watch.md)
    + [リードライフサイクルについて](/help/main/lead-and-data-management/understanding-the-lead-lifecycle.md)
    + [購読センター](/help/main/lead-and-data-management/subscription-center-learn.md)
-   + {hide-from-toc}[&#x200B; サブスクリプションセンターのウォークスルー](/help/main/lead-and-data-management/subscription-center-watch.md)
+   + {hide-from-toc}[ サブスクリプションセンターのウォークスルー](/help/main/lead-and-data-management/subscription-center-watch.md)
    + [CRM 同期](/help/main/lead-and-data-management/crm-sync-learn.md)
    + [Salesforce 同期の基本を学ぶ](/help/main/integrations/salesforce-sync-setup.md)
    + [Microsoft Dynamics 同期の基本を学ぶ](/help/main/integrations/microsoft-dynamics-sync-setup.md)
@@ -140,12 +139,12 @@ ht-degree: 84%
 + 重複の管理 {#manage-duplicates}
    + {hide-from-toc}[重複管理の概要](/help/main/managing-duplicates/introduction-managing-duplicates.md)
    + {hide-from-toc}[重複が発生する理由を理解](/help/main/managing-duplicates/why-duplicates-occur.md)
-   + {hide-from-toc}[&#x200B; レコードの重複を特定および防止](/help/main/managing-duplicates/identify-prevent-duplicates.md)
+   + {hide-from-toc}[ レコードの重複を特定および防止](/help/main/managing-duplicates/identify-prevent-duplicates.md)
    + {hide-from-toc}[重複したレコードが必要な場合を判断する](/help/main/managing-duplicates/determine-necessary-duplicates.md)
    + {hide-from-toc}[重複したレコードを手動で結合](/help/main/managing-duplicates/merge-manually.md)
-   + {hide-from-toc}[一括結合でパート 1が重複しています](/help/main/managing-duplicates/bulk-merge-part-1.md)
-   + {hide-from-toc}[一括結合でパート 2が重複しています](/help/main/managing-duplicates/bulk-merge-part-2.md)
-   + {hide-from-toc}[一括結合でパート 3が重複しています](/help/main/managing-duplicates/bulk-merge-part-3.md)
+   + {hide-from-toc}[一括結合でパート 1](/help/main/managing-duplicates/bulk-merge-part-1.md)が重複しています
+   + {hide-from-toc}[一括結合でパート 2](/help/main/managing-duplicates/bulk-merge-part-2.md)が重複しています
+   + {hide-from-toc}[一括結合でパート 3](/help/main/managing-duplicates/bulk-merge-part-3.md)が重複しています
    + {hide-from-toc}[重複管理の自動化パート 1](/help/main/managing-duplicates/automate-integration-part-1.md)
    + {hide-from-toc}[重複管理の自動化パート 2](/help/main/managing-duplicates/automate-integration-part-2.md)
    + {hide-from-toc}[重複管理を簡略化](/help/main/managing-duplicates/simplify-acs.md)
