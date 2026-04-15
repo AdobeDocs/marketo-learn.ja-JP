@@ -25,7 +25,7 @@ ht-degree: 71%
 
 ## 最新情報 {#whats-new}
 
-* [ テンプレートの読み込み](/help/main/shorts/template-import.md)
+* [&#x200B; テンプレートの読み込み](/help/main/shorts/template-import.md)
   _既存の電子メールテンプレートをクラシックエディターから電子メールDesignerに読み込み、デザインを保持し、テンプレート作成を高速化する方法を説明します。_
 
 * [電子メール Designer用AI アシスタント](/help/main/shorts/ai-assistant-email-designer.md)
