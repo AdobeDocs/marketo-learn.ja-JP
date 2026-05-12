@@ -5,14 +5,47 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-13888
 thumbnail: KT-13888.jpeg
 index: true
 exl-id: d8c743eb-28d9-4509-8f96-f369167d423c
-source-git-commit: 98e4cfe72cc7dfe0158f49c910d263d8e4671297
+TQID: https://experienceleague.adobe.com/-JKThAf-WSFUCKjDwYt4eeIDiCjXDd11YI8P-jXoU94
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: c954475c-8548-4e33-a0b8-6b550d956115
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+  - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
 workflow-type: tm+mt
-source-wordcount: '6064'
+source-wordcount: 6064
 ht-degree: 4%
 
 ---
@@ -92,7 +125,7 @@ ht-degree: 4%
 | 2 | **テスト** | デバイス間でテストされているか？ ブラウザーは？ 果たして両方ともクリーンに機能しているのだろうか。 | **はい：** <br>はい付きで回答できない場合は、デバイスとブラウザーでテストする必要があります。 |  |
 | 3 | **データ** | キャンペーンにフォームがある場合、フォームはテストされていますか？ すべてのトリガーは期待どおりに流れますか？ すべてのフォームフィールドを正確にマッピングできるか？ フィールドだけでなく、個人レコードのアクティビティログを確認して、これを証明できますか？ | **はい：** <br>はい付きで回答できない場合は、テストする必要があります。 | [&#x200B; フォームフィールドを非表示に設定](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.html?lang=ja){target="_blank"}<br><br> [非表示フォームフィールドの値の設定](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.html?lang=ja){target="_blank"} |
 | 4 | **トラッキング** | キャンペーンにフォームがある場合、送信のソースを追跡するための非表示のUTM フィールドが配置されていますか？ これらはテストされていますか？ | **はい、またはいいえ：**&#x200B;いいえ回答した場合は、このフォームにユーザーを送信したソースを追跡する機能が制限されていることを理解してください。 | [&#x200B; リファラーパラメーター](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.html?lang=ja#referrer-parameter){target="_blank"} |
-| 5 | **GDPR/CASL準拠** | <li>フォームを通じてデータが取得された場合、オプトインは自社のポリシーに準拠していますか？ <li>プライバシーポリシーリンクが機能するコレクション文を提供していますか？ | **はい：** <br>関連するコンプライアンス環境について：この質問に「はい」で回答できない場合は、プライバシーポリシーの節を更新してコンプライアンスを確認する必要があります。**分からない場合は、法務部門に適切なアドバイスを求めてください。** | [プライバシー管理](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/privacy-management.html?lang=ja){target="_blank"} |
+| 5 | **GDPR/CASL準拠** | <li>フォームを通じてデータが取得された場合、オプトインは自社のポリシーに準拠していますか？ <li>プライバシーポリシーリンクが機能するコレクション文を提供していますか？ | **はい：** <br>関連するコンプライアンス環境について：この質問に「はい」で回答できない場合は、プライバシーポリシーの節を更新してコンプライアンスを確認する必要があります。 **不明な場合は、法務部門に適切なアドバイスを求めてください。** | [プライバシー管理](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/privacy-management.html?lang=ja){target="_blank"} |
 | 6 | **Google Analytics統合** | Web PersonalizationはGoogle Analyticsと統合されていますか？ | **はい、またはいいえ：**<br>&#x200B;いいえ回答する場合は、web パーソナライゼーションの影響を追跡する機能が制限されていることを理解してください。 | [Google でのパーソナライズリマーケティング](https://experienceleague.adobe.com/docs/marketo/using/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.html?lang=ja){target="_blank"} |
 | 7 | **Web セグメント** | <li>選択したセグメントは適切で、適切なドメインに適用されますか？ <li>セグメントはGoogle Analyticsに送信されますか？ | **はい：** <br> 「はい」で回答できない場合は、更新する必要があります。 | [Web セグメント &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/web-personalization/using-web-segments/web-segments.html?lang=ja){target="_blank"}<br><br>[特定のセグメントを使用しているWeb キャンペーンを検索](https://experienceleague.adobe.com/docs/marketo/using/product-docs/web-personalization/using-web-segments/find-web-campaigns-that-are-using-a-specific-segment.html?lang=ja){target="_blank"} |
 
@@ -121,7 +154,7 @@ ht-degree: 4%
 | 2 | **デザイン** | フォームブランドのデザインは一貫していますか？ | **はい：** <br>この質問に「はい」で回答できない場合は、理由が必要か、CSSを更新してブランドに準拠させる必要があります。 |  |
 | 3 | **データフロー** | すべてのデータは意図したとおりにフィールドにマッピングされますか？ テストレコードのアクティビティログを確認して、これを証明しましたか？ | **はい：** <br>はい付きで回答できない場合は、マッピングを修正してテストする必要があります。 | [人物のアクティビティ ログを探す](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html?lang=ja){target="_blank"} |
 | 4 | **トラッキング** | このフォームへの送信のソースを追跡するために、非表示のUTM フィールドを配置していますか？ これらはテストされていますか？ | **はい、またはいいえ：** <br>いいえ回答する場合は、このフォームにユーザーが送信したソースを追跡する機能が制限されていることを理解してください。 | [&#x200B; フォームフィールドを非表示に設定](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.html?lang=ja){target="_blank"}<br><br>[非表示フォームフィールド値を設定](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.html?lang=ja){target="_blank"} |
-| 5 | **GDPR/CASL準拠** | データがフォームを通じて取得された場合、オプトインは準拠しており、機能するプライバシーポリシーのリンクを使用してコレクション文を提供しますか？ | **はい：** <br>関連するコンプライアンス環境について：この質問に「はい」で回答できない場合は、更新してコンプライアンスを確認する必要があります。**不明な場合は、適切なアドバイスを求めてください。** | [プライバシー管理](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/privacy-management.html?lang=ja){target="_blank"} |
+| 5 | **GDPR/CASL準拠** | データがフォームを通じて取得された場合、オプトインは準拠しており、機能するプライバシーポリシーのリンクを使用してコレクション文を提供しますか？ | **はい：** <br>関連するコンプライアンス環境について：この質問に「はい」で回答できない場合は、更新してコンプライアンスを確認する必要があります。 **分からない場合は、適切なアドバイスを求めてください。** | [プライバシー管理](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/privacy-management.html?lang=ja){target="_blank"} |
 
 >[!TAB スマートキャンペーン]
 
@@ -168,7 +201,7 @@ ht-degree: 4%
 | 2 | **送信者名** | ブランドオーナーに確認し、名前が安全に使用できることを確認しましたか？ | **はい：** <br>はい付きで回答できない場合は、先に進む前に確認する必要があります。 | [電子メールヘッダーを編集](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.html?lang=ja){target="_blank"}<br><br>[電子メールからのデフォルトとラベルからのデフォルトの変更](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.html?lang=ja){target="_blank"} |
 | 3 | **返信先アドレス** | ブランドオーナーに確認し、安全に使用できることを確認しましたか？ | **はい：** <br> 「はい」で回答できない場合は、先に進む前に確認する必要があります。 | [メールヘッダーの編集](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.html?lang=ja){target="_blank"} |
 | 4 | **プリヘッダー設定** | ベストプラクティス（min）に従ってプリヘッダーを設定していますか？ 80文字、全文、フロントロード（貴重なビット）? | **はい：** <br><br>はい付きで回答できない場合は、先に進む前に更新する必要があります。 | [メール設定](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.html?lang=ja){target="_blank"} |
-| 5 | **プルーフをコピー** | スペルや文法の問題はありますか？<br>ブランドトーンは自社に適しているか？ | **はい：** <br>はい付きで回答できない場合は、先に進む前に修正する必要があります。 |  |
+| 5 | **プルーフをコピー** | スペルや文法の問題はありますか？ <br> トーンはブランドに適していますか？ | **はい：** <br>はい付きで回答できない場合は、先に進む前に修正する必要があります。 |  |
 | 6 | **スキャン可能性** | このメールの重要な情報をスキャンで理解できますか？ | **はい、または該当しません：** <br>電子メールのベストプラクティスでは、電子メールの主要メッセージをスキャンで確実に理解することが重要であることを示しています。 この方法を適用しないことを選択した場合、メールのパフォーマンスに影響を与える可能性があることに注意してください。 |  |
 | 7 | **配信停止** | そのメールには、テストした登録解除リンクが含まれていますか？ | **はい、または該当しません：**<br>&#x200B;該当しない電子メールは、[operational](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.html?lang=ja){target="_blank"}の場合にのみ有効である必要があります。 登録解除は必要ないと確信してください。疑わしい場合は、その旨を記載した方が安全です。 | [登録解除について](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html?lang=ja){target="_blank"} |
 | 8 | **テキストバージョン** | <li>メールのテキストバージョンを作成しましたか？ <li>テキスト版のテストを自分に送信しましたか？ | **はい：**<br> 「はい」で回答できない場合は、続行する前にテストする必要があります。 |  |
@@ -185,7 +218,7 @@ ht-degree: 4%
 | 19 | **A/B テストとチャンプ/チャレンジャーテスト** | 電子メールでチャンピオン/チャレンジャーテストを実施していますか？ | **はい/いいえ：**<br> テストを実施していない場合は、オーディエンスの詳細を確認する機会を逃している可能性があるかどうかを考えます。 | [A/B テストの作成](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=ja)<br><br>[電子メールチャンピオン/チャレンジャーの追加](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.html?lang=ja){target="_blank"} |
 | 20 | **クライアントテスト** | クライアントテストソフトウェアでメールを実行しましたか？<li>主要なメールクライアントのディスプレイに関する問題を特定しましたか？ <li>緊急でないテンプレートの修正として修正またはログに記録していますか？ <li>読み込み速度の問題を特定し、改善しようとしましたか？<li>件名/プレビュー行の問題を特定しましたか？ 解決したか？ | **はい、または該当しません：**<br> 「はい」で回答できない場合（テストソフトウェアがない場合を除く）、送信する前に行う必要があります。 | クライアントテストソフトウェアの例としては、LitmusまたはEmail on Acidまたは[Marketo Email Deliverability Power Pack](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.html?lang=ja)<br><br>[受信トレイのトラッカーチュートリアル &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.html?lang=ja){target="_blank"}があります |
 | 21 | **スパムテスト** | スパムメールを送信したことがありますか？<li>認識のために掲げられた旗をブロックリストに加えるする旗はありますか？<li>受信トレイの配置/メールクライアントフラグを特定しましたか？ <li>潜在的な原因を探し、解決しようとしましたか？ | **はい、または該当しません：**<br>&#x200B;はい（テストソフトウェアがない場合を除く）で回答できない場合は、送信前に行う必要があります。 | 契約に含まれている場合、またはLitmusやEmail on Acidなどのツールがある場合は、[Marketoの受信トレイ トラッカー機能](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.html?lang=ja){target="_blank"}を使用してください。 |
-| 22 | **追加の分析** | そのメールには追加の分析コードが含まれていますか？ | **はい、または該当しません：**<br>       はい（追加の分析ソフトウェアがない場合を除く）で回答できない場合は、送信前に行う必要があります。 |  |
+| 22 | **追加の分析** | そのメールには追加の分析コードが含まれていますか？ | **はい、または該当しません：**<br> 「はい」で回答できない場合（追加の分析ソフトウェアがない場合を除く）、送信する前に行う必要があります。 |  |
 
 >[!TAB 最終チェック ]
 
@@ -204,13 +237,13 @@ ht-degree: 4%
 
 ### 制作者
 
-**グレース ブレブナー**
+**グレース・ブレブナー**
 Marketoチャンピオン（2021年）
 *Merkle Company、APAC Region, Digital Pi, LLC、クライアント戦略担当ディレクター*
 
 ![&#x200B; グレース ブレブナー](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Grace_Brebner.png){width=30%}
 
 **Amy Chiu**
-*Adoption &amp; Retention Marketing Manager、Adobe*
+*アダプション&amp;リテンションマーケティングマネージャー、Adobe*
 
 ![Amy Chiu](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
