@@ -55,4 +55,4 @@ ht-degree: 17%
 
 このチュートリアルでは、管理者、マーケティングアクティビティ、デザインスタジオ、データベースなど、Marketo Engage内の最も重要なセクションについて説明し、その過程で監査と最適化を行うためのヒントを提供します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453023/?captions=jpn&learn=on)
