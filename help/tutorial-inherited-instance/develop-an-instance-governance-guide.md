@@ -5,14 +5,20 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
 index: true
 exl-id: 4313b54a-1848-4684-b037-7a7795dd01ec
-source-git-commit: 66ace67a9f5e1df875a56124676842372c93589b
+TQID: https://experienceleague.adobe.com/t1TtyyanSwdY8cE3hEkLLOqIW2GpEvFUS1I4LGpUnKM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
 workflow-type: tm+mt
-source-wordcount: '959'
+source-wordcount: 959
 ht-degree: 1%
 
 ---
@@ -29,7 +35,7 @@ ht-degree: 1%
 
 1. 拡張可能な方法で、社内ユーザーをより簡単にトレーニング。
 2. [!DNL Marketo Engage]でより効率的に長期的に構築します。
-3. 電子メールを掘り下げる時間を節約するために、インスタンスの健全性と健全性を今後も維持します。コンテキストを取得するために、[監査証跡](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html?lang=ja)、[&#x200B; アクティビティログ &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html?lang=ja)。
+3. 電子メールを掘り下げる時間を節約するために、インスタンスの健全性と健全性を今後も維持します。コンテキストを取得するために、[監査証跡](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html)、[ アクティビティログ ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html)。
 4. チームが離職した場合、[!DNL Marketo Engage]知識を新しい[!DNL Marketo Engage]管理者に転送する際の時間を節約します。
 
 ## [!DNL Marketo Engage] ガバナンスガイド 101
@@ -51,7 +57,7 @@ ht-degree: 1%
 
 ### 手順2: [!DNL Marketo Engage] ドキュメントに含める要素を特定し、[!DNL Changelogs]
 
-形式は、クラウドベースのプラットフォームと共有ドキュメントで異なります。 自社のニーズに合ったフォーマットを設計できます。[ここでは、簡単なドキュメントとchangelog Excel テンプレート &#x200B;](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)を使用して開始できる重要な要素について説明します。 これには、以下が含まれます。
+形式は、クラウドベースのプラットフォームと共有ドキュメントで異なります。 自社のニーズに合ったフォーマットを設計できます。 [簡単なドキュメントと変更履歴のExcel テンプレート ](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)が用意されています。ここでは、最初に使用できる重要な要素について説明します。 これには、以下が含まれます。
 
 * ドキュメント
    * プログラムテンプレート名
@@ -93,11 +99,11 @@ ht-degree: 1%
 
 ## 次のステップ？
 
-この[&#x200B; シンプルなテンプレート &#x200B;](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)をダウンロードして開始します。
+この[ シンプルなテンプレート ](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)をダウンロードして開始します。
 
 上記の手順に従って、ガバナンスガイドとドキュメントを作成します。 プロセスを進める際には、次の経験則を考慮してください。
 
-**既存のドキュメントを更新します：**
+**既存のドキュメントを更新します。**
 ドキュメントを最新の状態に保つことが重要です。 過去3年間変更されていない場合は、インスタンスを監査する際に、ドキュメントを修正する時間を確保します。
 
 **共有とトレーニング：**
@@ -110,12 +116,12 @@ Marketo Engageインスタンスの包括的なドキュメントと最新のド
 ### 制作者
 
 **Nick Hajdin**
-[!DNL Adobe Marketo Champion] （2018）
+[!DNL Adobe Marketo Champion] (2018)
 *[!DNL Digital Technology Senior Manager at Accenture]*
 
 ![Nick Hajdin](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Nicholas_Hajdin.png){width="30%"}
 
 **Amy Chiu**
-*Adoption &amp; Retention Marketing Manager、Adobe*
+*アダプション&amp;リテンションマーケティングマネージャー、Adobe*
 
 ![Amy Chiu](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}

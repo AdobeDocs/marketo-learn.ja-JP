@@ -5,27 +5,33 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-13877
 thumbnail: KT-13877.jpeg
 index: true
 exl-id: 0964ca8e-6b8f-413f-a0ea-76ffabd49c39
-source-git-commit: 66ace67a9f5e1df875a56124676842372c93589b
+TQID: https://experienceleague.adobe.com/fE5i06izcS16LHY5dMbVxWcxV-ObDnw8k-7pCnqIR2s
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
 workflow-type: tm+mt
-source-wordcount: '605'
+source-wordcount: 605
 ht-degree: 1%
 
 ---
 
 # 視覚的なデータフロー図を作成して、マーケティングテクノロジースタックを把握する
 
-何年も前から稼働している[!DNL Marketo Engage] インスタンスを引き継ぐ管理者として、インスタンスを効率的に監査して整頓することは不可能な使命です。 Adobe [!DNL Marketo Champion] （2019）のKelly Jo Horton氏は、長年の実績を持つインスタンスに足を踏み入れたとき、データの世界に慣れるために、[&#x200B; リードとデータソース&quot;](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"}の図を作成することでこの課題に取り組みました。 このチュートリアルでは、Kelly Jo Hortonが共有した例を基に、独自のデータフロー図を作成する方法を説明します。 マーテクエコシステムの実際を知る！
+何年も前から稼働している[!DNL Marketo Engage] インスタンスを引き継ぐ管理者として、インスタンスを効率的に監査して整頓することは不可能な使命です。 Adobe [!DNL Marketo Champion] （2019）のKelly Jo Horton氏は、長年の実績を持つインスタンスに足を踏み入れたとき、データの世界に慣れるために、[ リードとデータソース&quot;](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"}の図を作成することでこの課題に取り組みました。 このチュートリアルでは、Kelly Jo Hortonが共有した例を基に、独自のデータフロー図を作成する方法を説明します。 マーテクエコシステムの実際を知る！
 
 ## 継承したインスタンスのアーキテクチャ図を作成する理由
 
 1. **ライブインスタンスから継承したマーケティングテクノロジースタックを理解します。** すべてのマーケティングオペレーションマネージャー/プラットフォームオペレーションマネージャーは、新しい会社を始める際にこの演習を行うことが推奨されます。 この作成プロセスにより、管理者ユーザーは、外部統合から[!DNL Marketo Engage]に送信されたデータとアクティビティの全体像を確認し、API エラーを簡単にトラブルシューティングできます。
 2. **外部統合を管理する主要な関係者を理解します。** Kelly Jo Hortonが関係者をすばやく特定するために使用するヒントは、API ユーザーリストを参照することです。
-   1. **管理者セクションの「統合>LaunchPoint」タブに移動します。** 「LaunchPoint」タブに移動する方法の詳細：[REST APIで使用するカスタムサービスを作成](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html?lang=ja){target="_blank"}。
+   1. **管理者セクションの「統合>LaunchPoint」タブに移動します。** 「LaunchPoint」タブに移動する方法の詳細：[REST APIで使用するカスタムサービスを作成](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html){target="_blank"}。
    2. API呼び出し情報セクションの統合/Web サービス タブで、API ユーザーによるAPI使用統計を検索します。 API呼び出し番号をクリックすると、各ユーザーが行った特定の個々の呼び出しを表示できます。
 
 ## この視覚的なデータフロー図の作成方法
@@ -47,12 +53,12 @@ ht-degree: 1%
 
 各統合のAPI ユーザー名、プッシュ先[!DNL Marketo Engage]または[!DNL Marketo Engage]から取得するデータのタイプの簡単な説明、ミドルウェアフローとトリガーの詳細な図などの詳細を示すテクニカルバージョンを作成します。次に例を示します。
 
-![技術バージョン &#x200B;](/help/tutorial-inherited-instance/_assets/data-flow-diagram/Lead-Data-Source-Diagram-KellyJo-Horton.png){align="center"}
+![技術バージョン ](/help/tutorial-inherited-instance/_assets/data-flow-diagram/Lead-Data-Source-Diagram-KellyJo-Horton.png){align="center"}
 
 
 ## 次のステップ？
 
-**例の基本を学ぶ：**
+**例を使用する：**
 サンプルデータフロー図のいずれかをダウンロードして、マーケティングテクノロジースタックの現在の状態、個人とデータフローをマッピングしたり、インスタンスを監査する際にデータ宇宙の図をゼロから作成したりします。
 
 
@@ -127,9 +133,9 @@ ht-degree: 1%
 Marketoチャンピオン（2019年）
 *Etumosのシニアクライアントパートナー*
 
-![&#x200B; ケリー・ジョー・ホートン &#x200B;](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Kelly_Jo_Horton.png){width="30%"}
+![ ケリー・ジョー・ホートン ](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Kelly_Jo_Horton.png){width="30%"}
 
 **Amy Chiu**
-*Adoption &amp; Retention Marketing Manager、Adobe*
+*アダプション&amp;リテンションマーケティングマネージャー、Adobe*
 
 ![Amy Chiu](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
