@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Marketoでパーソナライズされたニュースレターメールプログラムを作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3410447/?captions=jpn&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345470/?quality=12&learn=on){transcript=true}

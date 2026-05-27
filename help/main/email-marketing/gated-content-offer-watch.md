@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Marketoでゲーテッドコンテンツメールプログラムを設定および追跡する方法をご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3410453/?captions=jpn&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345465/?quality=12&learn=on){transcript=true}

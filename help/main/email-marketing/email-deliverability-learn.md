@@ -18,4 +18,4 @@ ht-degree: 0%
 
 電子メールを登録者の受信トレイに届けなければ、マーケティングメッセージが目標を達成することはできません。 メールを読みたい購読者にメールを正常に配信する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409788/?captions=jpn&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345481/?quality=12&learn=on){transcript=true}

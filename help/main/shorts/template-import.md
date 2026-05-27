@@ -20,4 +20,4 @@ ht-degree: 8%
 
 既存のメールテンプレートをクラシックエディターからメールDesignerに読み込み、デザインを保持し、テンプレート作成を高速化する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483491/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483490/?learn=on&enablevpops)

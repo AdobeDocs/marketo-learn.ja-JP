@@ -18,10 +18,10 @@ ht-degree: 2%
 
 スケジュールされたメールプログラムを作成、管理、追跡する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3410451/?captions=jpn&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345467/?quality=12&learn=on){transcript=true}
 
 ## その他のリソース
 
 メールプログラムについて詳しくは、製品ガイドを参照してください。
 
-* [メールプログラムのドキュメント](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=ja)
+* [メールプログラムのドキュメント](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)

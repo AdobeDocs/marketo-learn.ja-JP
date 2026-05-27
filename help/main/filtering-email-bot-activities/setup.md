@@ -18,4 +18,4 @@ ht-degree: 0%
 
 ボットによるメールアクティビティの識別を有効にするためのガイドと、ボットを除くキャンペーンをフィルタリングして作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445113/?captions=jpn&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/341158/?quality=12&learn=on){transcript=true}

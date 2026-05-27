@@ -18,4 +18,4 @@ ht-degree: 0%
 
 メールマーケティングに参加して、顧客と個人としてエンゲージする準備を整えましょう。 オーディエンスに最適なメッセージを配信し、電子メール施策のROIを測定する方法を解説します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3410452/?captions=jpn&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345466/?quality=12&learn=on){transcript=true}

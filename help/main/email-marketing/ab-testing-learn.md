@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Marketoに組み込まれたA/B テスト機能を利用すれば、件名、曜日、時間帯、「差出人」アドレスなどをテストし、データにもとづく意思決定を下し、メールの効果を向上できます。 Marketoの電子メールのA/B テストを利用して、電子メールのパフォーマンスを向上させる方法を解説します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409786/?captions=jpn&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345483/?quality=12&learn=on){transcript=true}
