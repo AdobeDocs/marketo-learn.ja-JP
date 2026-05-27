@@ -20,4 +20,4 @@ ht-degree: 100%
 
 スマートキャンペーンは Marketo Engage のエンジンです。 メールやプログラムなどの送信に使用できます。 Marketo のこれらの基本的なツールのすべてについて学習します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470546/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470561/?captions=jpn&learn=on&enablevpops)

@@ -18,7 +18,7 @@ ht-degree: 2%
 
 スケジュールされたメールプログラムを作成、管理、追跡する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345467/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3410451/?captions=jpn&quality=12&learn=on){transcript=true}
 
 ## その他のリソース
 
