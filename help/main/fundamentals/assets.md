@@ -19,4 +19,4 @@ ht-degree: 4%
 
 Assets（例：メール、ランディングページ） Marketo Engageのマーケティングキャンペーンで使用されるコンポーネントです。 詳細をご確認ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470584/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470558/?learn=on&enablevpops)
