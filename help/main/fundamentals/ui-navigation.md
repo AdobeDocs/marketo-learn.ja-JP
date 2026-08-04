@@ -20,11 +20,11 @@ ht-degree: 1%
 
 Marketo Engageのユーザーインターフェイスを操作し、使い方に慣れる方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3450674/?captions=jpn&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3419131/?learn=on){transcript=true}
 
 ## その他のリソース
 
-* [Marketo Engage用語集](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=ja)
+* [Marketo Engage用語集](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=en)
 Marketoを使用する際に発生する可能性のある多くの用語の定義。
-* [&#x200B; アイコン用語集](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=ja)
+* [ アイコン用語集](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=en)
 Marketo Engage インターフェイスのアイコンの用語集。

@@ -1,5 +1,5 @@
 ---
-title: 重複レコードが必要なタイミングの決定
+title: 重複レコードが必要なタイミングを判断する
 description: 複数人の世帯やコンプライアンスのニーズなど、重複が目的であるシナリオと、それらを効果的に管理する方法をご確認ください。
 role: Admin
 level: Intermediate, Experienced
