@@ -19,4 +19,4 @@ ht-degree: 23%
 
 複数人の世帯やコンプライアンスのニーズなど、重複が目的であるシナリオと、それらを効果的に管理する方法をご確認ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3441949/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3442046/?captions=jpn&learn=on&enablevpops)

@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Marketo Engageデータベースにおける重複レコードの管理の基本概念、ワークフローへの影響、クリーンなデータを維持するための4つの方法について説明します。 データベースをクリーンで健全に保つ方法について、各ビデオクリップをご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3441776/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441951/?captions=jpn&learn=on&enablevpops)
