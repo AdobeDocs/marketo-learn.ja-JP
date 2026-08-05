@@ -19,4 +19,4 @@ ht-degree: 0%
 
 重複部分の一括結合の処理のシナリオと背後にある根拠について詳しく説明します。 効率的なデータのクリーンアップと統合のために、重複するレコードをExcelにエクスポートすることで、一括結合を開始します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429473/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439226/?captions=jpn&learn=on&enablevpops)
