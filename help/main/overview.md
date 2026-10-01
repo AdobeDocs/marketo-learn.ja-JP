@@ -1,15 +1,13 @@
 ---
 title: Marketo Engage チュートリアル
-description: ' [!DNL Marketo Engage] のビデオチュートリアルをご覧ください。 マーケティングオートメーション機能の使用方法などに関する理解を深めましょう。'
+description: '[!DNL Marketo Engage]のチュートリアル動画を見る。 マーケティングオートメーション機能の使用方法などに関する理解を深めましょう。'
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: ecf4ce8d2f81b04c2eb95ef0d580b0987d71f893
+source-git-commit: 84f64797a27c9afe3035478a5d88c3c4dd6ddc9b
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 71%
-
+source-wordcount: '217'
+ht-degree: 69%
 ---
-
 # [!DNL Marketo Engage] チュートリアル
 
 チュートリアルライブラリを参照して、[!DNL Marketo Engage] を最大限に活用してください。 これらのチュートリアルは、[[!DNL Marketo]  製品のドキュメント](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ja){target="_blank"}を補足し、マーケティングオートメーション機能の理解を深めるのに役立ちます。
@@ -25,11 +23,11 @@ ht-degree: 71%
 
 ## 最新情報 {#whats-new}
 
+* [Adobe Experience Cloud上のMarketo Engage](/help/main/fundamentals/marketo-engage-aec.md)
+  _Adobe Experience CloudからMarketo Engageにアクセスする方法と、インターフェイスのクイックツアーをご覧ください。_
+
 * [&#x200B; テンプレートの読み込み](/help/main/shorts/template-import.md)
   _既存の電子メールテンプレートをクラシックエディターから電子メールDesignerに読み込み、デザインを保持し、テンプレート作成を高速化する方法を説明します。_
-
-* [電子メール Designer用AI アシスタント](/help/main/shorts/ai-assistant-email-designer.md)
-  _Marketo Engage メール DesignerのAI アシスタントを使用して、現代的でパフォーマンスの高い、直感的なメールを作成できます。_
 
 * [条件付きコンテンツ](/help/main/shorts/conditional-content.md)
   _どのオーディエンスに表示されるコンテンツを動的に制御する方法を説明します。_
