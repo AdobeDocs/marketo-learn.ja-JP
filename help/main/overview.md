@@ -23,13 +23,13 @@ ht-degree: 68%
 
 ## 最新情報 {#whats-new}
 
-* [ メール Designerの概要](/help/main/email-marketing/email-designer-overview.md)
+* [&#x200B; メール Designerの概要](/help/main/email-marketing/email-designer-overview.md)
   _Marketo Engage電子メールDesignerで利用できる多くの機能について説明します。_
 
 * [Adobe Experience Cloud上のMarketo Engage](/help/main/fundamentals/marketo-engage-aec.md)
   _Adobe Experience CloudからMarketo Engageにアクセスする方法と、インターフェイスのクイックツアーをご覧ください。_
 
-* [ テンプレートの読み込み](/help/main/shorts/template-import.md)
+* [&#x200B; テンプレートの読み込み](/help/main/shorts/template-import.md)
   _既存の電子メールテンプレートをクラシックエディターから電子メールDesignerに読み込み、デザインを保持し、テンプレート作成を高速化する方法を説明します。_
 
 ## 一番人気のビデオ {#most-popular-videos}
