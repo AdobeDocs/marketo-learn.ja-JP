@@ -31,4 +31,4 @@ Sales Insight Actions アクティビティを設定して[!DNL Salesforce] ア�
 ## 関連動画
 
 * [Sales Insightのアクションの概要](/help/main/sales-insight-actions/sales-insight-actions-overview.md){target="_blank"}
-* [ [!DNL Sales Insight Actions]  インスタンスへのアクセス](/help/main/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}
+* [&#x200B; [!DNL Sales Insight Actions]  インスタンスへのアクセス](/help/main/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}
