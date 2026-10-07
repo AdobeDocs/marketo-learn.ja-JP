@@ -36,4 +36,4 @@ Marketoで事前に構築されたプログラムに基づいて、展示会イ�
 
 イベントプログラムの作成方法について詳しくは、製品ガイドを参照してください。
 
-* [新しいイベントプログラムドキュメントの作成](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.html?lang=en)
+* [新しいイベントプログラムドキュメントの作成](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.html?lang=ja)
