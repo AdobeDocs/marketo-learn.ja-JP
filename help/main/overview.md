@@ -3,10 +3,10 @@ title: Marketo Engage チュートリアル
 description: '[!DNL Marketo Engage]のチュートリアル動画を見る。 マーケティングオートメーション機能の使用方法などに関する理解を深めましょう。'
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: 84f64797a27c9afe3035478a5d88c3c4dd6ddc9b
+source-git-commit: d448a04a177ddb861cc29e55914e0045437a734f
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 69%
+source-wordcount: '218'
+ht-degree: 68%
 ---
 # [!DNL Marketo Engage] チュートリアル
 
@@ -23,14 +23,14 @@ ht-degree: 69%
 
 ## 最新情報 {#whats-new}
 
+* [&#x200B; メール Designerの概要](/help/main/email-marketing/email-designer-overview.md)
+  _Marketo Engage電子メールDesignerで利用できる多くの機能について説明します。_
+
 * [Adobe Experience Cloud上のMarketo Engage](/help/main/fundamentals/marketo-engage-aec.md)
   _Adobe Experience CloudからMarketo Engageにアクセスする方法と、インターフェイスのクイックツアーをご覧ください。_
 
 * [&#x200B; テンプレートの読み込み](/help/main/shorts/template-import.md)
   _既存の電子メールテンプレートをクラシックエディターから電子メールDesignerに読み込み、デザインを保持し、テンプレート作成を高速化する方法を説明します。_
-
-* [条件付きコンテンツ](/help/main/shorts/conditional-content.md)
-  _どのオーディエンスに表示されるコンテンツを動的に制御する方法を説明します。_
 
 ## 一番人気のビデオ {#most-popular-videos}
 
