@@ -31,4 +31,4 @@ ht-degree: 100%
 
 エンゲージメントマップでキャンペーン速度を向上させる方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422232/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423307/?captions=jpn&learn=on){transcript=true}
