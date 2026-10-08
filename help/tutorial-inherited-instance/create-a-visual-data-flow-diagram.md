@@ -10,26 +10,33 @@ jira: KT-13877
 thumbnail: KT-13877.jpeg
 index: true
 exl-id: 0964ca8e-6b8f-413f-a0ea-76ffabd49c39
-TQID: https://experienceleague.adobe.com/fE5i06izcS16LHY5dMbVxWcxV-ObDnw8k-7pCnqIR2s
+TQID: 'https://experienceleague.adobe.com/fE5i06izcS16LHY5dMbVxWcxV-ObDnw8k-7pCnqIR2s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
+    internal-label: Administration
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
-source-wordcount: 605
+source-wordcount: '633'
 ht-degree: 1%
-
 ---
-
 # 視覚的なデータフロー図を作成して、マーケティングテクノロジースタックを把握する
 
 何年も前から稼働している[!DNL Marketo Engage] インスタンスを引き継ぐ管理者として、インスタンスを効率的に監査して整頓することは不可能な使命です。 Adobe [!DNL Marketo Champion] （2019）のKelly Jo Horton氏は、長年の実績を持つインスタンスに足を踏み入れたとき、データの世界に慣れるために、[&#x200B; リードとデータソース&quot;](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"}の図を作成することでこの課題に取り組みました。 このチュートリアルでは、Kelly Jo Hortonが共有した例を基に、独自のデータフロー図を作成する方法を説明します。 マーテクエコシステムの実際を知る！
